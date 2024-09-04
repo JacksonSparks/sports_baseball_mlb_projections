@@ -1,0 +1,2084 @@
+Date,Away Team,Home Team,Away Team Runs,Home Team Runs,Away Pitcher,Home Pitcher,Away Pitcher I,Home Pitcher I,Away Pitcher ER,Home Pitcher ER,Away Throw,Home Throw,Away ERA,Home ERA
+20240328,Angels,Orioles,1,2,Patrick Sandoval,Corbin Burnes,1,1,2,1,Left,Right,5.08,2.38
+20240328,Tigers,White Sox,0,0,Tarik Skubal,Garrett Crochet,1,1,0,0,Left,Left,2.34,3.02
+20240328,Twins,Royals,1,1,Pablo Lopez,Cole Ragans,1,1,1,1,Right,Left,4.86,3.16
+20240328,Yankees,Astros,0,3,Nestor Cortes,Framber Valdez,1,1,3,0,Left,Left,3.99,3.63
+20240328,Pirates,Marlins,0,0,Mitch Keller,Jesus Luzardo,1,1,0,0,Right,Left,3.34,5.00
+20240328,Giants,Padres,0,0,Logan Webb,Yu Darvish,1,1,0,0,Right,Right,3.59,3.20
+20240328,Cardinals,Dodgers,0,2,Miles Mikolas,Tyler Glasnow,1,1,2,0,Right,Right,5.02,3.47
+20240328,Blue Jays,Rays,0,1,Jose Berrios,Zach Eflin,1,1,1,0,Right,Right,4.01,4.14
+20240328,Nationals,Reds,0,0,Josiah Gray,Frankie Montas,1,1,0,0,Right,Right,14.04,4.85
+20240328,Cubs,Rangers,0,0,Justin Steele,Nathan Eovaldi,1,1,0,0,Left,Right,3.07,3.36
+20240328,Guardians,Athletics,0,0,Shane Bieber,Alex Wood,1,1,0,0,Right,Left,0.00,5.26
+20240328,Red Sox,Mariners,0,0,Brayan Bello,Luis Castillo,1,1,0,0,Right,Right,5.27,3.55
+20240328,Rockies,Diamondbacks,0,2,Kyle Freeland,Zac Gallen,1,1,2,0,Left,Right,5.63,3.64
+20240329,Brewers,Mets,0,0,Freddy Peralta,Jose Quintana,1,1,0,0,Right,Left,3.88,4.13
+20240329,Braves,Phillies,0,0,Spencer Strider,Zack Wheeler,1,1,0,0,Right,Right,7.00,2.70
+20240329,Blue Jays,Rays,0,0,Chris Bassitt,Aaron Civale,1,1,0,0,Right,Right,3.71,5.17
+20240329,Pirates,Marlins,0,0,Martin Perez,AJ Puk,1,1,0,0,Left,Left,5.61,4.50
+20240329,Yankees,Astros,0,1,Carlos Rodon,Cristian Javier,1,1,1,0,Left,Right,4.42,3.89
+20240329,Red Sox,Mariners,0,0,Nick Pivetta,George Kirby,1,1,0,0,Right,Right,3.87,3.20
+20240329,Guardians,Athletics,3,0,Logan Allen,Ross Stripling,1,1,0,3,Left,Right,5.67,5.82
+20240329,Rockies,Diamondbacks,0,2,Cal Quantrill,Merrill Kelly,1,1,2,0,Right,Right,4.15,2.19
+20240329,Giants,Padres,3,0,Kyle Harrison,Joe Musgrove,1,1,0,3,Left,Right,3.86,5.66
+20240329,Cardinals,Dodgers,0,1,Zack Thompson,Bobby Miller,1,1,1,0,Left,Right,9.53,8.07
+20240330,Brewers,Mets,3,0,DL Hall,Luis Severino,1,1,0,3,Left,Right,7.71,3.58
+20240330,Tigers,White Sox,3,2,Kenta Maeda,Michael Soroka,1,1,2,3,Right,Right,7.07,5.23
+20240330,Angels,Orioles,0,2,Griffin Canning,Grayson Rodriguez,1,1,2,0,Right,Right,5.20,3.83
+20240330,Braves,Phillies,2,3,Max Fried,Aaron Nola,0.2,1,3,2,Left,Right,3.08,3.54
+20240330,Guardians,Athletics,0,0,Tanner Bibee,JP Sears,1,1,0,0,Right,Left,3.58,4.49
+20240330,Twins,Royals,0,0,Joe Ryan,Seth Lugo,1,1,0,0,Right,Right,3.65,2.38
+20240330,Pirates,Marlins,0,0,Jared Jones,Ryan Weathers,1,1,0,0,Right,Left,3.56,3.55
+20240330,Blue Jays,Rays,0,0,Yusei Kikuchi,Zack Littell,1,1,0,0,Left,Right,4.54,4.46
+20240330,Nationals,Reds,0,0,Patrick Corbin,Hunter Greene,1,1,0,0,Left,Right,5.35,3.34
+20240330,Cubs,Rangers,0,0,Kyle Hendricks,Cody Bradford,1,1,0,0,Right,Left,6.69,1.40
+20240330,Yankees,Astros,0,0,Marcus Stroman,Hunter Brown,1,1,0,0,Right,Right,3.51,4.14
+20240330,Giants,Padres,0,0,Jordan Hicks,Dylan Cease,1,1,0,0,Right,Right,3.79,3.76
+20240330,Rockies,Diamondbacks,0,2,Austin Gomber,Tommy Henry,1,1,2,0,Left,Left,4.61,7.04
+20240330,Cardinals,Dodgers,0,0,Lance Lynn,Yoshinobu Yamamoto,1,1,0,0,Right,Right,4.39,2.92
+20240330,Red Sox,Mariners,0,1,Kutter Crawford,Logan Gilbert,1,1,1,0,Right,Right,3.37,2.79
+20240331,Angels,Orioles,2,0,Reid Detmers,Tyler Wells,1,1,0,2,Left,Right,6.14,5.87
+20240331,Braves,Phillies,2,1,Chris Sale,Ranger Suarez,1,1,1,2,Left,Left,2.70,2.76
+20240331,Brewers,Mets,1,0,Colin Rea,Tylor Megill,1,1,0,1,Right,Right,3.77,5.08
+20240331,Pirates,Marlins,0,5,Bailey Falter,Trevor Rogers,1,1,5,0,Left,Left,4.08,4.59
+20240331,Blue Jays,Rays,2,1,Kevin Gausman,Shawn Armstrong,1,1,1,2,Right,Right,4.55,5.91
+20240331,Nationals,Reds,0,0,Jake Irvin,Nick Martinez,1,1,0,0,Right,Right,3.44,3.88
+20240331,Tigers,White Sox,0,0,Jack Flaherty,Erick Fedde,1,1,0,0,Right,Right,3.13,2.99
+20240331,Twins,Royals,0,3,Bailey Ober,Brady Singer,1,1,3,0,Right,Right,4.14,3.00
+20240331,Yankees,Astros,0,0,Clarke Schmidt,JP France,1,1,0,0,Right,Right,2.52,7.46
+20240331,Cubs,Rangers,3,0,Jordan Wicks,Jon Gray,1,1,0,3,Left,Right,4.18,3.96
+20240331,Guardians,Athletics,0,2,Carlos Carrasco,Paul Blackburn,1,1,2,0,Right,Right,5.32,4.11
+20240331,Red Sox,Mariners,0,0,Garrett Whitlock,Bryce Miller,1,1,0,0,Right,Right,1.96,3.63
+20240331,Rockies,Diamondbacks,0,3,Ryan Feltner,Brandon Pfaadt,1,1,3,0,Right,Right,5.19,3.74
+20240331,Giants,Padres,0,5,Daulton Jefferies,Michael King,1,1,5,0,Right,Right,9.82,3.28
+20240331,Cardinals,Dodgers,0,0,Steven Matz,Gavin Stone,1,1,0,0,Left,Right,6.18,3.19
+20240401,Braves,White Sox,0,0,Charlie Morton,Chris Flexen,1,1,0,0,Right,Right,3.92,5.22
+20240401,Rockies,Cubs,0,0,Dakota Hudson,Shota Imanaga,1,1,0,0,Right,Left,5.84,2.86
+20240401,Pirates,Nationals,0,0,Marco Gonzales,MacKenzie Gore,1,1,0,0,Left,Left,2.70,4.20
+20240401,Royals,Orioles,0,0,Michael Wacha,Dean Kremer,1,1,0,0,Right,Right,3.55,4.43
+20240401,Angels,Marlins,0,4,Chase Silseth,Max Meyer,1,1,4,0,Right,Right,6.75,2.12
+20240401,Reds,Phillies,0,2,Andrew Abbott,Cristopher Sanchez,1,1,2,0,Left,Left,3.19,2.97
+20240401,Rangers,Rays,3,0,Dane Dunning,Ryan Pepiot,1,1,0,3,Right,Right,4.71,3.92
+20240401,Tigers,Mets,0,0,Reese Olson,Sean Manaea,1,1,0,0,Right,Left,3.23,3.73
+20240401,Blue Jays,Astros,0,3,Bowden Francis,Ronel Blanco,1,1,3,0,Right,Right,5.82,2.75
+20240401,Red Sox,Athletics,1,0,Tanner Houck,Joe Boyle,1,1,0,1,Right,Right,2.54,7.16
+20240401,Guardians,Mariners,0,0,Triston McKenzie,Emerson Hancock,1,1,0,0,Right,Right,5.11,4.76
+20240401,Yankees,Diamondbacks,0,0,Luis Gil,Ryne Nelson,1,1,0,0,Right,Right,3.17,4.78
+20240401,Cardinals,Padres,3,0,Kyle Gibson,Matt Waldron,1,1,0,3,Right,Right,3.99,3.59
+20240401,Giants,Dodgers,0,1,Keaton Winn,James Paxton,1,1,1,0,Right,Left,7.16,4.43
+20240402,Twins,Brewers,0,0,Louie Varland,Jakob Junis,1,1,0,0,Right,Right,6.58,3.00
+20240402,Royals,Orioles,0,0,Alec Marsh,Cole Irvin,1,1,0,0,Right,Left,4.52,4.67
+20240402,Angels,Marlins,0,0,Tyler Anderson,Jesus Luzardo,1,1,0,0,Left,Left,2.97,5.00
+20240402,Reds,Phillies,0,1,Graham Ashcraft,Spencer Turnbull,1,1,1,0,Right,Right,5.24,2.65
+20240402,Rangers,Rays,0,0,Andrew Heaney,Zach Eflin,1,1,0,0,Left,Right,3.60,4.14
+20240402,Braves,White Sox,0,0,Reynaldo Lopez,Garrett Crochet,1,1,0,0,Right,Left,1.88,3.02
+20240402,Rockies,Cubs,0,2,Kyle Freeland,Javier Assad,1,1,2,0,Left,Right,5.63,3.27
+20240402,Blue Jays,Astros,0,0,Jose Berrios,Framber Valdez,1,1,0,0,Right,Left,4.01,3.63
+20240402,Red Sox,Athletics,1,0,Brayan Bello,Alex Wood,1,1,0,1,Right,Left,5.27,5.26
+20240402,Guardians,Mariners,0,0,Shane Bieber,Luis Castillo,1,1,0,0,Right,Right,0.00,3.55
+20240402,Yankees,Diamondbacks,0,3,Nestor Cortes,Zac Gallen,1,1,3,0,Left,Right,3.99,3.64
+20240402,Cardinals,Padres,0,0,Miles Mikolas,Yu Darvish,1,1,0,0,Right,Right,5.02,3.20
+20240402,Giants,Dodgers,0,1,Logan Webb,Ryan Brasier,1,1,1,0,Right,Right,3.59,4.63
+20240403,Royals,Orioles,1,0,Cole Ragans,Corbin Burnes,1,1,0,1,Left,Right,3.16,2.38
+20240403,Angels,Marlins,2,0,Patrick Sandoval,AJ Puk,1,1,0,2,Left,Left,5.08,4.50
+20240403,Twins,Brewers,0,0,Chris Paddack,Joe Ross,1,1,0,0,Right,Right,4.99,4.50
+20240403,Rangers,Rays,0,0,Nathan Eovaldi,Aaron Civale,1,1,0,0,Right,Right,3.36,5.17
+20240403,Red Sox,Athletics,0,0,Nick Pivetta,Ross Stripling,1,1,0,0,Right,Right,3.87,5.82
+20240403,Yankees,Diamondbacks,0,0,Carlos Rodon,Merrill Kelly,1,1,0,0,Left,Right,4.42,2.19
+20240403,Reds,Phillies,0,0,Frankie Montas,Zack Wheeler,1,1,0,0,Right,Right,4.85,2.70
+20240403,Guardians,Mariners,3,0,Logan Allen,George Kirby,1,1,0,3,Left,Right,5.67,3.20
+20240403,Cardinals,Padres,0,1,Zack Thompson,Joe Musgrove,1,1,1,0,Left,Right,9.53,5.66
+20240403,Pirates,Nationals,0,0,Mitch Keller,Trevor Williams,1,1,0,0,Right,Right,3.34,2.22
+20240403,Rockies,Cubs,0,0,Cal Quantrill,Luke Little,1,1,0,0,Right,Left,4.15,3.46
+20240403,Blue Jays,Astros,0,0,Chris Bassitt,Cristian Javier,1,1,0,0,Right,Right,3.71,3.89
+20240403,Giants,Dodgers,0,0,Kyle Harrison,Tyler Glasnow,1,1,0,0,Left,Right,3.86,3.47
+20240404,Tigers,Mets,0,0,Casey Mize,Adrian Houser,1,1,0,0,Right,Right,4.23,5.80
+20240404,Pirates,Nationals,4,0,Martin Perez,Josiah Gray,1,1,0,4,Left,Right,5.61,14.04
+20240404,Guardians,Twins,0,0,Tanner Bibee,Pablo Lopez,1,1,0,0,Right,Right,3.58,4.86
+20240404,Marlins,Cardinals,0,0,Ryan Weathers,Lance Lynn,1,1,0,0,Left,Right,3.55,4.39
+20240404,Tigers,Mets,0,0,Matt Manning,Jose Butto,1,1,0,0,Right,Right,4.88,2.51
+20240404,White Sox,Royals,0,0,Michael Soroka,Seth Lugo,1,1,0,0,Right,Right,5.23,2.38
+20240405,Blue Jays,Yankees,0,0,Yusei Kikuchi,Marcus Stroman,1,1,0,0,Left,Right,4.54,3.51
+20240405,Athletics,Tigers,0,0,JP Sears,Tarik Skubal,1,1,0,0,Left,Left,4.49,2.34
+20240405,Dodgers,Cubs,2,0,Bobby Miller,Kyle Hendricks,1,1,0,2,Right,Right,8.07,6.69
+20240405,Rays,Rockies,1,1,Zack Littell,Austin Gomber,1,1,1,1,Right,Left,4.46,4.61
+20240405,Orioles,Pirates,0,0,Grayson Rodriguez,Jared Jones,1,1,0,0,Right,Right,3.83,3.56
+20240405,Padres,Giants,1,1,Dylan Cease,Jordan Hicks,1,1,1,1,Right,Right,3.76,3.79
+20240405,Mets,Reds,0,1,Jose Quintana,Hunter Greene,1,1,1,0,Left,Right,4.13,3.34
+20240405,Phillies,Nationals,0,0,Aaron Nola,Patrick Corbin,1,1,0,0,Right,Left,3.54,5.35
+20240405,Diamondbacks,Braves,3,1,Tommy Henry,Spencer Strider,1,1,1,3,Left,Right,7.04,7.00
+20240405,White Sox,Royals,0,1,Erick Fedde,Brady Singer,1,1,1,0,Right,Right,2.99,3.00
+20240405,Astros,Rangers,0,0,Hunter Brown,Cody Bradford,1,1,0,0,Right,Left,4.14,1.40
+20240405,Mariners,Brewers,0,0,Logan Gilbert,Freddy Peralta,1,1,0,0,Right,Right,2.79,3.88
+20240405,Red Sox,Angels,0,0,Kutter Crawford,Griffin Canning,1,1,0,0,Right,Right,3.37,5.20
+20240406,Athletics,Tigers,2,0,Paul Blackburn,Kenta Maeda,1,1,0,2,Right,Right,4.11,7.07
+20240406,Guardians,Twins,0,1,Carlos Carrasco,Joe Ryan,1,1,1,0,Right,Right,5.32,3.65
+20240406,Marlins,Cardinals,0,0,Trevor Rogers,Steven Matz,1,1,0,0,Left,Left,4.59,6.18
+20240406,Orioles,Pirates,0,0,Tyler Wells,Bailey Falter,1,1,0,0,Right,Left,5.87,4.08
+20240406,Dodgers,Cubs,0,0,Yoshinobu Yamamoto,Jordan Wicks,1,1,0,0,Right,Left,2.92,4.18
+20240406,Phillies,Nationals,0,0,Ranger Suarez,Jake Irvin,1,1,0,0,Left,Right,2.76,3.44
+20240406,Mets,Reds,0,0,Luis Severino,Nick Martinez,1,1,0,0,Right,Right,3.58,3.88
+20240406,Astros,Rangers,0,0,JP France,Jon Gray,1,1,0,0,Right,Right,7.46,3.96
+20240406,Blue Jays,Yankees,0,3,Kevin Gausman,Clarke Schmidt,1,1,3,0,Right,Right,4.55,2.52
+20240406,White Sox,Royals,0,0,Chris Flexen,Michael Wacha,1,1,0,0,Right,Right,5.22,3.55
+20240406,Mariners,Brewers,0,0,Bryce Miller,DL Hall,1,1,0,0,Right,Left,3.63,7.71
+20240406,Diamondbacks,Braves,6,0,Brandon Pfaadt,Max Fried,1,1,0,6,Right,Left,3.74,3.08
+20240406,Rays,Rockies,1,0,Tyler Alexander,Ryan Feltner,1,1,0,1,Left,Right,6.19,5.19
+20240406,Padres,Giants,4,0,Michael King,Keaton Winn,1,1,0,4,Right,Right,3.28,7.16
+20240406,Red Sox,Angels,0,0,Garrett Whitlock,Reid Detmers,1,1,0,0,Right,Left,1.96,6.14
+20240407,Diamondbacks,Braves,0,0,Ryne Nelson,Chris Sale,1,1,0,0,Right,Left,4.78,2.70
+20240407,Orioles,Pirates,0,0,Dean Kremer,Marco Gonzales,1,1,0,0,Right,Left,4.43,2.70
+20240407,Phillies,Nationals,0,0,Cristopher Sanchez,MacKenzie Gore,1,1,0,0,Left,Left,2.97,4.20
+20240407,Blue Jays,Yankees,0,0,Bowden Francis,Luis Gil,1,1,0,0,Right,Right,5.82,3.17
+20240407,Mets,Reds,1,0,Sean Manaea,Andrew Abbott,1,1,0,1,Left,Left,3.73,3.19
+20240407,Athletics,Tigers,2,0,Joe Boyle,Jack Flaherty,1,1,0,2,Right,Right,7.16,3.13
+20240407,White Sox,Royals,0,0,Garrett Crochet,Alec Marsh,1,1,0,0,Left,Right,3.02,4.52
+20240407,Mariners,Brewers,1,3,Emerson Hancock,Colin Rea,1,1,3,1,Right,Right,4.76,3.77
+20240407,Marlins,Cardinals,6,0,Max Meyer,Kyle Gibson,1,1,0,6,Right,Right,2.12,3.99
+20240407,Dodgers,Cubs,0,3,Gavin Stone,Shota Imanaga,1,1,3,0,Right,Left,3.19,2.86
+20240407,Rays,Rockies,0,0,Ryan Pepiot,Dakota Hudson,1,1,0,0,Right,Right,3.92,5.84
+20240407,Padres,Giants,1,0,Matt Waldron,Logan Webb,1,1,0,1,Right,Right,3.59,3.59
+20240407,Red Sox,Angels,0,0,Tanner Houck,Chase Silseth,1,1,0,0,Right,Right,2.54,6.75
+20240407,Astros,Rangers,0,0,Ronel Blanco,Dane Dunning,1,1,0,0,Right,Right,2.75,4.71
+20240408,White Sox,Guardians,0,0,Tanner Banks,Triston McKenzie,1,1,0,0,Left,Right,4.23,5.11
+20240408,Marlins,Yankees,0,0,Jesus Luzardo,Nestor Cortes,1,1,0,0,Left,Left,5.00,3.99
+20240408,Tigers,Pirates,1,0,Reese Olson,Mitch Keller,1,1,0,1,Right,Right,3.23,3.34
+20240408,Brewers,Reds,0,0,Aaron Ashby,Graham Ashcraft,1,1,0,0,Left,Right,6.23,5.24
+20240408,Mariners,Blue Jays,0,0,Luis Castillo,Jose Berrios,1,1,0,0,Right,Right,3.55,4.01
+20240408,Mets,Braves,0,0,Julio Teheran,Charlie Morton,1,1,0,0,Right,Right,13.50,3.92
+20240408,Dodgers,Twins,1,0,James Paxton,Bailey Ober,1,1,0,1,Left,Right,4.43,4.14
+20240408,Phillies,Cardinals,0,0,Spencer Turnbull,Miles Mikolas,1,1,0,0,Right,Right,2.65,5.02
+20240408,Astros,Rangers,2,5,Blair Henley,Andrew Heaney,0.1,1,5,2,Right,Left,135.00,3.60
+20240408,Diamondbacks,Rockies,0,1,Zac Gallen,Kyle Freeland,1,1,1,0,Right,Left,3.64,5.63
+20240408,Rays,Angels,0,2,Zach Eflin,Tyler Anderson,1,1,2,0,Right,Left,4.14,2.97
+20240408,Cubs,Padres,0,0,Javier Assad,Yu Darvish,1,1,0,0,Right,Right,3.27,3.20
+20240408,Nationals,Giants,0,1,Trevor Williams,Blake Snell,1,1,1,0,Right,Left,2.22,6.31
+20240409,Tigers,Pirates,1,0,Casey Mize,Martin Perez,1,1,0,1,Right,Left,4.23,5.61
+20240409,Orioles,Red Sox,0,1,Corbin Burnes,Brayan Bello,1,1,1,0,Right,Right,2.38,5.27
+20240409,White Sox,Guardians,5,2,Michael Soroka,Logan Allen,1,1,2,5,Right,Left,5.23,5.67
+20240409,Brewers,Reds,0,0,Joe Ross,Frankie Montas,1,1,0,0,Right,Right,4.50,4.85
+20240409,Marlins,Yankees,0,0,AJ Puk,Carlos Rodon,1,1,0,0,Left,Left,4.50,4.42
+20240409,Mariners,Blue Jays,0,0,George Kirby,Chris Bassitt,1,1,0,0,Right,Right,3.20,3.71
+20240409,Mets,Braves,0,1,Adrian Houser,Reynaldo Lopez,1,1,1,0,Right,Right,5.80,1.88
+20240409,Astros,Royals,1,0,Cristian Javier,Cole Ragans,1,1,0,1,Right,Left,3.89,3.16
+20240409,Dodgers,Twins,0,0,Tyler Glasnow,Louie Varland,1,1,0,0,Right,Right,3.47,6.58
+20240409,Phillies,Cardinals,0,0,Zack Wheeler,Sonny Gray,1,1,0,0,Right,Right,2.70,3.54
+20240409,Athletics,Rangers,0,1,Alex Wood,Nathan Eovaldi,1,1,1,0,Left,Right,5.26,3.36
+20240409,Diamondbacks,Rockies,2,1,Merrill Kelly,Cal Quantrill,1,1,1,2,Right,Right,2.19,4.15
+20240409,Rays,Angels,0,2,Aaron Civale,Patrick Sandoval,1,1,2,0,Right,Left,5.17,5.08
+20240409,Nationals,Giants,0,0,Joan Adon,Kyle Harrison,1,1,0,0,Right,Left,5.40,3.86
+20240409,Cubs,Padres,0,0,Ben Brown,Joe Musgrove,1,1,0,0,Right,Right,3.58,5.66
+20240410,Dodgers,Twins,1,1,Bobby Miller,Chris Paddack,1,1,1,1,Right,Right,8.07,4.99
+20240410,Phillies,Cardinals,2,0,Aaron Nola,Lance Lynn,1,1,0,2,Right,Right,3.54,4.39
+20240410,Mariners,Blue Jays,0,0,Logan Gilbert,Yusei Kikuchi,1,1,0,0,Right,Left,2.79,4.54
+20240410,Diamondbacks,Rockies,1,1,Tommy Henry,Austin Gomber,1,1,1,1,Left,Left,7.04,4.61
+20240410,Nationals,Giants,0,0,Patrick Corbin,Jordan Hicks,1,1,0,0,Left,Right,5.35,3.79
+20240410,Rays,Angels,3,0,Zack Littell,Jose Soriano,1,1,0,3,Right,Right,4.46,3.71
+20240410,White Sox,Guardians,2,0,Erick Fedde,Tanner Bibee,1,1,0,2,Right,Right,2.99,3.58
+20240410,Cubs,Padres,0,0,Kyle Hendricks,Dylan Cease,1,1,0,0,Right,Right,6.69,3.76
+20240410,Brewers,Reds,2,0,Wade Miley,Hunter Greene,1,1,0,2,Left,Right,6.43,3.34
+20240410,Marlins,Yankees,0,0,Ryan Weathers,Marcus Stroman,1,1,0,0,Left,Right,3.55,3.51
+20240410,Orioles,Red Sox,0,0,Cole Irvin,Kutter Crawford,1,1,0,0,Left,Right,4.67,3.37
+20240410,Astros,Royals,0,0,Spencer Arrighetti,Seth Lugo,1,1,0,0,Right,Right,5.63,2.38
+20240410,Athletics,Rangers,1,3,Ross Stripling,Cody Bradford,1,1,3,1,Right,Left,5.82,1.40
+20240411,Mets,Braves,1,0,Jose Quintana,Allan Winans,1,1,0,1,Left,Right,4.13,10.80
+20240411,Astros,Royals,0,9,Hunter Brown,Brady Singer,0.2,1,9,0,Right,Right,4.14,3.00
+20240411,Athletics,Rangers,0,0,JP Sears,Jon Gray,1,1,0,0,Left,Right,4.49,3.96
+20240411,Pirates,Phillies,0,0,Jared Jones,Ranger Suarez,1,1,0,0,Right,Left,3.56,2.76
+20240411,Orioles,Red Sox,0,2,Grayson Rodriguez,Garrett Whitlock,1,1,2,0,Right,Right,3.83,1.96
+20240412,Twins,Tigers,0,1,Pablo Lopez,Tarik Skubal,1,1,1,0,Right,Left,4.86,2.34
+20240412,Pirates,Phillies,0,0,Bailey Falter,Cristopher Sanchez,1,1,0,0,Left,Left,4.08,2.97
+20240412,Giants,Rays,0,0,Keaton Winn,Jacob Waguespack,1,1,0,0,Right,Right,7.16,5.40
+20240412,Brewers,Orioles,0,0,Freddy Peralta,Tyler Wells,1,1,0,0,Right,Right,3.88,5.87
+20240412,Rockies,Blue Jays,0,1,Ryan Feltner,Kevin Gausman,1,1,1,0,Right,Right,5.19,4.55
+20240412,Angels,Red Sox,3,0,Reid Detmers,Tanner Houck,1,1,0,3,Left,Right,6.14,2.54
+20240412,Braves,Marlins,1,0,Max Fried,Trevor Rogers,1,1,0,1,Left,Left,3.08,4.59
+20240412,Royals,Mets,0,0,Michael Wacha,Luis Severino,1,1,0,0,Right,Right,3.55,3.58
+20240412,Reds,White Sox,1,0,Andrew Abbott,Chris Flexen,1,1,0,1,Left,Right,3.19,5.22
+20240412,Rangers,Astros,1,1,Dane Dunning,JP France,1,1,1,1,Right,Right,4.71,7.46
+20240412,Cubs,Mariners,0,0,Jordan Wicks,Bryce Miller,1,1,0,0,Left,Right,4.18,3.63
+20240412,Cardinals,Diamondbacks,3,0,Steven Matz,Brandon Pfaadt,1,1,0,3,Left,Right,6.18,3.74
+20240412,Nationals,Athletics,0,0,Jake Irvin,Paul Blackburn,1,1,0,0,Right,Right,3.44,4.11
+20240412,Padres,Dodgers,2,1,Michael King,Yoshinobu Yamamoto,1,1,1,2,Right,Right,3.28,2.92
+20240413,Yankees,Guardians,0,0,Clarke Schmidt,Carlos Carrasco,1,1,0,0,Right,Right,2.52,5.32
+20240413,Twins,Tigers,0,2,Joe Ryan,Kenta Maeda,1,1,2,0,Right,Right,3.65,7.07
+20240413,Royals,Mets,1,3,Alec Marsh,Sean Manaea,1,1,3,1,Right,Left,4.52,3.73
+20240413,Reds,White Sox,0,0,Nick Lodolo,Garrett Crochet,1,1,0,0,Left,Left,3.51,3.02
+20240413,Rockies,Blue Jays,0,5,Dakota Hudson,Yariel Rodriguez,1,1,5,0,Right,Right,5.84,3.78
+20240413,Brewers,Orioles,0,3,DL Hall,Dean Kremer,1,1,3,0,Left,Right,7.71,4.43
+20240413,Pirates,Phillies,1,2,Marco Gonzales,Spencer Turnbull,1,1,2,1,Left,Right,2.70,2.65
+20240413,Rangers,Astros,2,0,Andrew Heaney,Ronel Blanco,1,1,0,2,Left,Right,3.60,2.75
+20240413,Nationals,Athletics,0,0,MacKenzie Gore,Joe Boyle,1,1,0,0,Left,Right,4.20,7.16
+20240413,Angels,Red Sox,0,4,Griffin Canning,Cooper Criswell,1,1,4,0,Right,Right,5.20,4.50
+20240413,Braves,Marlins,0,1,Chris Sale,Max Meyer,1,1,1,0,Left,Right,2.70,2.12
+20240413,Giants,Rays,1,0,Logan Webb,Ryan Pepiot,1,1,0,1,Right,Right,3.59,3.92
+20240413,Twins,Tigers,1,0,Simeon Woods Richardson,Matt Manning,1,1,0,1,Right,Right,3.51,4.88
+20240413,Yankees,Guardians,2,0,Cody Poteet,Triston McKenzie,1,1,0,2,Right,Right,2.14,5.11
+20240413,Cardinals,Diamondbacks,0,1,Kyle Gibson,Ryne Nelson,1,1,1,0,Right,Right,3.99,4.78
+20240413,Padres,Dodgers,0,0,Matt Waldron,Gavin Stone,1,1,0,0,Right,Right,3.59,3.19
+20240413,Cubs,Mariners,0,0,Shota Imanaga,Emerson Hancock,1,1,0,0,Left,Right,2.86,4.76
+20240414,Angels,Red Sox,0,2,Tyler Anderson,Brayan Bello,1,1,2,0,Left,Right,2.97,5.27
+20240414,Brewers,Orioles,1,1,Colin Rea,Corbin Burnes,1,1,1,1,Right,Right,3.77,2.38
+20240414,Pirates,Phillies,0,0,Mitch Keller,Zack Wheeler,1,1,0,0,Right,Right,3.34,2.70
+20240414,Rockies,Blue Jays,0,1,Kyle Freeland,Jose Berrios,1,1,1,0,Left,Right,5.63,4.01
+20240414,Braves,Marlins,0,0,Charlie Morton,Jesus Luzardo,1,1,0,0,Right,Left,3.92,5.00
+20240414,Royals,Mets,0,0,Cole Ragans,Jose Butto,1,1,0,0,Left,Right,3.16,2.59
+20240414,Twins,Tigers,0,0,Bailey Ober,Jack Flaherty,1,1,0,0,Right,Right,4.14,3.13
+20240414,Yankees,Guardians,0,0,Nestor Cortes,Logan Allen,1,1,0,0,Left,Left,3.99,5.67
+20240414,Giants,Rays,1,3,Blake Snell,Shawn Armstrong,1,1,3,1,Left,Right,6.31,5.91
+20240414,Reds,White Sox,0,0,Graham Ashcraft,Michael Soroka,1,1,0,0,Right,Right,5.24,5.23
+20240414,Rangers,Astros,0,1,Nathan Eovaldi,Cristian Javier,1,1,1,0,Right,Right,3.36,3.89
+20240414,Nationals,Athletics,0,0,Trevor Williams,Alex Wood,1,1,0,0,Right,Left,2.22,5.26
+20240414,Cubs,Mariners,1,0,Javier Assad,Luis Castillo,1,1,0,1,Right,Right,3.27,3.55
+20240414,Cardinals,Diamondbacks,0,0,Miles Mikolas,Zac Gallen,1,1,0,0,Right,Right,5.02,3.64
+20240414,Padres,Dodgers,0,0,Yu Darvish,James Paxton,1,1,0,0,Right,Left,3.20,4.43
+20240415,Guardians,Red Sox,0,0,Xzavion Curry,Kutter Crawford,1,1,0,0,Right,Right,5.19,3.37
+20240415,Twins,Orioles,0,2,Louie Varland,Cole Irvin,1,1,2,0,Right,Left,6.58,4.67
+20240415,Rockies,Phillies,0,0,Cal Quantrill,Aaron Nola,1,1,0,0,Right,Right,4.15,3.54
+20240415,Giants,Marlins,0,0,Kyle Harrison,Edward Cabrera,1,1,0,0,Left,Right,3.86,7.36
+20240415,Rangers,Tigers,0,0,Michael Lorenzen,Reese Olson,1,1,0,0,Right,Right,3.52,3.23
+20240415,Angels,Rays,0,0,Patrick Sandoval,Zach Eflin,1,1,0,0,Left,Right,5.08,4.14
+20240415,Yankees,Blue Jays,0,0,Luis Gil,Chris Bassitt,1,1,0,0,Right,Right,3.17,3.71
+20240415,Pirates,Mets,0,0,Martin Perez,Adrian Houser,1,1,0,0,Left,Right,5.61,5.80
+20240415,Royals,White Sox,0,0,Seth Lugo,Nick Nastrini,1,1,0,0,Right,Right,2.38,8.39
+20240415,Padres,Brewers,0,1,Joe Musgrove,Joe Ross,1,1,1,0,Right,Right,5.66,4.50
+20240415,Braves,Astros,0,1,Darius Vines,Spencer Arrighetti,1,1,1,0,Right,Right,7.82,5.63
+20240415,Cubs,Diamondbacks,0,0,Ben Brown,Merrill Kelly,1,1,0,0,Right,Right,3.58,2.19
+20240415,Cardinals,Athletics,1,0,Sonny Gray,Ross Stripling,1,1,0,1,Right,Right,3.54,5.82
+20240415,Reds,Mariners,0,3,Frankie Montas,George Kirby,1,1,3,0,Right,Right,4.85,3.20
+20240415,Nationals,Dodgers,1,1,Mitchell Parker,Tyler Glasnow,1,1,1,1,Left,Right,3.90,3.47
+20240416,Rangers,Tigers,0,0,Jon Gray,Casey Mize,1,1,0,0,Right,Right,3.96,4.23
+20240416,Twins,Orioles,0,0,Chris Paddack,Grayson Rodriguez,1,1,0,0,Right,Right,4.99,3.83
+20240416,Rockies,Phillies,0,2,Austin Gomber,Ranger Suarez,1,1,2,0,Left,Left,4.61,2.76
+20240416,Giants,Marlins,0,0,Jordan Hicks,Ryan Weathers,1,1,0,0,Right,Left,3.79,3.55
+20240416,Angels,Rays,0,0,Jose Soriano,Aaron Civale,1,1,0,0,Right,Right,3.71,5.17
+20240416,Yankees,Blue Jays,0,0,Carlos Rodon,Yusei Kikuchi,1,1,0,0,Left,Left,4.42,4.54
+20240416,Guardians,Red Sox,0,0,Tanner Bibee,Garrett Whitlock,1,1,0,0,Right,Right,3.58,1.96
+20240416,Pirates,Mets,0,0,Jared Jones,Jose Quintana,1,1,0,0,Right,Left,3.56,4.13
+20240416,Padres,Brewers,4,1,Dylan Cease,Wade Miley,1,1,1,4,Right,Left,3.76,6.43
+20240416,Braves,Astros,0,0,Reynaldo Lopez,Hunter Brown,1,1,0,0,Right,Right,1.88,4.14
+20240416,Cubs,Diamondbacks,0,0,Kyle Hendricks,Tommy Henry,1,1,0,0,Right,Left,6.69,7.04
+20240416,Reds,Mariners,0,0,Hunter Greene,Logan Gilbert,1,1,0,0,Right,Right,3.34,2.79
+20240416,Cardinals,Athletics,0,0,Lance Lynn,JP Sears,1,1,0,0,Right,Left,4.39,4.49
+20240416,Nationals,Dodgers,0,1,Patrick Corbin,Kyle Hurt,1,1,1,0,Left,Right,5.35,1.35
+20240417,Giants,Marlins,0,0,Keaton Winn,Trevor Rogers,1,1,0,0,Right,Left,7.16,4.59
+20240417,Twins,Orioles,0,1,Pablo Lopez,Albert Suarez,1,1,1,0,Right,Right,4.86,2.82
+20240417,Pirates,Mets,0,0,Bailey Falter,Luis Severino,1,1,0,0,Left,Right,4.08,3.58
+20240417,Padres,Brewers,0,0,Michael King,Bryse Wilson,1,1,0,0,Right,Right,3.28,4.07
+20240417,Rangers,Tigers,1,0,Dane Dunning,Tarik Skubal,1,1,0,1,Right,Left,4.71,2.34
+20240417,Braves,Astros,0,1,Max Fried,JP France,1,1,1,0,Left,Right,3.08,7.46
+20240417,Royals,White Sox,0,0,Brady Singer,Jonathan Cannon,1,1,0,0,Right,Right,3.00,4.58
+20240417,Yankees,Blue Jays,0,0,Marcus Stroman,Kevin Gausman,1,1,0,0,Right,Right,3.51,4.55
+20240417,Nationals,Dodgers,2,0,Jake Irvin,Landon Knack,1,1,0,2,Right,Right,3.44,3.23
+20240417,Cardinals,Athletics,0,0,Steven Matz,Paul Blackburn,1,1,0,0,Left,Right,6.18,4.11
+20240417,Cubs,Diamondbacks,0,1,Jordan Wicks,Brandon Pfaadt,1,1,1,0,Left,Right,4.18,3.74
+20240417,Reds,Mariners,0,0,Andrew Abbott,Bryce Miller,1,1,0,0,Left,Right,3.19,3.63
+20240417,Royals,White Sox,0,0,Michael Wacha,Erick Fedde,1,1,0,0,Right,Right,3.55,2.99
+20240417,Rockies,Phillies,1,4,Ryan Feltner,Cristopher Sanchez,1,1,4,1,Right,Left,5.19,2.97
+20240417,Angels,Rays,1,0,Reid Detmers,Zack Littell,1,1,0,1,Left,Right,6.14,4.46
+20240417,Guardians,Red Sox,0,0,Ben Lively,Tanner Houck,1,1,0,0,Right,Right,3.57,2.54
+20240418,Angels,Rays,0,2,Griffin Canning,Ryan Pepiot,1,1,2,0,Right,Right,5.20,3.92
+20240418,Rangers,Tigers,1,0,Jack Leiter,Kenta Maeda,1,1,0,1,Right,Right,16.39,7.07
+20240418,Guardians,Red Sox,0,1,Carlos Carrasco,Brennan Bernardino,1,1,1,0,Right,Left,5.32,2.53
+20240418,Diamondbacks,Giants,0,0,Ryne Nelson,Logan Webb,1,1,0,0,Right,Right,4.78,3.59
+20240419,Marlins,Cubs,0,2,AJ Puk,Jameson Taillon,1,1,2,0,Left,Right,4.50,3.10
+20240419,Angels,Reds,0,0,Tyler Anderson,Nick Lodolo,1,1,0,0,Left,Left,2.97,3.51
+20240419,Red Sox,Pirates,2,0,Brayan Bello,Quinn Priester,1,1,0,2,Right,Right,5.27,4.43
+20240419,White Sox,Phillies,0,3,Garrett Crochet,Spencer Turnbull,1,1,3,0,Left,Right,3.02,2.65
+20240419,Astros,Nationals,0,0,Justin Verlander,MacKenzie Gore,1,1,0,0,Right,Left,3.95,4.20
+20240419,Rays,Yankees,0,0,Tyler Alexander,Clarke Schmidt,1,1,0,0,Left,Right,6.19,2.52
+20240419,Athletics,Guardians,1,0,Joe Boyle,Triston McKenzie,1,1,0,1,Right,Right,7.16,5.11
+20240419,Rangers,Braves,1,1,Andrew Heaney,Chris Sale,1,1,1,1,Left,Left,3.60,2.70
+20240419,Orioles,Royals,0,0,Dean Kremer,Alec Marsh,1,1,0,0,Right,Right,4.43,4.52
+20240419,Tigers,Twins,1,2,Jack Flaherty,Joe Ryan,1,1,2,1,Right,Right,3.13,3.65
+20240419,Brewers,Cardinals,0,0,Freddy Peralta,Kyle Gibson,1,1,0,0,Right,Right,3.88,3.99
+20240419,Blue Jays,Padres,1,0,Yariel Rodriguez,Matt Waldron,1,1,0,1,Right,Right,3.78,3.59
+20240419,Mets,Dodgers,0,0,Sean Manaea,Yoshinobu Yamamoto,1,1,0,0,Left,Right,3.73,2.92
+20240419,Diamondbacks,Giants,0,0,Jordan Montgomery,Blake Snell,1,1,0,0,Left,Left,6.44,6.31
+20240420,Rays,Yankees,0,0,Zach Eflin,Nestor Cortes,1,1,0,0,Right,Left,4.14,3.99
+20240420,Tigers,Twins,0,0,Reese Olson,Bailey Ober,1,1,0,0,Right,Right,3.23,4.14
+20240420,Brewers,Cardinals,2,1,DL Hall,Miles Mikolas,1,1,1,2,Left,Right,7.71,5.02
+20240420,Marlins,Cubs,0,0,Jesus Luzardo,Javier Assad,1,1,0,0,Left,Right,5.00,3.27
+20240420,Diamondbacks,Giants,1,2,Zac Gallen,Kyle Harrison,1,1,2,1,Right,Left,3.64,3.86
+20240420,Red Sox,Pirates,2,0,Kutter Crawford,Mitch Keller,1,1,0,2,Right,Right,3.37,3.34
+20240420,Astros,Nationals,1,1,Ronel Blanco,Trevor Williams,1,1,1,1,Right,Right,2.75,2.22
+20240420,Mets,Dodgers,1,1,Jose Butto,Gavin Stone,1,1,1,1,Right,Right,2.59,3.19
+20240420,White Sox,Phillies,0,0,Michael Soroka,Zack Wheeler,1,1,0,0,Right,Right,5.23,2.70
+20240420,Athletics,Guardians,0,2,Alex Wood,Logan Allen,1,1,2,0,Left,Left,5.26,5.67
+20240420,Angels,Reds,2,5,Patrick Sandoval,Graham Ashcraft,1,1,5,2,Left,Right,5.08,5.24
+20240420,Orioles,Royals,0,0,Corbin Burnes,Cole Ragans,1,1,0,0,Right,Left,2.38,3.16
+20240420,Rangers,Braves,0,0,Nathan Eovaldi,Charlie Morton,1,1,0,0,Right,Right,3.36,3.92
+20240420,Marlins,Cubs,0,1,Roddery Munoz,Shota Imanaga,1,1,1,0,Right,Left,5.14,2.86
+20240420,Mariners,Rockies,0,0,Luis Castillo,Dakota Hudson,1,1,0,0,Right,Right,3.55,5.84
+20240420,Blue Jays,Padres,3,0,Jose Berrios,Randy Vasquez,1,1,0,3,Right,Right,4.01,4.57
+20240421,Red Sox,Pirates,0,1,Josh Winckowski,Martin Perez,1,1,1,0,Right,Left,3.19,5.61
+20240421,White Sox,Phillies,2,3,Nick Nastrini,Aaron Nola,1,1,3,2,Right,Right,8.39,3.54
+20240421,Astros,Nationals,0,3,Hunter Brown,Mitchell Parker,1,1,3,0,Right,Left,4.14,3.90
+20240421,Rays,Yankees,0,1,Aaron Civale,Luis Gil,1,1,1,0,Right,Right,5.17,3.17
+20240421,Angels,Reds,0,0,Jose Soriano,Frankie Montas,1,0.2,0,0,Right,Right,3.71,4.85
+20240421,Athletics,Guardians,0,0,Ross Stripling,Tanner Bibee,1,1,0,0,Right,Right,5.82,3.58
+20240421,Orioles,Royals,0,0,Cole Irvin,Seth Lugo,1,1,0,0,Left,Right,4.67,2.38
+20240421,Tigers,Twins,2,0,Casey Mize,Louie Varland,1,1,0,2,Right,Right,4.23,6.58
+20240421,Brewers,Cardinals,0,0,Colin Rea,Sonny Gray,1,1,0,0,Right,Right,3.77,3.54
+20240421,Marlins,Cubs,0,0,Edward Cabrera,Kyle Hendricks,1,1,0,0,Right,Right,7.36,6.69
+20240421,Mariners,Rockies,0,0,George Kirby,Cal Quantrill,1,1,0,0,Right,Right,3.20,4.15
+20240421,Diamondbacks,Giants,0,0,Slade Cecconi,Jordan Hicks,1,1,0,0,Right,Right,6.14,3.79
+20240421,Mets,Dodgers,0,0,Adrian Houser,Tyler Glasnow,1,1,0,0,Right,Right,5.80,3.47
+20240421,Blue Jays,Padres,0,1,Chris Bassitt,Joe Musgrove,1,1,1,0,Right,Right,3.71,5.66
+20240421,Rangers,Braves,0,3,Michael Lorenzen,Darius Vines,1,1,3,0,Right,Right,3.52,7.82
+20240421,Mariners,Rockies,0,2,Emerson Hancock,Peter Lambert,1,1,2,0,Right,Right,4.76,5.44
+20240422,Athletics,Yankees,0,0,JP Sears,Carlos Rodon,1,1,0,0,Left,Left,4.49,4.42
+20240422,Brewers,Pirates,0,1,Joe Ross,Jared Jones,1,1,1,0,Right,Right,4.50,3.56
+20240422,Phillies,Reds,0,0,Ranger Suarez,Hunter Greene,1,1,0,0,Left,Right,2.76,3.34
+20240422,Tigers,Rays,1,0,Tarik Skubal,Zack Littell,1,1,0,1,Left,Right,2.34,4.46
+20240422,Marlins,Braves,0,0,Ryan Weathers,Bryce Elder,1,1,0,0,Left,Right,3.55,6.35
+20240422,White Sox,Twins,0,2,Jonathan Cannon,Chris Paddack,1,1,2,0,Right,Right,4.58,4.99
+20240422,Blue Jays,Royals,0,0,Yusei Kikuchi,Brady Singer,1,1,0,0,Left,Right,4.54,3.00
+20240422,Diamondbacks,Cardinals,0,0,Brandon Pfaadt,Lance Lynn,1,1,0,0,Right,Right,3.74,4.39
+20240422,Padres,Rockies,0,0,Dylan Cease,Austin Gomber,1,1,0,0,Right,Left,3.76,4.61
+20240422,Orioles,Angels,0,0,Albert Suarez,Reid Detmers,1,1,0,0,Right,Left,2.82,6.14
+20240422,Mets,Giants,0,0,Jose Quintana,Keaton Winn,1,1,0,0,Left,Right,4.13,7.16
+20240423,Red Sox,Guardians,0,0,Tanner Houck,Ben Lively,1,1,0,0,Right,Right,2.54,3.57
+20240423,Brewers,Pirates,0,1,Tobias Myers,Bailey Falter,1,1,1,0,Right,Left,3.13,4.08
+20240423,Phillies,Reds,1,1,Cristopher Sanchez,Andrew Abbott,1,1,1,1,Left,Left,2.97,3.19
+20240423,Dodgers,Nationals,0,0,James Paxton,Patrick Corbin,1,1,0,0,Left,Left,4.43,5.35
+20240423,Tigers,Rays,0,0,Kenta Maeda,Ryan Pepiot,1,1,0,0,Right,Right,7.07,3.92
+20240423,Athletics,Yankees,1,4,Paul Blackburn,Marcus Stroman,1,1,4,1,Right,Right,4.11,3.51
+20240423,Marlins,Braves,0,0,Trevor Rogers,Max Fried,1,1,0,0,Left,Left,4.59,3.08
+20240423,White Sox,Twins,0,1,Erick Fedde,Pablo Lopez,1,1,1,0,Right,Right,2.99,4.86
+20240423,Astros,Cubs,0,5,JP France,Jordan Wicks,1,1,5,0,Right,Left,7.46,4.18
+20240423,Blue Jays,Royals,0,0,Kevin Gausman,Michael Wacha,1,1,0,0,Right,Right,4.55,3.55
+20240423,Diamondbacks,Cardinals,0,1,Tommy Henry,Steven Matz,1,1,1,0,Left,Left,7.04,6.18
+20240423,Mariners,Rangers,2,0,Logan Gilbert,Dane Dunning,1,1,0,2,Right,Right,2.79,4.71
+20240423,Padres,Rockies,2,0,Michael King,Ryan Feltner,1,1,0,2,Right,Right,3.28,5.19
+20240423,Orioles,Angels,0,1,Grayson Rodriguez,Griffin Canning,1,1,1,0,Right,Right,3.83,5.20
+20240423,Mets,Giants,0,0,Luis Severino,Logan Webb,1,1,0,0,Right,Right,3.58,3.59
+20240424,Diamondbacks,Cardinals,1,0,Jordan Montgomery,Kyle Gibson,1,1,0,1,Left,Right,6.44,3.99
+20240424,Mets,Giants,0,0,Sean Manaea,Ryan Walker,1,1,0,0,Left,Right,3.73,2.41
+20240424,Orioles,Angels,0,0,Dean Kremer,Tyler Anderson,1,1,0,0,Right,Left,4.43,2.97
+20240424,Red Sox,Guardians,1,0,Cooper Criswell,Carlos Carrasco,1,1,0,1,Right,Right,4.50,5.32
+20240424,Brewers,Pirates,0,0,Bryse Wilson,Josh Fleming,1,1,0,0,Right,Left,4.07,4.02
+20240424,Phillies,Reds,1,0,Spencer Turnbull,Nick Lodolo,1,1,0,1,Right,Left,2.65,3.51
+20240424,Dodgers,Nationals,1,0,Landon Knack,Jake Irvin,1,1,0,1,Right,Right,3.23,3.44
+20240424,Tigers,Rays,1,1,Jack Flaherty,Shawn Armstrong,1,1,1,1,Right,Right,3.13,5.91
+20240424,Athletics,Yankees,0,2,Joe Boyle,Clarke Schmidt,1,1,2,0,Right,Right,7.16,2.52
+20240424,Marlins,Braves,0,2,Sixto Sanchez,Reynaldo Lopez,1,1,2,0,Right,Right,6.06,1.88
+20240424,White Sox,Twins,0,0,Garrett Crochet,Joe Ryan,1,1,0,0,Left,Right,3.02,3.65
+20240424,Astros,Cubs,0,4,Spencer Arrighetti,Jameson Taillon,1,1,4,0,Right,Right,5.63,3.10
+20240424,Blue Jays,Royals,0,1,Yariel Rodriguez,Alec Marsh,1,1,1,0,Right,Right,3.78,4.52
+20240424,Mariners,Rangers,1,0,Bryce Miller,Jon Gray,1,1,0,1,Right,Right,3.63,3.96
+20240424,Padres,Rockies,4,0,Matt Waldron,Ty Blach,1,1,0,4,Right,Left,3.59,5.46
+20240425,Brewers,Pirates,1,3,Freddy Peralta,Mitch Keller,1,1,3,1,Right,Right,3.88,3.34
+20240425,Red Sox,Guardians,0,0,Chase Anderson,Triston McKenzie,1,1,0,0,Right,Right,4.50,5.11
+20240425,White Sox,Twins,0,0,Michael Soroka,Simeon Woods Richardson,1,1,0,0,Right,Right,5.23,3.51
+20240425,Phillies,Reds,0,0,Zack Wheeler,Nick Martinez,1,1,0,0,Right,Right,2.70,3.88
+20240425,Blue Jays,Royals,0,2,Jose Berrios,Cole Ragans,1,1,2,0,Right,Left,4.01,3.16
+20240425,Astros,Cubs,1,0,Justin Verlander,Javier Assad,1,1,0,1,Right,Right,3.95,3.27
+20240425,Mariners,Rangers,2,1,Luis Castillo,Andrew Heaney,1,1,1,2,Right,Left,3.55,3.60
+20240425,Padres,Rockies,0,1,Randy Vasquez,Dakota Hudson,1,1,1,0,Right,Right,4.57,5.84
+20240425,Dodgers,Nationals,0,0,Yoshinobu Yamamoto,MacKenzie Gore,1,1,0,0,Right,Left,2.92,4.20
+20240425,Athletics,Yankees,0,0,Alex Wood,Nestor Cortes,1,1,0,0,Left,Left,5.26,3.99
+20240426,Royals,Tigers,0,0,Seth Lugo,Reese Olson,1,1,0,0,Right,Right,2.38,3.23
+20240426,Athletics,Orioles,1,0,Ross Stripling,Corbin Burnes,1,1,0,1,Right,Right,5.82,2.38
+20240426,Dodgers,Blue Jays,1,0,Gavin Stone,Chris Bassitt,1,1,0,1,Right,Right,3.19,3.71
+20240426,Cubs,Red Sox,0,0,Shota Imanaga,Kutter Crawford,1,1,0,0,Left,Right,2.86,3.37
+20240426,Cardinals,Mets,0,0,Miles Mikolas,Jose Butto,1,1,0,0,Right,Right,5.02,2.59
+20240426,Nationals,Marlins,0,0,Trevor Williams,Anthony Maldonado,1,1,0,0,Right,Right,2.22,6.23
+20240426,Guardians,Braves,1,0,Logan Allen,Chris Sale,1,1,0,1,Left,Left,5.67,2.70
+20240426,Rays,White Sox,0,0,Zach Eflin,Chris Flexen,1,1,0,0,Right,Right,4.14,5.22
+20240426,Reds,Rangers,1,0,Graham Ashcraft,Nathan Eovaldi,1,1,0,1,Right,Right,5.24,3.36
+20240426,Yankees,Brewers,1,0,Luis Gil,Colin Rea,1,1,0,1,Right,Right,3.17,3.77
+20240426,Twins,Angels,0,0,Bailey Ober,Patrick Sandoval,1,1,0,0,Right,Left,4.14,5.08
+20240426,Diamondbacks,Mariners,0,1,Zac Gallen,Emerson Hancock,1,1,1,0,Right,Right,3.64,4.76
+20240426,Phillies,Padres,2,0,Aaron Nola,Joe Musgrove,1,1,0,2,Right,Right,3.54,5.66
+20240426,Pirates,Giants,0,0,Quinn Priester,Kyle Harrison,1,1,0,0,Right,Left,4.43,3.86
+20240427,Dodgers,Blue Jays,1,0,Tyler Glasnow,Yusei Kikuchi,1,1,0,1,Right,Left,3.47,4.54
+20240427,Reds,Rangers,0,0,Hunter Greene,Michael Lorenzen,1,1,0,0,Right,Right,3.34,3.52
+20240427,Athletics,Orioles,0,0,JP Sears,Cole Irvin,1,1,0,0,Left,Left,4.49,4.67
+20240427,Cardinals,Mets,4,0,Sonny Gray,Adrian Houser,1,1,0,4,Right,Right,3.54,5.80
+20240427,Cubs,Red Sox,0,2,Ben Brown,Josh Winckowski,1,1,2,0,Right,Right,3.58,3.19
+20240427,Nationals,Marlins,0,1,Mitchell Parker,Edward Cabrera,1,1,1,0,Left,Right,3.90,7.36
+20240427,Astros,Rockies,0,2,Ronel Blanco,Cal Quantrill,1,1,2,0,Right,Right,2.75,4.15
+20240427,Royals,Tigers,2,0,Brady Singer,Casey Mize,1,1,0,2,Right,Right,3.00,4.23
+20240427,Yankees,Brewers,3,1,Carlos Rodon,Joe Ross,1,1,1,3,Left,Right,4.42,4.50
+20240427,Rays,White Sox,0,0,Aaron Civale,Jonathan Cannon,1,1,0,0,Right,Right,5.17,4.58
+20240427,Guardians,Braves,0,0,Tanner Bibee,Charlie Morton,1,1,0,0,Right,Right,3.58,3.92
+20240427,Phillies,Padres,2,0,Ranger Suarez,Dylan Cease,1,1,0,2,Left,Right,2.76,3.76
+20240427,Pirates,Giants,0,0,Martin Perez,Jordan Hicks,1,1,0,0,Left,Right,5.61,3.79
+20240427,Twins,Angels,1,0,Chris Paddack,Jose Soriano,1,1,0,1,Right,Right,4.99,3.71
+20240427,Diamondbacks,Mariners,0,0,Slade Cecconi,George Kirby,1,1,0,0,Right,Right,6.14,3.20
+20240428,Guardians,Braves,0,0,Ben Lively,Bryce Elder,1,1,0,0,Right,Right,3.57,6.35
+20240428,Athletics,Orioles,0,0,Paul Blackburn,Albert Suarez,1,1,0,0,Right,Right,4.11,2.82
+20240428,Dodgers,Blue Jays,0,0,Michael Grove,Kevin Gausman,1,1,0,0,Right,Right,5.06,4.55
+20240428,Royals,Tigers,1,2,Michael Wacha,Tarik Skubal,1,1,2,1,Right,Left,3.55,2.34
+20240428,Cardinals,Mets,0,0,Lance Lynn,Jose Quintana,1,1,0,0,Right,Left,4.39,4.13
+20240428,Nationals,Marlins,0,6,Patrick Corbin,Ryan Weathers,1,1,6,0,Left,Left,5.35,3.55
+20240428,Yankees,Brewers,1,0,Marcus Stroman,Tobias Myers,1,1,0,1,Right,Right,3.51,3.13
+20240428,Rays,White Sox,0,0,Zack Littell,Erick Fedde,1,1,0,0,Right,Right,4.46,2.99
+20240428,Reds,Rangers,0,4,Andrew Abbott,Dane Dunning,1,1,4,0,Left,Right,3.19,4.71
+20240428,Astros,Rockies,2,0,Framber Valdez,Austin Gomber,1,1,0,2,Left,Left,3.63,4.61
+20240428,Pirates,Giants,0,0,Jared Jones,Keaton Winn,1,1,0,0,Right,Right,3.56,7.16
+20240428,Twins,Angels,0,0,Pablo Lopez,Reid Detmers,1,1,0,0,Right,Left,4.86,6.14
+20240428,Diamondbacks,Mariners,0,1,Brandon Pfaadt,Logan Gilbert,1,1,1,0,Right,Right,3.74,2.79
+20240428,Phillies,Padres,0,0,Taijuan Walker,Michael King,1,1,0,0,Right,Right,5.60,3.28
+20240428,Cubs,Red Sox,0,1,Hayden Wesneski,Tanner Houck,1,1,1,0,Right,Right,3.94,2.54
+20240429,Yankees,Orioles,0,1,Clarke Schmidt,Grayson Rodriguez,1,1,1,0,Right,Right,2.52,3.83
+20240429,Nationals,Marlins,0,0,Jake Irvin,Trevor Rogers,1,1,0,0,Right,Left,3.44,4.59
+20240429,Royals,Blue Jays,2,2,Jonathan Bowlan,Yariel Rodriguez,1,1,2,2,Right,Right,13.50,3.78
+20240429,Cubs,Mets,0,1,Jameson Taillon,Luis Severino,1,1,1,0,Right,Right,3.10,3.58
+20240429,Twins,White Sox,0,2,Joe Ryan,Garrett Crochet,1,1,2,0,Right,Left,3.65,3.02
+20240429,Rays,Brewers,1,0,Ryan Pepiot,Bryse Wilson,1,1,0,1,Right,Right,3.92,4.07
+20240429,Phillies,Angels,3,1,Cristopher Sanchez,Griffin Canning,1,1,1,3,Left,Right,2.97,5.20
+20240429,Braves,Mariners,0,0,Max Fried,Bryce Miller,1,1,0,0,Left,Right,3.08,3.63
+20240429,Reds,Padres,1,1,Nick Lodolo,Matt Waldron,1,1,1,1,Left,Right,3.51,3.59
+20240429,Dodgers,Diamondbacks,0,1,James Paxton,Tommy Henry,1,1,1,0,Left,Left,4.43,7.04
+20240429,Pirates,Athletics,1,1,Bailey Falter,Joe Boyle,1,1,1,1,Left,Right,4.08,7.16
+20240430,Cardinals,Tigers,0,0,Kyle Gibson,Jack Flaherty,1,1,0,0,Right,Right,3.99,3.13
+20240430,Yankees,Orioles,0,0,Nestor Cortes,Dean Kremer,1,1,0,0,Left,Right,3.99,4.43
+20240430,Rockies,Marlins,5,0,Ryan Feltner,Sixto Sanchez,1,1,0,5,Right,Right,5.19,6.06
+20240430,Cardinals,Tigers,0,2,Steven Matz,Matt Manning,1,1,2,0,Left,Right,6.18,4.88
+20240430,Royals,Blue Jays,0,0,Cole Ragans,Jose Berrios,1,1,0,0,Left,Right,3.16,4.01
+20240430,Cubs,Mets,0,1,Javier Assad,Sean Manaea,1,1,1,0,Right,Left,3.27,3.73
+20240430,Giants,Red Sox,0,1,Logan Webb,Cooper Criswell,1,1,1,0,Right,Right,3.59,4.50
+20240430,Twins,White Sox,0,0,Simeon Woods Richardson,Michael Soroka,1,1,0,0,Right,Right,3.51,5.23
+20240430,Rays,Brewers,0,1,Tyler Alexander,Freddy Peralta,1,1,1,0,Left,Right,6.19,3.88
+20240430,Nationals,Rangers,1,0,MacKenzie Gore,Jon Gray,1,1,0,1,Left,Right,4.20,3.96
+20240430,Guardians,Astros,3,0,Carlos Carrasco,Hunter Brown,1,1,0,3,Right,Right,5.32,4.14
+20240430,Phillies,Angels,0,0,Spencer Turnbull,Tyler Anderson,1,1,0,0,Right,Left,2.65,2.97
+20240430,Braves,Mariners,0,0,Reynaldo Lopez,Luis Castillo,1,1,0,0,Right,Right,1.88,3.55
+20240430,Reds,Padres,0,0,Nick Martinez,Yu Darvish,1,1,0,0,Right,Right,3.88,3.20
+20240430,Dodgers,Diamondbacks,0,0,Landon Knack,Brandon Hughes,1,1,0,0,Right,Left,3.23,10.29
+20240430,Pirates,Athletics,1,0,Mitch Keller,Alex Wood,1,1,0,1,Right,Left,3.34,5.26
+20240501,Cardinals,Tigers,0,0,Miles Mikolas,Kenta Maeda,1,1,0,0,Right,Right,5.02,7.07
+20240501,Rays,Brewers,0,0,Zach Eflin,Colin Rea,1,1,0,0,Right,Right,4.14,3.77
+20240501,Twins,White Sox,0,2,Bailey Ober,Chris Flexen,1,1,2,0,Right,Right,4.14,5.22
+20240501,Royals,Blue Jays,0,0,Seth Lugo,Chris Bassitt,1,1,0,0,Right,Right,2.38,3.71
+20240501,Pirates,Athletics,0,0,Quinn Priester,Ross Stripling,1,1,0,0,Right,Right,4.43,5.82
+20240501,Braves,Mariners,0,0,Chris Sale,Emerson Hancock,1,1,0,0,Left,Right,2.70,4.76
+20240501,Phillies,Angels,0,0,Zack Wheeler,Patrick Sandoval,1,1,0,0,Right,Left,2.70,5.08
+20240501,Reds,Padres,1,0,Graham Ashcraft,Joe Musgrove,1,1,0,1,Right,Right,5.24,5.66
+20240501,Yankees,Orioles,0,0,Luis Gil,Corbin Burnes,1,1,0,0,Right,Right,3.17,2.38
+20240501,Rockies,Marlins,0,0,Dakota Hudson,Roddery Munoz,1,1,0,0,Right,Right,5.84,5.14
+20240501,Cubs,Mets,0,0,Shota Imanaga,Jose Butto,1,1,0,0,Left,Right,2.86,2.59
+20240501,Giants,Red Sox,0,0,Erik Miller,Kutter Crawford,1,1,0,0,Left,Right,3.27,3.37
+20240501,Nationals,Rangers,0,0,Trevor Williams,Andrew Heaney,1,1,0,0,Right,Left,2.22,3.60
+20240501,Guardians,Astros,0,0,Triston McKenzie,Justin Verlander,1,1,0,0,Right,Right,5.11,3.95
+20240501,Dodgers,Diamondbacks,0,0,Yoshinobu Yamamoto,Jordan Montgomery,1,1,0,0,Right,Left,2.92,6.44
+20240502,Rockies,Marlins,0,2,Peter Lambert,Edward Cabrera,1,1,2,0,Right,Right,5.44,7.36
+20240502,Yankees,Orioles,0,0,Carlos Rodon,Kyle Bradish,1,1,0,0,Left,Right,4.42,2.75
+20240502,Cubs,Mets,0,0,Ben Brown,Adrian Houser,1,1,0,0,Right,Right,3.58,5.80
+20240502,Giants,Red Sox,0,0,Kyle Harrison,Josh Winckowski,1,1,0,0,Left,Right,3.86,3.19
+20240502,Nationals,Rangers,0,0,Mitchell Parker,Nathan Eovaldi,1,1,0,0,Left,Right,3.90,3.36
+20240502,Guardians,Astros,0,0,Logan Allen,Spencer Arrighetti,1,1,0,0,Left,Right,5.67,5.63
+20240503,Brewers,Cubs,0,0,Joe Ross,Hayden Wesneski,1,1,0,0,Right,Right,4.50,3.94
+20240503,Orioles,Reds,0,0,Cole Irvin,Hunter Greene,1,1,0,0,Left,Right,4.67,3.14
+20240503,Rockies,Pirates,0,0,Cal Quantrill,Martin Perez,1,1,0,0,Right,Left,4.15,5.61
+20240503,Giants,Phillies,0,0,Jordan Hicks,Aaron Nola,1,1,0,0,Right,Right,3.79,3.54
+20240503,Blue Jays,Nationals,0,0,Yusei Kikuchi,Patrick Corbin,1,1,0,0,Left,Left,4.54,5.35
+20240503,Mets,Rays,0,0,Jose Quintana,Aaron Civale,1,1,0,0,Left,Right,4.13,5.17
+20240503,Tigers,Yankees,0,0,Reese Olson,Marcus Stroman,1,1,0,0,Right,Right,3.23,3.51
+20240503,Angels,Guardians,0,0,Jose Soriano,Tanner Bibee,1,1,0,0,Right,Right,3.71,3.58
+20240503,Rangers,Royals,0,0,Michael Lorenzen,Brady Singer,1,1,0,0,Right,Right,3.52,3.00
+20240503,Red Sox,Twins,0,0,Tanner Houck,Chris Paddack,1,1,0,0,Right,Right,2.54,4.99
+20240503,Mariners,Astros,0,0,George Kirby,Ronel Blanco,1,1,0,0,Right,Right,3.20,2.75
+20240503,White Sox,Cardinals,0,2,Brad Keller,Sonny Gray,1,1,2,0,Right,Right,5.13,3.54
+20240503,Marlins,Athletics,0,0,Ryan Weathers,JP Sears,1,1,0,0,Left,Left,3.55,4.49
+20240503,Padres,Diamondbacks,0,0,Dylan Cease,Slade Cecconi,1,1,0,0,Right,Right,3.76,6.14
+20240503,Braves,Dodgers,1,0,Charlie Morton,Gavin Stone,1,1,0,1,Right,Right,3.92,3.19
+20240504,Tigers,Yankees,1,1,Casey Mize,Clarke Schmidt,1,1,1,1,Right,Right,4.23,2.52
+20240504,Red Sox,Twins,1,1,Brennan Bernardino,Pablo Lopez,1,1,1,1,Left,Right,2.53,4.86
+20240504,White Sox,Cardinals,2,0,Erick Fedde,Lance Lynn,1,1,0,2,Right,Right,2.99,4.39
+20240504,Brewers,Cubs,0,2,Tobias Myers,Jameson Taillon,1,1,2,0,Right,Right,3.13,3.10
+20240504,Rockies,Pirates,0,0,Austin Gomber,Jared Jones,1,1,0,0,Left,Right,4.61,3.56
+20240504,Blue Jays,Nationals,4,0,Kevin Gausman,Jake Irvin,1,1,0,4,Right,Right,4.55,3.44
+20240504,Marlins,Athletics,0,0,Emmanuel Rivera,Paul Blackburn,1,1,0,0,Right,Right,0,4.11
+20240504,Giants,Phillies,0,5,Keaton Winn,Ranger Suarez,0.2,1,5,0,Right,Left,7.16,2.76
+20240504,Angels,Guardians,0,0,Reid Detmers,Ben Lively,1,1,0,0,Left,Right,6.14,3.57
+20240504,Orioles,Reds,0,0,John Means,Andrew Abbott,1,1,0,0,Left,Left,2.61,3.19
+20240504,Rangers,Royals,1,0,Dane Dunning,Michael Wacha,1,1,0,1,Right,Right,4.71,3.55
+20240504,Mets,Rays,1,1,Christian Scott,Zack Littell,1,1,1,1,Right,Right,4.56,4.46
+20240504,Mariners,Astros,0,0,Logan Gilbert,Framber Valdez,1,1,0,0,Right,Left,2.79,3.63
+20240504,Padres,Diamondbacks,1,0,Michael King,Brandon Pfaadt,1,1,0,1,Right,Right,3.28,3.74
+20240504,Braves,Dodgers,0,0,Bryce Elder,Tyler Glasnow,1,1,0,0,Right,Right,6.35,3.47
+20240505,Rockies,Pirates,0,0,Ryan Feltner,Bailey Falter,1,1,0,0,Right,Left,5.19,4.08
+20240505,Tigers,Yankees,0,1,Tarik Skubal,Nestor Cortes,1,1,1,0,Left,Left,2.34,3.99
+20240505,Blue Jays,Nationals,0,1,Alek Manoah,MacKenzie Gore,1,1,1,0,Right,Left,3.70,4.20
+20240505,Angels,Guardians,0,0,Griffin Canning,Carlos Carrasco,1,1,0,0,Right,Right,5.20,5.32
+20240505,Mets,Rays,2,0,Luis Severino,Ryan Pepiot,1,1,0,2,Right,Right,3.58,3.92
+20240505,Red Sox,Twins,0,0,Cooper Criswell,Joe Ryan,1,1,0,0,Right,Right,4.50,3.65
+20240505,Mariners,Astros,0,0,Bryce Miller,Hunter Brown,1,1,0,0,Right,Right,3.63,4.14
+20240505,Rangers,Royals,0,1,Jon Gray,Daniel Lynch IV,1,1,1,0,Right,Left,3.96,6.35
+20240505,White Sox,Cardinals,0,0,Garrett Crochet,Matthew Liberatore,1,1,0,0,Left,Left,3.02,4.15
+20240505,Brewers,Cubs,0,0,Freddy Peralta,Javier Assad,1,1,0,0,Right,Right,3.88,3.27
+20240505,Marlins,Athletics,4,0,Sixto Sanchez,Joe Boyle,1,1,0,4,Right,Right,6.06,7.16
+20240505,Braves,Dodgers,0,2,Max Fried,James Paxton,1,1,2,0,Left,Left,3.08,4.43
+20240505,Orioles,Reds,3,0,Dean Kremer,Nick Lodolo,1,1,0,3,Right,Left,4.43,3.51
+20240505,Padres,Diamondbacks,0,4,Matt Waldron,Ryne Nelson,1,1,4,0,Right,Right,3.59,4.78
+20240505,Giants,Phillies,1,0,Logan Webb,Taijuan Walker,1,1,0,1,Right,Right,3.59,5.60
+20240506,Giants,Phillies,0,0,Mason Black,Zack Wheeler,1,1,0,0,Right,Right,8.79,2.70
+20240506,Tigers,Guardians,1,1,Jack Flaherty,Triston McKenzie,1,1,1,1,Right,Right,3.13,5.11
+20240506,Angels,Pirates,0,0,Tyler Anderson,Mitch Keller,1,1,0,0,Left,Right,2.97,3.34
+20240506,White Sox,Rays,0,0,Mike Clevinger,Tyler Alexander,1,1,0,0,Right,Left,6.75,6.19
+20240506,Brewers,Royals,0,0,Bryse Wilson,Cole Ragans,1,1,0,0,Right,Left,4.07,3.16
+20240506,Padres,Cubs,0,0,Yu Darvish,Justin Steele,1,1,0,0,Right,Left,3.20,3.07
+20240506,Mariners,Twins,0,0,Luis Castillo,Simeon Woods Richardson,1,1,0,0,Right,Right,3.55,3.51
+20240506,Mets,Cardinals,1,0,Sean Manaea,Kyle Gibson,1,1,0,1,Left,Right,3.73,3.99
+20240506,Rangers,Athletics,0,0,Andrew Heaney,Alex Wood,1,1,0,0,Left,Left,3.60,5.26
+20240506,Marlins,Dodgers,2,3,Roddery Munoz,Walker Buehler,1,1,3,2,Right,Right,5.14,5.84
+20240507,Rangers,Athletics,1,0,Jose Urena,Ross Stripling,1,1,0,1,Right,Right,3.13,5.82
+20240507,Tigers,Guardians,1,2,Kenta Maeda,Logan Allen,1,1,2,1,Right,Left,7.07,5.67
+20240507,Diamondbacks,Reds,0,0,Zac Gallen,Frankie Montas,1,1,0,0,Right,Right,3.64,4.85
+20240507,Blue Jays,Phillies,0,1,Jose Berrios,Cristopher Sanchez,1,1,1,0,Right,Left,4.01,2.97
+20240507,Orioles,Nationals,0,0,Corbin Burnes,Trevor Williams,1,1,0,0,Right,Right,2.38,2.22
+20240507,White Sox,Rays,0,0,Michael Soroka,Zach Eflin,1,1,0,0,Right,Right,5.23,4.14
+20240507,Angels,Pirates,0,0,Patrick Sandoval,Quinn Priester,1,1,0,0,Left,Right,5.08,4.43
+20240507,Astros,Yankees,1,3,Justin Verlander,Luis Gil,1,1,3,1,Right,Right,3.95,3.17
+20240507,Red Sox,Braves,0,0,Kutter Crawford,Reynaldo Lopez,1,1,0,0,Right,Right,3.37,2.12
+20240507,Brewers,Royals,0,0,Colin Rea,Seth Lugo,1,1,0,0,Right,Right,3.77,2.38
+20240507,Padres,Cubs,0,0,Randy Vasquez,Shota Imanaga,1,1,0,0,Right,Left,4.57,2.86
+20240507,Mariners,Twins,0,0,Emerson Hancock,Bailey Ober,1,1,0,0,Right,Right,4.76,4.14
+20240507,Mets,Cardinals,0,3,Jose Butto,Miles Mikolas,1,1,3,0,Right,Right,2.59,5.02
+20240507,Giants,Rockies,0,0,Kyle Harrison,Dakota Hudson,1,1,0,0,Left,Right,3.86,5.84
+20240507,Marlins,Dodgers,1,4,Edward Cabrera,Yoshinobu Yamamoto,1,1,4,1,Right,Right,7.36,2.92
+20240508,Angels,Pirates,0,0,Jose Soriano,Martin Perez,1,1,0,0,Right,Left,3.71,5.61
+20240508,Blue Jays,Phillies,0,0,Chris Bassitt,Aaron Nola,1,1,0,0,Right,Right,3.71,3.54
+20240508,Tigers,Guardians,0,0,Reese Olson,Tanner Bibee,1,1,0,0,Right,Right,3.23,3.58
+20240508,Brewers,Royals,1,2,Joe Ross,Brady Singer,1,1,2,1,Right,Right,4.50,3.00
+20240508,Padres,Cubs,1,0,Dylan Cease,Hayden Wesneski,1,1,0,1,Right,Right,3.76,3.94
+20240508,Marlins,Dodgers,0,1,Ryan Weathers,Gavin Stone,1,1,1,0,Left,Right,3.55,3.19
+20240508,Rangers,Athletics,1,0,Michael Lorenzen,JP Sears,1,1,0,1,Right,Left,3.52,4.49
+20240508,Rangers,Athletics,0,0,Jack Leiter,Osvaldo Bido,1,1,0,0,Right,Right,16.39,3.44
+20240508,Diamondbacks,Reds,0,0,Jordan Montgomery,Graham Ashcraft,1,1,0,0,Left,Right,6.44,5.24
+20240508,Orioles,Nationals,0,0,Kyle Bradish,Mitchell Parker,1,1,0,0,Right,Left,2.75,3.90
+20240508,White Sox,Rays,0,0,Chris Flexen,Aaron Civale,1,1,0,0,Right,Right,5.22,5.17
+20240508,Astros,Yankees,1,2,Spencer Arrighetti,Carlos Rodon,1,1,2,1,Right,Left,5.63,4.42
+20240508,Red Sox,Braves,0,4,Nick Pivetta,Chris Sale,1,1,4,0,Right,Left,3.87,2.70
+20240508,Mariners,Twins,0,2,George Kirby,Chris Paddack,1,1,2,0,Right,Right,3.20,4.99
+20240508,Giants,Rockies,0,0,Jordan Hicks,Peter Lambert,1,1,0,0,Right,Right,3.79,5.44
+20240509,Diamondbacks,Reds,1,0,Slade Cecconi,Hunter Greene,1,1,0,1,Right,Right,6.14,3.14
+20240509,Mariners,Twins,0,5,Logan Gilbert,Pablo Lopez,1,1,5,0,Right,Right,2.79,4.86
+20240509,Giants,Rockies,0,0,Keaton Winn,Cal Quantrill,1,1,0,0,Right,Right,7.16,4.15
+20240509,Astros,Yankees,3,0,Ronel Blanco,Marcus Stroman,1,1,0,3,Right,Right,2.75,3.51
+20240509,Guardians,White Sox,0,1,Ben Lively,Erick Fedde,1,1,1,0,Right,Right,3.57,2.99
+20240509,Cardinals,Brewers,0,3,Sonny Gray,Tobias Myers,1,1,3,0,Right,Right,3.54,3.13
+20240509,Royals,Angels,0,0,Michael Wacha,Reid Detmers,1,1,0,0,Right,Left,3.55,6.14
+20240510,Cubs,Pirates,1,2,Javier Assad,Jared Jones,1,1,2,1,Right,Right,3.27,3.56
+20240510,Astros,Tigers,0,0,Framber Valdez,Casey Mize,1,1,0,0,Left,Right,3.63,4.23
+20240510,Yankees,Rays,0,0,Clarke Schmidt,Taj Bradley,1,1,0,0,Right,Right,2.52,2.63
+20240510,Diamondbacks,Orioles,0,0,Brandon Pfaadt,Cole Irvin,1,1,0,0,Right,Left,3.74,4.67
+20240510,Twins,Blue Jays,1,0,Joe Ryan,Yusei Kikuchi,1,1,0,1,Right,Left,3.65,4.54
+20240510,Braves,Mets,0,0,Charlie Morton,Jose Quintana,1,1,0,0,Right,Left,3.92,4.13
+20240510,Phillies,Marlins,0,0,Ranger Suarez,Trevor Rogers,1,1,0,0,Left,Left,2.76,4.59
+20240510,Nationals,Red Sox,0,0,Patrick Corbin,Tanner Houck,1,1,0,0,Left,Right,5.35,2.54
+20240510,Guardians,White Sox,0,0,Carlos Carrasco,Garrett Crochet,1,1,0,0,Right,Left,5.32,3.02
+20240510,Cardinals,Brewers,0,0,Lance Lynn,Robert Gasser,1,1,0,0,Right,Left,4.39,2.57
+20240510,Rangers,Rockies,0,0,Jon Gray,Austin Gomber,1,1,0,0,Right,Left,3.96,4.61
+20240510,Royals,Angels,0,0,Alec Marsh,Griffin Canning,1,1,0,0,Right,Right,4.52,5.20
+20240510,Dodgers,Padres,0,0,Tyler Glasnow,Michael King,1,1,0,0,Right,Right,3.47,3.28
+20240510,Athletics,Mariners,0,0,Paul Blackburn,Bryan Woo,1,1,0,0,Right,Right,4.11,2.54
+20240510,Reds,Giants,1,1,Andrew Abbott,Logan Webb,1,1,1,1,Left,Right,3.19,3.59
+20240511,Twins,Blue Jays,3,0,Simeon Woods Richardson,Kevin Gausman,1,1,0,3,Right,Right,3.51,4.55
+20240511,Diamondbacks,Orioles,0,0,Ryne Nelson,John Means,1,1,0,0,Right,Left,4.78,2.61
+20240511,Cubs,Pirates,0,0,Justin Steele,Paul Skenes,1,1,0,0,Left,Right,3.07,1.90
+20240511,Braves,Mets,0,0,Max Fried,Christian Scott,1,1,0,0,Left,Right,3.08,4.56
+20240511,Yankees,Rays,0,1,Nestor Cortes,Zack Littell,1,1,1,0,Left,Right,3.99,4.46
+20240511,Phillies,Marlins,0,0,Taijuan Walker,Jesus Luzardo,1,1,0,0,Right,Left,5.60,5.00
+20240511,Nationals,Red Sox,0,0,Jake Irvin,Cooper Criswell,1,1,0,0,Right,Right,3.44,4.50
+20240511,Astros,Tigers,0,0,Cristian Javier,Tarik Skubal,1,1,0,0,Right,Left,3.89,2.34
+20240511,Guardians,White Sox,0,0,Triston McKenzie,Mike Clevinger,1,1,0,0,Right,Right,5.11,6.75
+20240511,Reds,Giants,0,4,Nick Lodolo,Mason Black,1,1,4,0,Left,Right,3.51,8.79
+20240511,Cardinals,Brewers,0,0,Kyle Gibson,Freddy Peralta,1,1,0,0,Right,Right,3.99,3.88
+20240511,Rangers,Rockies,0,0,Andrew Heaney,Ryan Feltner,1,1,0,0,Left,Right,3.60,5.19
+20240511,Dodgers,Padres,1,0,James Paxton,Matt Waldron,1,1,0,1,Left,Right,4.43,3.59
+20240511,Royals,Angels,1,0,Cole Ragans,Tyler Anderson,1,1,0,1,Left,Left,3.16,2.97
+20240511,Athletics,Mariners,0,0,Joey Estes,Bryce Miller,1,1,0,0,Right,Right,5.11,3.63
+20240512,Diamondbacks,Orioles,0,0,Zac Gallen,Dean Kremer,1,1,0,0,Right,Right,3.64,4.43
+20240512,Cubs,Pirates,2,0,Kyle Hendricks,Bailey Falter,1,1,0,2,Right,Left,6.69,4.08
+20240512,Nationals,Red Sox,0,0,MacKenzie Gore,Brayan Bello,1,1,0,0,Left,Right,4.20,5.27
+20240512,Twins,Blue Jays,0,0,Bailey Ober,Alek Manoah,1,1,0,0,Right,Right,4.14,3.70
+20240512,Astros,Tigers,0,0,Justin Verlander,Jack Flaherty,1,1,0,0,Right,Right,3.95,3.13
+20240512,Yankees,Rays,1,0,Luis Gil,Tyler Alexander,1,1,0,1,Right,Left,3.17,6.19
+20240512,Phillies,Marlins,3,0,Zack Wheeler,Braxton Garrett,1,1,0,3,Right,Left,2.70,5.35
+20240512,Guardians,White Sox,0,0,Logan Allen,Michael Soroka,1,1,0,0,Left,Right,5.67,5.23
+20240512,Cardinals,Brewers,0,3,Miles Mikolas,Bryse Wilson,1,1,3,0,Right,Right,5.02,4.07
+20240512,Rangers,Rockies,1,2,Jose Urena,Ty Blach,1,1,2,1,Right,Left,3.13,5.46
+20240512,Reds,Giants,3,0,Frankie Montas,Kyle Harrison,1,1,0,3,Right,Left,4.85,3.86
+20240512,Royals,Angels,0,0,Seth Lugo,Patrick Sandoval,1,1,0,0,Right,Left,2.38,5.08
+20240512,Dodgers,Padres,0,2,Walker Buehler,Yu Darvish,1,1,2,0,Right,Right,5.84,3.20
+20240512,Athletics,Mariners,0,1,Alex Wood,Luis Castillo,1,1,1,0,Left,Right,5.26,3.55
+20240512,Braves,Mets,0,0,Bryce Elder,Luis Severino,1,1,0,0,Right,Right,6.35,3.58
+20240513,Blue Jays,Orioles,0,0,Jose Berrios,Corbin Burnes,1,1,0,0,Right,Right,4.01,2.38
+20240513,Marlins,Tigers,0,0,Sixto Sanchez,Matt Manning,1,1,0,0,Right,Right,6.06,4.88
+20240513,Phillies,Mets,0,0,Cristopher Sanchez,Sean Manaea,1,1,0,0,Left,Left,2.97,3.73
+20240513,Rays,Red Sox,3,3,Zach Eflin,Kutter Crawford,1,1,3,3,Right,Right,4.14,3.37
+20240513,Cubs,Braves,0,0,Shota Imanaga,Reynaldo Lopez,1,1,0,0,Left,Right,2.86,2.12
+20240513,Pirates,Brewers,2,0,Mitch Keller,Colin Rea,1,1,0,2,Right,Right,3.34,3.77
+20240513,Guardians,Rangers,0,0,Tanner Bibee,Michael Lorenzen,1,1,0,0,Right,Right,3.58,3.52
+20240513,Athletics,Astros,0,0,Ross Stripling,Spencer Arrighetti,1,1,0,0,Right,Right,5.82,5.63
+20240513,Cardinals,Angels,0,0,Matthew Liberatore,Jose Soriano,1,1,0,0,Left,Right,4.15,3.71
+20240513,Reds,Diamondbacks,0,0,Graham Ashcraft,Jordan Montgomery,1,1,0,0,Right,Left,5.24,6.44
+20240513,Rockies,Padres,0,0,Dakota Hudson,Randy Vasquez,1,1,0,0,Right,Right,5.84,4.57
+20240513,Royals,Mariners,0,0,Brady Singer,George Kirby,1,1,0,0,Right,Right,3.00,3.20
+20240513,Dodgers,Giants,1,0,Yoshinobu Yamamoto,Jordan Hicks,1,1,0,1,Right,Right,2.92,3.79
+20240514,Phillies,Mets,0,0,Aaron Nola,Jose Butto,1,1,0,0,Right,Right,3.54,2.59
+20240514,Nationals,White Sox,0,0,Trevor Williams,Chris Flexen,1,1,0,0,Right,Right,2.22,5.22
+20240514,Marlins,Tigers,0,0,Ryan Weathers,Reese Olson,1,1,0,0,Left,Right,3.55,3.23
+20240514,Rays,Red Sox,1,0,Aaron Civale,Nick Pivetta,1,1,0,1,Right,Right,5.17,3.87
+20240514,Cubs,Braves,0,1,Jameson Taillon,Chris Sale,1,1,1,0,Right,Left,3.10,2.70
+20240514,Yankees,Twins,0,1,Carlos Rodon,Chris Paddack,1,1,1,0,Left,Right,4.42,4.99
+20240514,Pirates,Brewers,0,0,Quinn Priester,Joe Ross,1,1,0,0,Right,Right,4.43,4.50
+20240514,Guardians,Rangers,0,0,Ben Lively,Jack Leiter,1,1,0,0,Right,Right,3.57,16.39
+20240514,Nationals,White Sox,0,0,Mitchell Parker,Erick Fedde,1,1,0,0,Left,Right,3.90,2.99
+20240514,Athletics,Astros,0,0,JP Sears,Ronel Blanco,1,1,0,0,Left,Right,4.49,2.75
+20240514,Cardinals,Angels,0,0,Sonny Gray,Reid Detmers,1,1,0,0,Right,Left,3.54,6.14
+20240514,Reds,Diamondbacks,0,0,Hunter Greene,Slade Cecconi,1,1,0,0,Right,Right,3.14,6.14
+20240514,Rockies,Padres,0,0,Cal Quantrill,Dylan Cease,1,1,0,0,Right,Right,4.15,3.76
+20240514,Royals,Mariners,0,0,Michael Wacha,Logan Gilbert,1,1,0,0,Right,Right,3.55,2.79
+20240514,Dodgers,Giants,0,0,Gavin Stone,Keaton Winn,1,1,0,0,Right,Right,3.19,7.16
+20240515,Blue Jays,Orioles,0,1,Yusei Kikuchi,Kyle Bradish,1,1,1,0,Left,Right,4.54,2.75
+20240515,Marlins,Tigers,2,0,Trevor Rogers,Casey Mize,1,1,0,2,Left,Right,4.59,4.23
+20240515,Pirates,Brewers,0,0,Martin Perez,Robert Gasser,1,1,0,0,Left,Left,5.61,2.57
+20240515,Nationals,White Sox,0,0,Patrick Corbin,Garrett Crochet,1,1,0,0,Left,Left,5.35,3.02
+20240515,Reds,Diamondbacks,0,0,Andrew Abbott,Brandon Pfaadt,1,1,0,0,Left,Right,3.19,3.74
+20240515,Rockies,Padres,0,0,Austin Gomber,Michael King,1,1,0,0,Left,Right,4.61,3.28
+20240515,Royals,Mariners,0,0,Alec Marsh,Bryan Woo,1,1,0,0,Right,Right,4.52,2.54
+20240515,Mets,Phillies,1,1,Joey Lucchesi,Ranger Suarez,1,1,1,1,Left,Left,10.38,2.76
+20240515,Rays,Red Sox,0,1,Taj Bradley,Tanner Houck,1,1,1,0,Right,Right,2.63,2.54
+20240515,Cubs,Braves,3,0,Javier Assad,Charlie Morton,1,1,0,3,Right,Right,3.27,3.92
+20240515,Yankees,Twins,1,0,Marcus Stroman,Pablo Lopez,1,1,0,1,Right,Right,3.51,4.86
+20240515,Guardians,Rangers,0,0,Carlos Carrasco,Jon Gray,1,1,0,0,Right,Right,5.32,3.96
+20240515,Athletics,Astros,0,2,Aaron Brooks,Framber Valdez,1,1,2,0,Right,Left,5.06,3.63
+20240515,Cardinals,Angels,0,4,Lance Lynn,Griffin Canning,1,1,4,0,Right,Right,4.39,5.20
+20240515,Dodgers,Giants,0,0,Elieser Hernandez,Logan Webb,1,1,0,0,Right,Right,6.32,3.59
+20240516,Yankees,Twins,3,0,Clarke Schmidt,Joe Ryan,1,1,0,3,Right,Right,2.52,3.65
+20240516,Mets,Phillies,1,0,Jose Quintana,Taijuan Walker,1,1,0,1,Left,Right,4.13,5.60
+20240516,Rays,Red Sox,0,0,Zack Littell,Cooper Criswell,1,1,0,0,Right,Right,4.46,4.50
+20240516,Pirates,Cubs,2,0,Jared Jones,Justin Steele,1,1,0,2,Right,Left,3.56,3.07
+20240516,Athletics,Astros,0,0,Joey Estes,Cristian Javier,1,1,0,0,Right,Right,5.11,3.89
+20240516,Reds,Dodgers,2,0,Brent Suter,Tyler Glasnow,0.2,1,0,2,Left,Right,3.68,3.47
+20240517,Pirates,Cubs,0,0,Paul Skenes,Kyle Hendricks,1,1,0,0,Right,Right,1.90,6.69
+20240517,Nationals,Phillies,0,1,Jake Irvin,Zack Wheeler,1,1,1,0,Right,Right,3.44,2.70
+20240517,White Sox,Yankees,0,1,Mike Clevinger,Nestor Cortes,1,1,1,0,Right,Left,6.75,3.99
+20240517,Mariners,Orioles,1,5,Bryce Miller,John Means,1,1,5,1,Right,Left,3.63,2.61
+20240517,Rays,Blue Jays,0,0,Tyler Alexander,Chris Bassitt,1,1,0,0,Left,Right,6.19,3.71
+20240517,Twins,Guardians,0,0,Simeon Woods Richardson,Triston McKenzie,1,1,0,0,Right,Right,3.51,5.11
+20240517,Mets,Marlins,0,0,Christian Scott,Jesus Luzardo,1,1,0,0,Right,Left,4.56,5.00
+20240517,Padres,Braves,0,1,Matt Waldron,Max Fried,1,1,1,0,Right,Left,3.59,3.08
+20240517,Athletics,Royals,0,1,Mitch Spence,Cole Ragans,1,1,1,0,Right,Left,4.67,3.16
+20240517,Angels,Rangers,0,0,Tyler Anderson,Andrew Heaney,1,1,0,0,Left,Left,2.97,3.60
+20240517,Brewers,Astros,0,0,Freddy Peralta,Hunter Brown,1,1,0,0,Right,Right,3.88,4.14
+20240517,Red Sox,Cardinals,0,2,Brayan Bello,Kyle Gibson,1,1,2,0,Right,Right,5.27,3.99
+20240517,Tigers,Diamondbacks,0,0,Tarik Skubal,Ryne Nelson,1,1,0,0,Left,Right,2.34,4.78
+20240517,Reds,Dodgers,0,1,Frankie Montas,James Paxton,1,1,1,0,Right,Left,4.85,4.43
+20240517,Rockies,Giants,3,1,Ryan Feltner,Mason Black,1,1,1,3,Right,Right,5.19,8.79
+20240518,White Sox,Yankees,1,2,Brad Keller,Luis Gil,1,1,2,1,Right,Right,5.13,3.17
+20240518,Pirates,Cubs,0,0,Bailey Falter,Shota Imanaga,1,1,0,0,Left,Left,4.08,2.86
+20240518,Rays,Blue Jays,0,0,Zach Eflin,Kevin Gausman,1,1,0,0,Right,Right,4.14,4.55
+20240518,Rockies,Giants,0,3,Ty Blach,Kyle Harrison,1,1,3,0,Left,Left,5.46,3.86
+20240518,Mariners,Orioles,0,0,Luis Castillo,Grayson Rodriguez,1,1,0,0,Right,Right,3.55,3.83
+20240518,Mets,Marlins,2,0,Luis Severino,Braxton Garrett,1,1,0,2,Right,Left,3.58,5.35
+20240518,Nationals,Phillies,1,0,MacKenzie Gore,Cristopher Sanchez,1,1,0,1,Left,Left,4.20,2.97
+20240518,Twins,Guardians,0,2,Bailey Ober,Logan Allen,1,1,2,0,Right,Left,4.14,5.67
+20240518,Brewers,Astros,0,0,Bryse Wilson,Justin Verlander,1,1,0,0,Right,Right,4.07,3.95
+20240518,Athletics,Royals,0,2,Ross Stripling,Seth Lugo,1,1,2,0,Right,Right,5.82,2.38
+20240518,Angels,Rangers,0,0,Patrick Sandoval,Jose Urena,1,1,0,0,Left,Right,5.08,3.13
+20240518,Red Sox,Cardinals,0,0,Kutter Crawford,Miles Mikolas,1,1,0,0,Right,Right,3.37,5.02
+20240518,Tigers,Diamondbacks,0,0,Jack Flaherty,Zac Gallen,1,1,0,0,Right,Right,3.13,3.64
+20240518,Reds,Dodgers,0,0,Graham Ashcraft,Walker Buehler,1,1,0,0,Right,Right,5.24,5.84
+20240519,Red Sox,Cardinals,1,0,Nick Pivetta,Matthew Liberatore,1,1,0,1,Right,Left,3.87,4.15
+20240519,White Sox,Yankees,0,0,Chris Flexen,Carlos Rodon,1,1,0,0,Right,Left,5.22,4.42
+20240519,Mariners,Orioles,0,2,George Kirby,Corbin Burnes,1,1,2,0,Right,Right,3.20,2.38
+20240519,Nationals,Phillies,0,0,Trevor Williams,Aaron Nola,1,1,0,0,Right,Right,2.22,3.54
+20240519,Rays,Blue Jays,0,0,Aaron Civale,Alek Manoah,1,1,0,0,Right,Right,5.17,3.70
+20240519,Twins,Guardians,0,2,Chris Paddack,Tanner Bibee,1,1,2,0,Right,Right,4.99,3.58
+20240519,Mets,Marlins,4,0,Sean Manaea,Sixto Sanchez,1,1,0,4,Left,Right,3.73,6.06
+20240519,Brewers,Astros,1,4,Colin Rea,Spencer Arrighetti,1,1,4,1,Right,Right,3.77,5.63
+20240519,Athletics,Royals,0,2,JP Sears,Brady Singer,1,1,2,0,Left,Right,4.49,3.00
+20240519,Pirates,Cubs,0,0,Mitch Keller,Jameson Taillon,1,1,0,0,Right,Right,3.34,3.10
+20240519,Angels,Rangers,0,0,Jose Soriano,Michael Lorenzen,1,1,0,0,Right,Right,3.71,3.52
+20240519,Rockies,Giants,1,0,Dakota Hudson,Jordan Hicks,1,1,0,1,Right,Right,5.84,3.79
+20240519,Reds,Dodgers,0,0,Hunter Greene,Landon Knack,1,1,0,0,Right,Right,3.14,3.23
+20240519,Tigers,Diamondbacks,0,2,Matt Manning,Jordan Montgomery,1,1,2,0,Right,Left,4.88,6.44
+20240519,Padres,Braves,3,0,Yu Darvish,Bryce Elder,1,1,0,3,Right,Right,3.20,6.35
+20240520,Padres,Braves,0,2,Dylan Cease,Reynaldo Lopez,1,1,2,0,Right,Right,3.76,2.12
+20240520,White Sox,Blue Jays,0,0,Erick Fedde,Jose Berrios,1,1,0,0,Right,Right,2.99,4.01
+20240520,Mets,Guardians,0,2,Tylor Megill,Ben Lively,1,1,2,0,Right,Right,5.08,3.57
+20240520,Padres,Braves,0,1,Randy Vasquez,Chris Sale,1,1,1,0,Right,Left,4.57,2.70
+20240520,Brewers,Marlins,0,0,Joe Ross,Ryan Weathers,1,1,0,0,Right,Left,4.50,3.55
+20240520,Twins,Nationals,0,0,Pablo Lopez,Mitchell Parker,1,1,0,0,Right,Left,4.86,3.90
+20240520,Red Sox,Rays,0,0,Tanner Houck,Taj Bradley,1,1,0,0,Right,Right,2.54,2.63
+20240520,Mariners,Yankees,0,2,Logan Gilbert,Marcus Stroman,1,1,2,0,Right,Right,2.79,3.51
+20240520,Tigers,Royals,0,0,Reese Olson,Michael Wacha,1,1,0,0,Right,Right,3.23,3.55
+20240520,Orioles,Cardinals,0,0,Dean Kremer,Sonny Gray,1,1,0,0,Right,Right,4.43,3.54
+20240520,Angels,Astros,1,0,Reid Detmers,Framber Valdez,1,1,0,1,Left,Left,6.14,3.63
+20240520,Diamondbacks,Dodgers,0,0,Joe Mantiply,Yoshinobu Yamamoto,1,1,0,0,Left,Right,4.17,2.92
+20240521,Mets,Guardians,0,0,Adrian Houser,Xzavion Curry,1,1,0,0,Right,Right,5.80,5.19
+20240521,Brewers,Marlins,1,0,Robert Gasser,Trevor Rogers,1,1,0,1,Left,Left,2.57,4.59
+20240521,Padres,Reds,0,0,Joe Musgrove,Andrew Abbott,1,1,0,0,Right,Left,5.66,3.19
+20240521,Giants,Pirates,2,0,Logan Webb,Martin Perez,1,1,0,2,Right,Left,3.59,5.61
+20240521,Rangers,Phillies,0,0,Jon Gray,Ranger Suarez,1,1,0,0,Right,Left,3.96,2.76
+20240521,Twins,Nationals,0,0,Joe Ryan,Patrick Corbin,1,1,0,0,Right,Left,3.65,5.35
+20240521,Red Sox,Rays,0,2,Cooper Criswell,Zack Littell,1,1,2,0,Right,Right,4.50,4.46
+20240521,Mariners,Yankees,0,0,Bryan Woo,Clarke Schmidt,1,1,0,0,Right,Right,2.54,2.52
+20240521,White Sox,Blue Jays,0,0,Garrett Crochet,Yusei Kikuchi,1,1,0,0,Left,Left,3.02,4.54
+20240521,Braves,Cubs,0,0,Charlie Morton,Javier Assad,1,1,0,0,Right,Right,3.92,3.27
+20240521,Tigers,Royals,0,2,Casey Mize,Alec Marsh,1,1,2,0,Right,Right,4.23,4.52
+20240521,Orioles,Cardinals,0,0,Kyle Bradish,Lance Lynn,1,1,0,0,Right,Right,2.75,4.39
+20240521,Angels,Astros,2,2,Griffin Canning,Cristian Javier,1,1,2,2,Right,Right,5.20,3.89
+20240521,Rockies,Athletics,2,0,Cal Quantrill,Aaron Brooks,1,1,0,2,Right,Right,4.15,5.06
+20240521,Diamondbacks,Dodgers,0,0,Brandon Pfaadt,Gavin Stone,1,1,0,0,Right,Right,3.74,3.19
+20240522,Orioles,Cardinals,0,0,Kyle Bradish,Lance Lynn,1,1,0,0,Right,Right,2.75,4.39
+20240522,Twins,Nationals,0,0,Simeon Woods Richardson,Jake Irvin,1,1,0,0,Right,Right,3.51,3.44
+20240522,Mets,Guardians,1,0,Jose Quintana,Triston McKenzie,1,1,0,1,Left,Right,4.13,5.11
+20240522,Orioles,Cardinals,0,0,John Means,Kyle Gibson,1,1,0,0,Left,Right,2.61,3.99
+20240522,Angels,Astros,0,0,Tyler Anderson,Hunter Brown,1,1,0,0,Left,Right,2.97,4.14
+20240522,Tigers,Royals,0,0,Tarik Skubal,Cole Ragans,1,1,0,0,Left,Left,2.34,3.16
+20240522,Brewers,Marlins,0,1,Freddy Peralta,Jesus Luzardo,1,1,1,0,Right,Left,3.88,5.00
+20240522,Padres,Reds,1,1,Michael King,Nick Martinez,1,1,1,1,Right,Right,3.28,3.88
+20240522,Giants,Pirates,0,0,Blake Snell,Jared Jones,1,1,0,0,Left,Right,6.31,3.56
+20240522,Rangers,Phillies,1,0,Dane Dunning,Taijuan Walker,1,1,0,1,Right,Right,4.71,5.60
+20240522,Red Sox,Rays,0,0,Brayan Bello,Ryan Pepiot,1,1,0,0,Right,Right,5.27,3.92
+20240522,Mariners,Yankees,0,2,Bryce Miller,Nestor Cortes,1,1,2,0,Right,Left,3.63,3.99
+20240522,White Sox,Blue Jays,0,0,Nick Nastrini,Chris Bassitt,1,1,0,0,Right,Right,8.39,3.71
+20240522,Braves,Cubs,0,0,Max Fried,Justin Steele,1,1,0,0,Left,Left,3.08,3.07
+20240522,Rockies,Athletics,2,0,Austin Gomber,Mitch Spence,1,1,0,2,Left,Right,4.61,4.67
+20240522,Diamondbacks,Dodgers,0,0,Brandon Hughes,Tyler Glasnow,0.2,1,0,0,Left,Right,10.29,3.47
+20240523,Mariners,Yankees,0,0,Luis Castillo,Luis Gil,1,1,0,0,Right,Right,3.55,3.17
+20240523,Giants,Pirates,0,1,Erik Miller,Paul Skenes,1,1,1,0,Left,Right,3.27,1.90
+20240523,Rangers,Phillies,0,0,Andrew Heaney,Zack Wheeler,1,1,0,0,Left,Right,3.60,2.70
+20240523,Padres,Reds,2,1,Matt Waldron,Frankie Montas,1,1,1,2,Right,Right,3.59,4.85
+20240523,Braves,Cubs,0,0,AJ Smith-Shawver,Ben Brown,1,1,0,0,Right,Right,0.00,3.58
+20240523,Rockies,Athletics,2,0,Ryan Feltner,Joey Estes,1,1,0,2,Right,Right,5.19,5.11
+20240523,Blue Jays,Tigers,0,0,Kevin Gausman,Jack Flaherty,1,1,0,0,Right,Right,4.55,3.13
+20240523,Orioles,White Sox,0,1,Grayson Rodriguez,Mike Clevinger,1,1,1,0,Right,Right,3.83,6.75
+20240524,Braves,Pirates,0,2,Ray Kerr,Bailey Falter,1,1,2,0,Left,Left,5.64,4.08
+20240524,Blue Jays,Tigers,0,0,Alek Manoah,Kenta Maeda,1,1,0,0,Right,Right,3.70,7.07
+20240524,Mariners,Nationals,1,0,George Kirby,MacKenzie Gore,1,1,0,1,Right,Left,3.20,4.20
+20240524,Royals,Rays,0,1,Seth Lugo,Shawn Armstrong,1,1,1,0,Right,Right,2.38,5.91
+20240524,Dodgers,Reds,0,3,James Paxton,Graham Ashcraft,1,1,3,0,Left,Right,4.43,5.24
+20240524,Brewers,Red Sox,0,0,Jared Koenig,Kutter Crawford,0.2,1,0,0,Left,Right,1.62,3.37
+20240524,Giants,Mets,0,1,Kyle Harrison,Christian Scott,1,1,1,0,Left,Right,3.86,4.56
+20240524,Rangers,Twins,2,0,Jose Urena,Bailey Ober,1,1,0,2,Right,Right,3.13,4.14
+20240524,Orioles,White Sox,0,0,Corbin Burnes,Chris Flexen,1,1,0,0,Right,Right,2.38,5.22
+20240524,Phillies,Rockies,0,0,Cristopher Sanchez,Ty Blach,1,1,0,0,Left,Left,2.97,5.46
+20240524,Guardians,Angels,0,1,Logan Allen,Patrick Sandoval,1,1,1,0,Left,Left,5.67,5.08
+20240524,Astros,Athletics,0,1,Justin Verlander,Ross Stripling,1,1,1,0,Right,Right,3.95,5.82
+20240524,Marlins,Diamondbacks,0,0,Braxton Garrett,Zac Gallen,1,1,0,0,Left,Right,5.35,3.64
+20240524,Yankees,Padres,1,0,Carlos Rodon,Yu Darvish,1,1,0,1,Left,Right,4.42,3.20
+20240525,Blue Jays,Tigers,0,2,Jose Berrios,Reese Olson,1,1,2,0,Right,Right,4.01,3.23
+20240525,Giants,Mets,0,0,Jordan Hicks,Luis Severino,1,1,0,0,Right,Right,3.79,3.58
+20240525,Orioles,White Sox,0,0,Albert Suarez,Erick Fedde,1,1,0,0,Right,Right,2.82,2.99
+20240525,Rangers,Twins,0,1,Michael Lorenzen,Chris Paddack,1,1,1,0,Right,Right,3.52,4.99
+20240525,Braves,Pirates,0,0,Reynaldo Lopez,Mitch Keller,1,1,0,0,Right,Right,2.12,3.34
+20240525,Mariners,Nationals,0,0,Logan Gilbert,Trevor Williams,1,1,0,0,Right,Right,2.79,2.22
+20240525,Astros,Athletics,0,2,Spencer Arrighetti,JP Sears,1,1,2,0,Right,Left,5.63,4.49
+20240525,Royals,Rays,0,0,Brady Singer,Aaron Civale,1,1,0,0,Right,Right,3.00,5.17
+20240525,Brewers,Red Sox,0,0,Jared Koenig,Nick Pivetta,1,1,0,0,Left,Right,1.62,3.87
+20240525,Cubs,Cardinals,0,0,Jameson Taillon,Miles Mikolas,1,1,0,0,Right,Right,3.10,5.02
+20240525,Dodgers,Reds,0,1,Walker Buehler,Hunter Greene,1,1,1,0,Right,Right,5.84,3.14
+20240525,Phillies,Rockies,1,1,Aaron Nola,Dakota Hudson,1,1,1,1,Right,Right,3.54,5.84
+20240525,Guardians,Angels,0,0,Tanner Bibee,Jose Soriano,1,1,0,0,Right,Right,3.58,3.71
+20240525,Yankees,Padres,2,0,Marcus Stroman,Dylan Cease,1,1,0,2,Right,Right,3.51,3.76
+20240525,Marlins,Diamondbacks,1,2,Sixto Sanchez,Jordan Montgomery,1,1,2,1,Right,Left,6.06,6.44
+20240526,Blue Jays,Tigers,0,0,Yusei Kikuchi,Casey Mize,1,1,0,0,Left,Right,4.54,4.23
+20240526,Dodgers,Reds,0,0,Yoshinobu Yamamoto,Brent Suter,1,0.2,0,0,Right,Left,2.92,3.68
+20240526,Braves,Pirates,0,0,Chris Sale,Martin Perez,1,1,0,0,Left,Left,2.70,5.61
+20240526,Brewers,Red Sox,0,0,Tobias Myers,Tanner Houck,1,1,0,0,Right,Right,3.13,2.54
+20240526,Mariners,Nationals,0,0,Bryan Woo,Patrick Corbin,1,1,0,0,Right,Left,2.54,5.35
+20240526,Royals,Rays,0,0,Michael Wacha,Taj Bradley,1,1,0,0,Right,Right,3.55,2.63
+20240526,Giants,Mets,0,0,Logan Webb,Sean Manaea,1,1,0,0,Right,Left,3.59,3.73
+20240526,Orioles,White Sox,0,0,Kyle Bradish,Garrett Crochet,1,1,0,0,Right,Left,2.75,3.02
+20240526,Rangers,Twins,0,0,Gerson Garabito,Pablo Lopez,1,1,0,0,Right,Right,1.59,4.86
+20240526,Phillies,Rockies,0,2,Ranger Suarez,Cal Quantrill,1,1,2,0,Left,Right,2.76,4.15
+20240526,Guardians,Angels,0,0,Ben Lively,Reid Detmers,1,1,0,0,Right,Left,3.57,6.14
+20240526,Astros,Athletics,0,0,Ronel Blanco,Aaron Brooks,1,1,0,0,Right,Right,2.75,5.06
+20240526,Marlins,Diamondbacks,0,0,Ryan Weathers,Blake Walston,1,1,0,0,Left,Left,3.55,2.84
+20240526,Yankees,Padres,0,0,Clarke Schmidt,Joe Musgrove,1,1,0,0,Right,Right,2.52,5.66
+20240526,Cubs,Cardinals,0,0,Javier Assad,Sonny Gray,1,1,0,0,Right,Right,3.27,3.54
+20240527,Red Sox,Orioles,0,0,Cooper Criswell,Cole Irvin,1,1,0,0,Right,Left,4.50,4.67
+20240527,Royals,Twins,0,0,Alec Marsh,Joe Ryan,1,1,0,0,Right,Right,4.52,3.65
+20240527,Blue Jays,White Sox,0,0,Chris Bassitt,Nick Nastrini,1,1,0,0,Right,Right,3.71,8.39
+20240527,Cubs,Brewers,0,0,Justin Steele,Robert Gasser,1,1,0,0,Left,Left,3.07,2.57
+20240527,Guardians,Rockies,1,0,Xzavion Curry,Anthony Molina,1,1,0,1,Right,Right,5.19,6.94
+20240527,Cardinals,Reds,1,1,Lance Lynn,Nick Lodolo,1,1,1,1,Right,Left,4.39,3.51
+20240527,Nationals,Braves,4,0,Mitchell Parker,Charlie Morton,1,1,0,4,Left,Right,3.90,3.92
+20240527,Phillies,Giants,0,0,Taijuan Walker,Blake Snell,1,1,0,0,Right,Left,5.60,6.31
+20240527,Marlins,Padres,0,0,Trevor Rogers,Michael King,1,1,0,0,Left,Right,4.59,3.28
+20240527,Astros,Mariners,0,3,Framber Valdez,Bryce Miller,1,1,3,0,Left,Right,3.63,3.63
+20240528,Dodgers,Mets,0,0,Tyler Glasnow,Tylor Megill,1,1,0,0,Right,Right,3.47,5.08
+20240528,Red Sox,Orioles,2,3,Brayan Bello,Grayson Rodriguez,1,1,3,2,Right,Right,5.27,3.83
+20240528,Cardinals,Reds,0,0,Kyle Gibson,Andrew Abbott,1,1,0,0,Right,Left,3.99,3.19
+20240528,Athletics,Rays,0,0,Mitch Spence,Zack Littell,1,1,0,0,Right,Right,4.67,4.46
+20240528,Nationals,Braves,0,0,Jake Irvin,Max Fried,1,1,0,0,Right,Left,3.44,3.08
+20240528,Cubs,Brewers,0,0,Ben Brown,Freddy Peralta,1,1,0,0,Right,Right,3.58,3.88
+20240528,Royals,Twins,0,2,Cole Ragans,Simeon Woods Richardson,1,1,2,0,Left,Right,3.16,3.51
+20240528,Dodgers,Mets,1,0,Gavin Stone,Jose Quintana,1,1,0,1,Right,Left,3.19,4.13
+20240528,Blue Jays,White Sox,0,0,Kevin Gausman,Jake Woodford,1,1,0,0,Right,Right,4.55,10.80
+20240528,Diamondbacks,Rangers,0,0,Brandon Pfaadt,Nathan Eovaldi,1,1,0,0,Right,Right,3.74,3.36
+20240528,Guardians,Rockies,2,0,Triston McKenzie,Ryan Feltner,1,1,0,2,Right,Right,5.11,5.19
+20240528,Yankees,Angels,1,2,Nestor Cortes,Griffin Canning,1,1,2,1,Left,Right,3.99,5.20
+20240528,Astros,Mariners,0,1,Hunter Brown,Luis Castillo,1,1,1,0,Right,Right,4.14,3.55
+20240528,Marlins,Padres,0,2,Jesus Luzardo,Matt Waldron,1,1,2,0,Left,Right,5.00,3.59
+20240528,Phillies,Giants,0,0,Zack Wheeler,Erik Miller,1,1,0,0,Right,Left,2.70,3.27
+20240529,Pirates,Tigers,0,3,Jared Jones,Tarik Skubal,1,1,3,0,Right,Left,3.56,2.34
+20240529,Cardinals,Reds,0,0,Andre Pallante,Frankie Montas,1,1,0,0,Right,Right,3.92,4.85
+20240529,Diamondbacks,Rangers,0,0,Ryne Nelson,Dane Dunning,1,1,0,0,Right,Right,4.78,4.71
+20240529,Pirates,Tigers,0,0,Paul Skenes,Keider Montero,1,1,0,0,Right,Right,1.90,5.97
+20240529,Phillies,Giants,1,0,Cristopher Sanchez,Kyle Harrison,1,1,0,1,Left,Left,2.97,3.86
+20240529,Dodgers,Mets,0,0,James Paxton,David Peterson,1,1,0,0,Left,Left,4.43,3.14
+20240529,Marlins,Padres,0,0,Braxton Garrett,Yu Darvish,1,1,0,0,Left,Right,5.35,3.20
+20240529,Red Sox,Orioles,0,0,Kutter Crawford,Corbin Burnes,1,1,0,0,Right,Right,3.37,2.38
+20240529,Athletics,Rays,0,0,Joey Estes,Ryan Pepiot,1,1,0,0,Right,Right,5.11,3.92
+20240529,Nationals,Braves,0,0,MacKenzie Gore,Spencer Schwellenbach,1,1,0,0,Left,Right,4.20,4.62
+20240529,Cubs,Brewers,0,2,Shota Imanaga,Bryse Wilson,1,1,2,0,Left,Right,2.86,4.07
+20240529,Royals,Twins,0,0,Seth Lugo,Bailey Ober,1,1,0,0,Right,Right,2.38,4.14
+20240529,Blue Jays,White Sox,0,0,Alek Manoah,Chris Flexen,1,1,0,0,Right,Right,3.70,5.22
+20240529,Guardians,Rockies,2,1,Logan Allen,Ty Blach,1,1,1,2,Left,Left,5.67,5.46
+20240529,Yankees,Angels,0,0,Luis Gil,Tyler Anderson,1,1,0,0,Right,Left,3.17,2.97
+20240529,Astros,Mariners,0,0,Justin Verlander,George Kirby,1,1,0,0,Right,Right,3.95,3.20
+20240530,Cubs,Brewers,1,0,Jameson Taillon,Colin Rea,1,1,0,1,Right,Right,3.10,3.77
+20240530,Royals,Twins,2,0,Daniel Lynch IV,Chris Paddack,1,1,0,2,Left,Right,6.35,4.99
+20240530,Athletics,Rays,0,2,Hogan Harris,Shawn Armstrong,1,1,2,0,Left,Right,3.40,5.91
+20240530,Astros,Mariners,0,0,Spencer Arrighetti,Logan Gilbert,1,1,0,0,Right,Right,5.63,2.79
+20240530,Diamondbacks,Mets,0,0,Zac Gallen,Christian Scott,0.0,1,0,0,Right,Right,3.64,4.56
+20240530,Tigers,Red Sox,0,0,Jack Flaherty,Nick Pivetta,1,1,0,0,Right,Right,3.13,3.87
+20240530,Nationals,Braves,0,0,Trevor Williams,Ray Kerr,1,1,0,0,Right,Left,2.22,5.64
+20240530,Yankees,Angels,0,0,Carlos Rodon,Patrick Sandoval,1,1,0,0,Left,Left,4.42,5.08
+20240531,Reds,Cubs,0,0,Graham Ashcraft,Javier Assad,1,1,0,0,Right,Right,5.24,3.27
+20240531,Cardinals,Phillies,0,0,Miles Mikolas,Aaron Nola,1,1,0,0,Right,Right,5.02,3.54
+20240531,Rays,Orioles,0,0,Aaron Civale,Albert Suarez,1,1,0,0,Right,Right,5.17,2.82
+20240531,Pirates,Blue Jays,0,0,Bailey Falter,Jose Berrios,1,1,0,0,Left,Right,4.08,4.01
+20240531,Diamondbacks,Mets,3,4,Jordan Montgomery,Luis Severino,1,1,4,3,Left,Right,6.44,3.58
+20240531,Tigers,Red Sox,1,0,Kenta Maeda,Tanner Houck,1,1,0,1,Right,Right,7.07,2.54
+20240531,Rangers,Marlins,0,0,Jose Urena,Sixto Sanchez,1,1,0,0,Right,Right,3.13,6.06
+20240531,Nationals,Guardians,0,0,Patrick Corbin,Tanner Bibee,1,1,0,0,Left,Right,5.35,3.58
+20240531,Athletics,Braves,0,1,JP Sears,Reynaldo Lopez,1,1,1,0,Left,Right,4.49,2.12
+20240531,White Sox,Brewers,0,0,Erick Fedde,Tobias Myers,1,1,0,0,Right,Right,2.99,3.13
+20240531,Twins,Astros,0,0,Pablo Lopez,Ronel Blanco,1,1,0,0,Right,Right,4.86,2.75
+20240531,Padres,Royals,0,0,Dylan Cease,Michael Wacha,1,1,0,0,Right,Right,3.76,3.55
+20240531,Angels,Mariners,0,3,Jose Soriano,Bryan Woo,1,1,3,0,Right,Right,3.71,2.54
+20240531,Rockies,Dodgers,0,0,Dakota Hudson,Walker Buehler,1,1,0,0,Right,Right,5.84,5.84
+20240531,Yankees,Giants,0,0,Marcus Stroman,Jordan Hicks,1,1,0,0,Right,Right,3.51,3.79
+20240601,Pirates,Blue Jays,3,0,Mitch Keller,Yusei Kikuchi,1,1,0,3,Right,Left,3.34,4.54
+20240601,Rays,Orioles,0,3,Taj Bradley,Kyle Bradish,1,1,3,0,Right,Right,2.63,2.75
+20240601,Diamondbacks,Mets,0,0,Slade Cecconi,Sean Manaea,1,1,0,0,Right,Left,6.14,3.73
+20240601,White Sox,Brewers,0,0,Garrett Crochet,Robert Gasser,1,1,0,0,Left,Left,3.02,2.57
+20240601,Tigers,Red Sox,1,0,Reese Olson,Cooper Criswell,1,1,0,1,Right,Right,3.23,4.50
+20240601,Twins,Astros,0,2,Joe Ryan,Framber Valdez,1,1,2,0,Right,Left,3.65,3.63
+20240601,Athletics,Braves,2,2,Aaron Brooks,Chris Sale,1,1,2,2,Right,Left,5.06,2.70
+20240601,Padres,Royals,1,2,Randy Vasquez,Alec Marsh,1,1,2,1,Right,Right,4.57,4.52
+20240601,Rangers,Marlins,0,0,Michael Lorenzen,Ryan Weathers,1,1,0,0,Right,Left,3.52,3.55
+20240601,Nationals,Guardians,0,2,Mitchell Parker,Ben Lively,1,1,2,0,Left,Right,3.90,3.57
+20240601,Angels,Mariners,0,0,Reid Detmers,Bryce Miller,1,1,0,0,Left,Right,6.14,3.63
+20240601,Reds,Cubs,0,0,Hunter Greene,Justin Steele,1,1,0,0,Right,Left,3.14,3.07
+20240601,Cardinals,Phillies,0,3,Sonny Gray,Ranger Suarez,1,1,3,0,Right,Left,3.54,2.76
+20240601,Yankees,Giants,2,0,Cody Poteet,Logan Webb,1,1,0,2,Right,Right,2.14,3.59
+20240601,Rockies,Dodgers,0,0,Cal Quantrill,Yoshinobu Yamamoto,1,1,0,0,Right,Right,4.15,2.92
+20240602,Twins,Astros,1,0,Simeon Woods Richardson,Hunter Brown,1,1,0,1,Right,Right,3.51,4.14
+20240602,Tigers,Red Sox,0,1,Casey Mize,Brayan Bello,1,1,1,0,Right,Right,4.23,5.27
+20240602,Athletics,Braves,0,1,Luis Medina,Charlie Morton,1,1,1,0,Right,Right,5.18,3.92
+20240602,Rays,Orioles,0,1,Zack Littell,Cole Irvin,1,1,1,0,Right,Left,4.46,4.67
+20240602,Pirates,Blue Jays,0,0,Quinn Priester,Chris Bassitt,1,1,0,0,Right,Right,4.43,3.71
+20240602,Diamondbacks,Mets,2,0,Brandon Pfaadt,Jose Quintana,1,1,0,2,Right,Left,3.74,4.13
+20240602,Rangers,Marlins,3,0,Andrew Heaney,Trevor Rogers,1,1,0,3,Left,Left,3.60,4.59
+20240602,Nationals,Guardians,0,0,Jake Irvin,Carlos Carrasco,1,1,0,0,Right,Right,3.44,5.32
+20240602,White Sox,Brewers,2,0,Nick Nastrini,Freddy Peralta,1,1,0,2,Right,Right,8.39,3.88
+20240602,Padres,Royals,0,0,Michael King,Cole Ragans,1,1,0,0,Right,Left,3.28,3.16
+20240602,Reds,Cubs,0,0,Nick Lodolo,Ben Brown,1,1,0,0,Left,Right,3.51,3.58
+20240602,Yankees,Giants,1,0,Nestor Cortes,Blake Snell,1,1,0,1,Left,Left,3.99,6.31
+20240602,Angels,Mariners,0,0,Griffin Canning,Luis Castillo,1,1,0,0,Right,Right,5.20,3.55
+20240602,Rockies,Dodgers,0,2,Austin Gomber,Gavin Stone,1,1,2,0,Left,Right,4.61,3.19
+20240602,Cardinals,Phillies,2,0,Lance Lynn,Taijuan Walker,1,1,0,2,Right,Right,4.39,5.60
+20240603,Brewers,Phillies,0,0,Jared Koenig,Zack Wheeler,1,1,0,0,Left,Right,1.62,2.70
+20240603,Mets,Nationals,0,0,Tylor Megill,MacKenzie Gore,1,1,0,0,Right,Left,5.08,4.20
+20240603,Orioles,Blue Jays,0,0,Grayson Rodriguez,Kevin Gausman,1,1,0,0,Right,Right,3.83,4.55
+20240603,Tigers,Rangers,0,1,Tarik Skubal,Nathan Eovaldi,1,1,1,0,Left,Right,2.34,3.36
+20240603,Cardinals,Astros,2,0,Kyle Gibson,Justin Verlander,1,1,0,2,Right,Right,3.99,3.95
+20240603,Reds,Rockies,0,1,Andrew Abbott,Ryan Feltner,1,1,1,0,Left,Right,3.19,5.19
+20240603,Padres,Angels,1,0,Matt Waldron,Tyler Anderson,1,1,0,1,Right,Left,3.59,2.97
+20240603,Giants,Diamondbacks,0,0,Erik Miller,Ryne Nelson,1,1,0,0,Left,Right,3.27,4.78
+20240604,Royals,Guardians,0,0,Seth Lugo,Triston McKenzie,1,1,0,0,Right,Right,2.38,5.11
+20240604,Dodgers,Pirates,0,0,Tyler Glasnow,Jared Jones,1,1,0,0,Right,Right,3.47,3.56
+20240604,Brewers,Phillies,0,0,Jared Koenig,Cristopher Sanchez,1,1,0,0,Left,Left,1.62,2.97
+20240604,Rays,Marlins,0,3,Ryan Pepiot,Jesus Luzardo,1,1,3,0,Right,Left,3.92,5.00
+20240604,Mets,Nationals,0,0,David Peterson,DJ Herz,1,1,0,0,Left,Left,3.14,5.17
+20240604,Twins,Yankees,0,0,Bailey Ober,Luis Gil,1,1,0,0,Right,Right,4.14,3.17
+20240604,Orioles,Blue Jays,0,0,Corbin Burnes,Trevor Richards,1,1,0,0,Right,Right,2.38,4.14
+20240604,Braves,Red Sox,0,0,Max Fried,Kutter Crawford,1,1,0,0,Left,Right,3.08,3.37
+20240604,White Sox,Cubs,0,0,Chris Flexen,Shota Imanaga,1,1,0,0,Right,Left,5.22,2.86
+20240604,Tigers,Rangers,0,0,Jack Flaherty,Dane Dunning,1,1,0,0,Right,Right,3.13,4.71
+20240604,Cardinals,Astros,1,2,Andre Pallante,Spencer Arrighetti,1,1,2,1,Right,Right,3.92,5.63
+20240604,Reds,Rockies,1,0,Frankie Montas,Ty Blach,1,1,0,1,Right,Left,4.85,5.46
+20240604,Padres,Angels,0,0,Adam Mazur,Patrick Sandoval,1,1,0,0,Right,Left,7.84,5.08
+20240604,Mariners,Athletics,0,0,George Kirby,Mitch Spence,1,1,0,0,Right,Right,3.20,4.67
+20240604,Giants,Diamondbacks,0,0,Kyle Harrison,Blake Walston,1,1,0,0,Left,Left,3.86,2.84
+20240605,Braves,Red Sox,0,0,Spencer Schwellenbach,Nick Pivetta,1,1,0,0,Right,Right,4.62,3.87
+20240605,Cardinals,Astros,0,0,Miles Mikolas,Ronel Blanco,1,1,0,0,Right,Right,5.02,2.75
+20240605,Reds,Rockies,0,4,Graham Ashcraft,Dakota Hudson,1,1,4,0,Right,Right,5.24,5.84
+20240605,Giants,Diamondbacks,0,1,Jordan Hicks,Jordan Montgomery,1,1,1,0,Right,Left,3.79,6.44
+20240605,Brewers,Phillies,0,0,Aaron Ashby,Aaron Nola,1,1,0,0,Left,Right,6.23,3.54
+20240605,Mets,Nationals,0,0,Luis Severino,Patrick Corbin,1,1,0,0,Right,Left,3.58,5.35
+20240605,Dodgers,Pirates,0,0,James Paxton,Paul Skenes,1,1,0,0,Left,Right,4.43,1.90
+20240605,Rays,Marlins,3,2,Zach Eflin,Braxton Garrett,1,1,2,3,Right,Left,4.14,5.35
+20240605,Twins,Yankees,0,4,Chris Paddack,Carlos Rodon,1,1,4,0,Right,Left,4.99,4.42
+20240605,Orioles,Blue Jays,0,0,Albert Suarez,Jose Berrios,1,1,0,0,Right,Right,2.82,4.01
+20240605,White Sox,Cubs,1,0,Erick Fedde,Jameson Taillon,1,1,0,1,Right,Right,2.99,3.10
+20240605,Tigers,Rangers,0,0,Kenta Maeda,Jose Urena,0.0,1,0,0,Right,Right,7.07,3.13
+20240605,Padres,Angels,0,1,Dylan Cease,Jose Soriano,1,1,1,0,Right,Right,3.76,3.71
+20240605,Mariners,Athletics,0,0,Logan Gilbert,Joey Estes,1,1,0,0,Right,Right,2.79,5.11
+20240606,Orioles,Blue Jays,0,0,Cade Povich,Yusei Kikuchi,1,1,0,0,Left,Left,6.27,4.54
+20240606,Royals,Guardians,1,1,Brady Singer,Tanner Bibee,1,1,1,1,Right,Right,3.00,3.58
+20240606,Mariners,Athletics,0,0,Bryan Woo,JP Sears,1,1,0,0,Right,Left,2.54,4.49
+20240606,Dodgers,Pirates,4,0,Walker Buehler,Bailey Falter,1,1,0,4,Right,Left,5.84,4.08
+20240606,Braves,Nationals,0,0,Reynaldo Lopez,Mitchell Parker,1,1,0,0,Right,Left,2.12,3.90
+20240606,Twins,Yankees,1,0,Pablo Lopez,Marcus Stroman,1,1,0,1,Right,Right,4.86,3.51
+20240606,Cubs,Reds,0,0,Javier Assad,Hunter Greene,1,1,0,0,Right,Right,3.27,3.14
+20240606,Rockies,Cardinals,0,0,Cal Quantrill,Sonny Gray,1,1,0,0,Right,Right,4.15,3.54
+20240606,Red Sox,White Sox,1,0,Tanner Houck,Jake Woodford,1,1,0,1,Right,Right,2.54,10.80
+20240606,Diamondbacks,Padres,1,0,Slade Cecconi,Randy Vasquez,1,1,0,1,Right,Right,6.14,4.57
+20240607,Brewers,Tigers,0,0,Tobias Myers,Reese Olson,1,1,0,0,Right,Right,3.13,3.23
+20240607,Twins,Pirates,0,0,Joe Ryan,Mitch Keller,1,1,0,0,Right,Right,3.65,3.34
+20240607,Braves,Nationals,0,0,Chris Sale,Jake Irvin,1,1,0,0,Left,Right,2.70,3.44
+20240607,Orioles,Rays,0,0,Cole Irvin,Aaron Civale,1,1,0,0,Left,Right,4.67,5.17
+20240607,Dodgers,Yankees,0,0,Yoshinobu Yamamoto,Cody Poteet,1,1,0,0,Right,Right,2.92,2.14
+20240607,Cubs,Reds,0,0,Justin Steele,Nick Lodolo,1,1,0,0,Left,Left,3.07,3.51
+20240607,Guardians,Marlins,0,0,Logan Allen,Ryan Weathers,1,1,0,0,Left,Left,5.67,3.55
+20240607,Giants,Rangers,0,0,Logan Webb,Michael Lorenzen,1,1,0,0,Right,Right,3.59,3.52
+20240607,Red Sox,White Sox,0,1,Cooper Criswell,Garrett Crochet,1,1,1,0,Right,Left,4.50,3.02
+20240607,Mariners,Royals,7,0,Bryce Miller,Daniel Lynch IV,1,1,0,7,Right,Left,3.63,6.35
+20240607,Rockies,Cardinals,0,3,Austin Gomber,Lance Lynn,1,1,3,0,Left,Right,4.61,4.39
+20240607,Astros,Angels,1,0,Framber Valdez,Griffin Canning,1,1,0,1,Left,Right,3.63,5.20
+20240607,Diamondbacks,Padres,0,2,Brandon Pfaadt,Michael King,1,1,2,0,Right,Right,3.74,3.28
+20240607,Blue Jays,Athletics,0,0,Chris Bassitt,Hogan Harris,1,1,0,0,Right,Left,3.71,3.40
+20240608,Phillies,Mets,0,1,Ranger Suarez,Sean Manaea,1,1,1,0,Left,Left,2.76,3.73
+20240608,Braves,Nationals,0,2,Charlie Morton,MacKenzie Gore,1,1,2,0,Right,Left,3.92,4.20
+20240608,Twins,Pirates,0,0,Simeon Woods Richardson,Carmen Mlodzinski,1,1,0,0,Right,Right,3.51,3.26
+20240608,Giants,Rangers,1,1,Spencer Howard,Andrew Heaney,1,1,1,1,Right,Left,6.21,3.60
+20240608,Blue Jays,Athletics,1,0,Kevin Gausman,Luis Medina,1,1,0,1,Right,Right,4.55,5.18
+20240608,Orioles,Rays,0,0,Kyle Bradish,Taj Bradley,1,1,0,0,Right,Right,2.75,2.63
+20240608,Red Sox,White Sox,0,0,Brayan Bello,Nick Nastrini,1,1,0,0,Right,Right,5.27,8.39
+20240608,Cubs,Reds,1,1,Ben Brown,Andrew Abbott,1,1,1,1,Right,Left,3.58,3.19
+20240608,Brewers,Tigers,1,1,Freddy Peralta,Casey Mize,1,1,1,1,Right,Right,3.88,4.23
+20240608,Mariners,Royals,1,1,Luis Castillo,Alec Marsh,1,1,1,1,Right,Right,3.55,4.52
+20240608,Rockies,Cardinals,1,0,Ryan Feltner,Kyle Gibson,1,1,0,1,Right,Right,5.19,3.99
+20240608,Guardians,Marlins,1,0,Ben Lively,Roddery Munoz,1,1,0,1,Right,Right,3.57,5.14
+20240608,Dodgers,Yankees,0,0,Gavin Stone,Nestor Cortes,1,1,0,0,Right,Left,3.19,3.99
+20240608,Diamondbacks,Padres,0,0,Ryne Nelson,Matt Waldron,1,1,0,0,Right,Right,4.78,3.59
+20240608,Astros,Angels,0,0,Hunter Brown,Tyler Anderson,1,1,0,0,Right,Left,4.14,2.97
+20240609,Mets,Phillies,0,1,Jose Quintana,Taijuan Walker,1,1,1,0,Left,Right,4.13,5.60
+20240609,Giants,Rangers,0,3,Keaton Winn,Nathan Eovaldi,1,1,3,0,Right,Right,7.16,3.36
+20240609,Braves,Nationals,0,0,Hurston Waldrep,DJ Herz,1,1,0,0,Right,Left,16.71,5.17
+20240609,Twins,Pirates,3,0,Bailey Ober,Jared Jones,1,1,0,3,Right,Right,4.14,3.56
+20240609,Orioles,Rays,0,0,Grayson Rodriguez,Zack Littell,1,1,0,0,Right,Right,3.83,4.46
+20240609,Cubs,Reds,3,0,Shota Imanaga,Frankie Montas,1,1,0,3,Left,Right,2.86,4.85
+20240609,Guardians,Marlins,0,0,Carlos Carrasco,Trevor Rogers,1,1,0,0,Right,Left,5.32,4.59
+20240609,Brewers,Tigers,0,2,Bryse Wilson,Tarik Skubal,1,1,2,0,Right,Left,4.07,2.34
+20240609,Red Sox,White Sox,0,0,Zack Kelly,Chris Flexen,1,1,0,0,Right,Right,1.96,5.22
+20240609,Mariners,Royals,1,0,George Kirby,Cole Ragans,1,1,0,1,Right,Left,3.20,3.16
+20240609,Rockies,Cardinals,0,0,Ty Blach,Andre Pallante,1,1,0,0,Left,Right,5.46,3.92
+20240609,Astros,Angels,0,0,Justin Verlander,Patrick Sandoval,1,1,0,0,Right,Left,3.95,5.08
+20240609,Blue Jays,Athletics,0,0,Bowden Francis,Mitch Spence,1,1,0,0,Right,Right,5.82,4.67
+20240609,Diamondbacks,Padres,1,1,Scott McGough,Adam Mazur,0.2,1,1,1,Right,Right,7.33,7.84
+20240609,Dodgers,Yankees,0,0,Tyler Glasnow,Luis Gil,1,1,0,0,Right,Right,3.47,3.17
+20240610,Orioles,Rays,1,0,Corbin Burnes,Ryan Pepiot,1,1,0,1,Right,Right,2.38,3.92
+20240610,Rockies,Twins,0,0,Dakota Hudson,Chris Paddack,1,1,0,0,Right,Right,5.84,4.99
+20240610,Yankees,Royals,2,0,Carlos Rodon,Seth Lugo,1,1,0,2,Left,Right,4.42,2.38
+20240610,Blue Jays,Brewers,0,0,Jose Berrios,Colin Rea,1,1,0,0,Right,Right,4.01,3.77
+20240610,White Sox,Mariners,0,0,Erick Fedde,Logan Gilbert,1,1,0,0,Right,Right,2.99,2.79
+20240610,Athletics,Padres,0,0,Joey Estes,Dylan Cease,1,1,0,0,Right,Right,5.11,3.76
+20240610,Astros,Giants,0,0,Spencer Arrighetti,Kyle Harrison,1,1,0,0,Right,Left,5.63,3.86
+20240611,Braves,Orioles,0,0,Max Fried,Albert Suarez,1,1,0,0,Left,Right,3.08,2.82
+20240611,Nationals,Tigers,0,0,Mitchell Parker,Kenta Maeda,1,1,0,0,Left,Right,3.90,7.07
+20240611,Cubs,Rays,0,0,Jameson Taillon,Zach Eflin,1,1,0,0,Right,Right,3.10,4.14
+20240611,Guardians,Reds,0,1,Triston McKenzie,Brent Suter,1,1,1,0,Right,Left,5.11,3.68
+20240611,Marlins,Mets,0,0,Jesus Luzardo,Tylor Megill,1,1,0,0,Left,Right,5.00,5.08
+20240611,Phillies,Red Sox,1,1,Zack Wheeler,Kutter Crawford,1,1,1,1,Right,Right,2.70,3.37
+20240611,Rockies,Twins,0,0,Cal Quantrill,Louie Varland,1,1,0,0,Right,Right,4.15,6.58
+20240611,Pirates,Cardinals,0,0,Paul Skenes,Miles Mikolas,1,1,0,0,Right,Right,1.90,5.02
+20240611,Yankees,Royals,2,0,Marcus Stroman,Brady Singer,1,1,0,2,Right,Right,3.51,3.00
+20240611,Blue Jays,Brewers,0,0,Yusei Kikuchi,Carlos Rodriguez,1,1,0,0,Left,Right,4.54,7.30
+20240611,Angels,Diamondbacks,0,0,Jose Suarez,Jordan Montgomery,1,1,0,0,Left,Left,8.15,6.44
+20240611,White Sox,Mariners,0,0,Drew Thorpe,Jhonathan Diaz,1,1,0,0,Right,Left,3.03,5.06
+20240611,Athletics,Padres,1,0,JP Sears,Randy Vasquez,1,1,0,1,Left,Right,4.49,4.57
+20240611,Astros,Giants,0,0,Ronel Blanco,Jordan Hicks,1,1,0,0,Right,Right,2.75,3.79
+20240611,Rangers,Dodgers,0,3,Dane Dunning,James Paxton,1,1,3,0,Right,Left,4.71,4.43
+20240612,Rockies,Twins,1,5,Austin Gomber,Pablo Lopez,1,1,5,1,Left,Right,4.61,4.86
+20240612,Blue Jays,Brewers,1,0,Chris Bassitt,Tobias Myers,1,1,0,1,Right,Right,3.71,3.13
+20240612,Astros,Giants,0,0,Framber Valdez,Logan Webb,1,1,0,0,Left,Right,3.63,3.59
+20240612,Athletics,Padres,0,0,Hogan Harris,Michael King,1,1,0,0,Left,Right,3.40,3.28
+20240612,Braves,Orioles,0,0,Spencer Schwellenbach,Cade Povich,1,1,0,0,Right,Left,4.62,6.27
+20240612,Nationals,Tigers,0,1,Jake Irvin,Reese Olson,1,1,1,0,Right,Right,3.44,3.23
+20240612,Cubs,Rays,0,0,Javier Assad,Aaron Civale,1,1,0,0,Right,Right,3.27,5.17
+20240612,Guardians,Reds,0,1,Tanner Bibee,Nick Lodolo,1,1,1,0,Right,Left,3.58,3.51
+20240612,Marlins,Mets,0,2,Braxton Garrett,David Peterson,1,1,2,0,Left,Left,5.35,3.14
+20240612,Phillies,Red Sox,2,0,Cristopher Sanchez,Nick Pivetta,1,1,0,2,Left,Right,2.97,3.87
+20240612,Pirates,Cardinals,0,0,Bailey Falter,Sonny Gray,1,1,0,0,Left,Right,4.08,3.54
+20240612,Yankees,Royals,6,0,Cody Poteet,Dan Altavilla,1,0.1,0,5,Right,Right,2.14,14.73
+20240612,Angels,Diamondbacks,1,0,Jose Soriano,Slade Cecconi,1,1,0,1,Right,Right,3.71,6.14
+20240612,White Sox,Mariners,0,0,Jonathan Cannon,Bryce Miller,1,1,0,0,Right,Right,4.58,3.63
+20240612,Rangers,Dodgers,0,1,Jon Gray,Walker Buehler,1,1,1,0,Right,Right,3.96,5.84
+20240613,Braves,Orioles,2,0,Reynaldo Lopez,Cole Irvin,1,1,0,2,Right,Left,2.12,4.67
+20240613,Nationals,Tigers,0,0,Patrick Corbin,Casey Mize,1,1,0,0,Left,Right,5.35,4.23
+20240613,Yankees,Royals,0,0,Nestor Cortes,Alec Marsh,1,1,0,0,Left,Right,3.99,4.52
+20240613,Pirates,Cardinals,0,0,Mitch Keller,Lance Lynn,1,1,0,0,Right,Right,3.34,4.39
+20240613,Cubs,Rays,0,0,Justin Steele,Taj Bradley,1,1,0,0,Left,Right,3.07,2.63
+20240613,Marlins,Mets,0,0,Roddery Munoz,Luis Severino,1,1,0,0,Right,Right,5.14,3.58
+20240613,Phillies,Red Sox,0,0,Aaron Nola,Tanner Houck,1,1,0,0,Right,Right,3.54,2.54
+20240613,Athletics,Twins,0,0,Luis Medina,Joe Ryan,1,1,0,0,Right,Right,5.18,3.65
+20240613,Angels,Diamondbacks,0,3,Griffin Canning,Brandon Pfaadt,1,1,3,0,Right,Right,5.20,3.74
+20240613,White Sox,Mariners,0,0,Garrett Crochet,Emerson Hancock,1,1,0,0,Left,Right,3.02,4.76
+20240613,Rangers,Dodgers,2,0,Michael Lorenzen,Michael Grove,1,1,0,2,Right,Right,3.52,5.06
+20240614,Cardinals,Cubs,0,0,Kyle Gibson,Jordan Wicks,1,1,0,0,Right,Left,3.99,4.18
+20240614,Yankees,Red Sox,2,0,Luis Gil,Brayan Bello,1,1,0,2,Right,Right,3.17,5.27
+20240614,Marlins,Nationals,0,0,Shaun Anderson,MacKenzie Gore,1,1,0,0,Right,Left,11.42,4.20
+20240614,Phillies,Orioles,1,0,Ranger Suarez,Kyle Bradish,1,1,0,1,Left,Right,2.76,2.75
+20240614,Guardians,Blue Jays,0,0,Logan Allen,Kevin Gausman,1,1,0,0,Left,Right,5.67,4.55
+20240614,Padres,Mets,0,0,Matt Waldron,Sean Manaea,1,1,0,0,Right,Left,3.59,3.73
+20240614,Rays,Braves,1,5,Zack Littell,Chris Sale,1,1,5,1,Right,Left,4.46,2.70
+20240614,Reds,Brewers,0,0,Hunter Greene,Freddy Peralta,1,1,0,0,Right,Right,3.14,3.88
+20240614,Tigers,Astros,0,0,Tarik Skubal,Hunter Brown,1,1,0,0,Left,Right,2.34,4.14
+20240614,Athletics,Twins,4,0,Mitch Spence,Simeon Woods Richardson,1,1,0,4,Right,Right,4.67,3.51
+20240614,Pirates,Rockies,1,0,Carmen Mlodzinski,Ryan Feltner,1,1,0,1,Right,Right,3.26,5.19
+20240614,White Sox,Diamondbacks,0,0,Chris Flexen,Ryne Nelson,1,1,0,0,Right,Right,5.22,4.78
+20240614,Royals,Dodgers,0,0,Cole Ragans,Gavin Stone,1,1,0,0,Left,Right,3.16,3.19
+20240614,Rangers,Mariners,2,2,Andrew Heaney,Luis Castillo,1,1,2,2,Left,Right,3.60,3.55
+20240614,Angels,Giants,0,0,Tyler Anderson,Spencer Howard,1,1,0,0,Left,Right,2.97,6.21
+20240615,Cardinals,Cubs,0,0,Andre Pallante,Shota Imanaga,1,1,0,0,Right,Left,3.92,2.86
+20240615,Guardians,Blue Jays,0,0,Carlos Carrasco,Trevor Richards,1,1,0,0,Right,Right,5.32,4.14
+20240615,Angels,Giants,0,2,Patrick Sandoval,Keaton Winn,1,1,2,0,Left,Right,5.08,7.16
+20240615,Marlins,Nationals,0,1,Trevor Rogers,DJ Herz,1,1,1,0,Left,Left,4.59,5.17
+20240615,Phillies,Orioles,1,0,Taijuan Walker,Grayson Rodriguez,1,1,0,1,Right,Right,5.60,3.83
+20240615,Reds,Brewers,0,0,Andrew Abbott,Jared Koenig,1,0.2,0,0,Left,Left,3.19,1.62
+20240615,Tigers,Astros,2,0,Jack Flaherty,Spencer Arrighetti,1,1,0,2,Right,Right,3.13,5.63
+20240615,Padres,Mets,0,0,Adam Mazur,Jose Quintana,1,1,0,0,Right,Left,7.84,4.13
+20240615,Rays,Braves,1,0,Ryan Pepiot,Charlie Morton,1,1,0,1,Right,Right,3.92,3.92
+20240615,Yankees,Red Sox,0,3,Carlos Rodon,Cooper Criswell,1,1,3,0,Left,Right,4.42,4.50
+20240615,Rangers,Mariners,0,1,Nathan Eovaldi,George Kirby,1,1,1,0,Right,Right,3.36,3.20
+20240615,Royals,Dodgers,0,0,Seth Lugo,Yoshinobu Yamamoto,1,1,0,0,Right,Right,2.38,2.92
+20240615,Pirates,Rockies,0,0,Jared Jones,Ty Blach,1,1,0,0,Right,Left,3.56,5.46
+20240615,White Sox,Diamondbacks,0,1,Erick Fedde,Scott McGough,1,1,1,0,Right,Right,2.99,7.33
+20240616,Cardinals,Cubs,0,0,Miles Mikolas,Jameson Taillon,1,1,0,0,Right,Right,5.02,3.10
+20240616,Marlins,Nationals,0,1,Jesus Luzardo,Mitchell Parker,1,1,1,0,Left,Left,5.00,3.90
+20240616,Phillies,Orioles,0,1,Zack Wheeler,Corbin Burnes,1,1,1,0,Right,Right,2.70,2.38
+20240616,Rays,Braves,1,1,Zach Eflin,Hurston Waldrep,1,1,1,1,Right,Right,4.14,16.71
+20240616,Guardians,Blue Jays,0,0,Ben Lively,Jose Berrios,1,1,0,0,Right,Right,3.57,4.01
+20240616,Padres,Mets,1,4,Dylan Cease,Tylor Megill,1,1,4,1,Right,Right,3.76,5.08
+20240616,Reds,Brewers,1,0,Frankie Montas,Colin Rea,1,1,0,1,Right,Right,4.85,3.77
+20240616,Tigers,Astros,0,1,Kenta Maeda,Ronel Blanco,1,1,1,0,Right,Right,7.07,2.75
+20240616,Athletics,Twins,0,3,JP Sears,Bailey Ober,1,1,3,0,Left,Right,4.49,4.14
+20240616,Pirates,Rockies,0,0,Josh Fleming,Dakota Hudson,1,1,0,0,Left,Right,4.02,5.84
+20240616,Angels,Giants,1,0,Ben Joyce,Erik Miller,1,1,0,1,Right,Left,2.65,3.27
+20240616,White Sox,Diamondbacks,0,3,Drew Thorpe,Jordan Montgomery,1,1,3,0,Right,Left,3.03,6.44
+20240616,Royals,Dodgers,0,0,Brady Singer,Tyler Glasnow,1,1,0,0,Right,Right,3.00,3.47
+20240616,Rangers,Mariners,0,0,Dane Dunning,Logan Gilbert,1,1,0,0,Right,Right,4.71,2.79
+20240616,Yankees,Red Sox,1,0,Marcus Stroman,Kutter Crawford,1,1,0,1,Right,Right,3.51,3.37
+20240616,Athletics,Twins,0,2,Joey Estes,Chris Paddack,1,1,2,0,Right,Right,5.11,4.99
+20240617,Padres,Phillies,0,0,Randy Vasquez,Cristopher Sanchez,1,1,0,0,Right,Left,4.57,2.97
+20240617,Cardinals,Marlins,0,0,Sonny Gray,Braxton Garrett,1,1,0,0,Right,Left,3.54,5.35
+20240617,Red Sox,Blue Jays,2,0,Nick Pivetta,Yusei Kikuchi,1,1,0,2,Right,Left,3.87,4.54
+20240617,Reds,Pirates,1,3,Carson Spiers,Paul Skenes,1,1,3,1,Right,Right,3.83,1.90
+20240617,Tigers,Braves,0,0,Reese Olson,Max Fried,1,1,0,0,Right,Left,3.23,3.08
+20240617,Mets,Rangers,1,0,David Peterson,Jon Gray,1,1,0,1,Left,Right,3.14,3.96
+20240617,Giants,Cubs,0,0,Jordan Hicks,Javier Assad,1,1,0,0,Right,Right,3.79,3.27
+20240617,Dodgers,Rockies,1,0,James Paxton,Cal Quantrill,1,1,0,1,Left,Right,4.43,4.15
+20240617,Brewers,Angels,0,0,Carlos Rodriguez,Zach Plesac,1,1,0,0,Right,Right,7.30,8.25
+20240618,Cardinals,Marlins,2,3,Lance Lynn,Roddery Munoz,1,1,3,2,Right,Right,4.39,5.14
+20240618,Reds,Pirates,0,0,Nick Lodolo,Bailey Falter,1,1,0,0,Left,Left,3.51,4.08
+20240618,Padres,Phillies,0,0,Michael King,Aaron Nola,1,1,0,0,Right,Right,3.28,3.54
+20240618,Mariners,Guardians,0,0,Bryce Miller,Triston McKenzie,1,1,0,0,Right,Right,3.63,5.11
+20240618,Diamondbacks,Nationals,2,0,Slade Cecconi,Jake Irvin,1,1,0,2,Right,Right,6.14,3.44
+20240618,Orioles,Yankees,0,0,Albert Suarez,Nestor Cortes,1,1,0,0,Right,Left,2.82,3.99
+20240618,Red Sox,Blue Jays,0,0,Tanner Houck,Chris Bassitt,1,1,0,0,Right,Right,2.54,3.71
+20240618,Tigers,Braves,0,2,Casey Mize,Spencer Schwellenbach,1,1,2,0,Right,Right,4.23,4.62
+20240618,Rays,Twins,3,0,Aaron Civale,Pablo Lopez,1,1,0,3,Right,Right,5.17,4.86
+20240618,Mets,Rangers,0,0,Luis Severino,Michael Lorenzen,1,1,0,0,Right,Right,3.58,3.52
+20240618,Giants,Cubs,0,0,Logan Webb,Justin Steele,1,1,0,0,Right,Left,3.59,3.07
+20240618,Astros,White Sox,0,0,Framber Valdez,Jonathan Cannon,1,1,0,0,Left,Right,3.63,4.58
+20240618,Dodgers,Rockies,0,4,Walker Buehler,Austin Gomber,1,1,4,0,Right,Left,5.84,4.61
+20240618,Brewers,Angels,1,0,Tobias Myers,Griffin Canning,1,1,0,1,Right,Right,3.13,5.20
+20240618,Royals,Athletics,0,2,Alec Marsh,Hogan Harris,1,1,2,0,Right,Left,4.52,3.40
+20240619,Tigers,Braves,0,0,Tarik Skubal,Reynaldo Lopez,1,1,0,0,Left,Right,2.34,2.12
+20240619,Reds,Pirates,0,0,Hunter Greene,Mitch Keller,1,1,0,0,Right,Right,3.14,3.34
+20240619,Cardinals,Marlins,0,2,Matthew Liberatore,Yonny Chirinos,1,1,2,0,Left,Right,4.15,6.30
+20240619,Padres,Phillies,0,0,Matt Waldron,Ranger Suarez,1,1,0,0,Right,Left,3.59,2.76
+20240619,Giants,Cubs,0,0,Erik Miller,Kyle Hendricks,1,1,0,0,Left,Right,3.27,6.69
+20240619,Diamondbacks,Nationals,0,0,Brandon Pfaadt,Patrick Corbin,1,1,0,0,Right,Left,3.74,5.35
+20240619,Mariners,Guardians,0,1,Bryan Woo,Tanner Bibee,1,1,1,0,Right,Right,2.54,3.58
+20240619,Orioles,Yankees,1,1,Cade Povich,Gerrit Cole,1,1,1,1,Left,Right,6.27,4.60
+20240619,Red Sox,Blue Jays,0,0,Brayan Bello,Kevin Gausman,1,1,0,0,Right,Right,5.27,4.55
+20240619,Rays,Twins,0,0,Taj Bradley,Joe Ryan,1,1,0,0,Right,Right,2.63,3.65
+20240619,Mets,Rangers,0,1,Sean Manaea,Andrew Heaney,1,1,1,0,Left,Left,3.73,3.60
+20240619,Astros,White Sox,0,0,Hunter Brown,Garrett Crochet,1,1,0,0,Right,Left,4.14,3.02
+20240619,Dodgers,Rockies,0,3,Bobby Miller,Ryan Feltner,1,1,3,0,Right,Right,8.07,5.19
+20240619,Brewers,Angels,1,0,Freddy Peralta,Tyler Anderson,1,1,0,1,Right,Left,3.88,2.97
+20240619,Royals,Athletics,0,0,Cole Ragans,Luis Medina,1,1,0,0,Left,Right,3.16,5.18
+20240620,Diamondbacks,Nationals,0,0,Ryne Nelson,MacKenzie Gore,1,1,0,0,Right,Left,4.78,4.20
+20240620,Mariners,Guardians,2,1,Luis Castillo,Logan Allen,1,1,1,2,Right,Left,3.55,5.67
+20240620,Rays,Twins,0,0,Zack Littell,Simeon Woods Richardson,1,1,0,0,Right,Right,4.46,3.51
+20240620,Astros,White Sox,1,0,Spencer Arrighetti,Chris Flexen,1,1,0,1,Right,Right,5.63,5.22
+20240620,Dodgers,Rockies,1,0,Gavin Stone,Ty Blach,1,1,0,1,Right,Left,3.19,5.46
+20240620,Royals,Athletics,0,0,Seth Lugo,Mitch Spence,1,1,0,0,Right,Right,2.38,4.67
+20240620,Orioles,Yankees,1,0,Cole Irvin,Luis Gil,1,1,0,1,Left,Right,4.67,3.17
+20240620,Giants,Cardinals,0,3,Keaton Winn,Andre Pallante,1,1,3,0,Right,Right,7.16,3.92
+20240620,Brewers,Padres,1,4,Bryse Wilson,Adam Mazur,1,1,4,1,Right,Right,4.07,7.84
+20240621,Mets,Cubs,3,1,Jose Quintana,Shota Imanaga,1,1,1,3,Left,Left,4.13,2.86
+20240621,Diamondbacks,Phillies,0,0,Jordan Montgomery,Taijuan Walker,1,1,0,0,Left,Right,6.44,5.60
+20240621,White Sox,Tigers,0,0,Erick Fedde,Jack Flaherty,1,1,0,0,Right,Right,2.99,3.13
+20240621,Rays,Pirates,0,0,Ryan Pepiot,Carmen Mlodzinski,1,1,0,0,Right,Right,3.92,3.26
+20240621,Braves,Yankees,3,0,Chris Sale,Carlos Rodon,1,1,0,3,Left,Left,2.70,4.42
+20240621,Red Sox,Reds,0,1,Kutter Crawford,Andrew Abbott,1,1,1,0,Right,Left,3.37,3.19
+20240621,Mariners,Marlins,1,0,George Kirby,Trevor Rogers,1,1,0,1,Right,Left,3.20,4.59
+20240621,Blue Jays,Guardians,0,0,Yariel Rodriguez,Carlos Carrasco,1,1,0,0,Right,Right,3.78,5.32
+20240621,Royals,Rangers,0,0,Brady Singer,Nathan Eovaldi,1,1,0,0,Right,Right,3.00,3.36
+20240621,Orioles,Astros,0,1,Grayson Rodriguez,Jake Bloss,1,1,1,0,Right,Right,3.83,4.70
+20240621,Nationals,Rockies,0,0,DJ Herz,Dakota Hudson,1,1,0,0,Left,Right,5.17,5.84
+20240621,Brewers,Padres,0,0,Colin Rea,Dylan Cease,1,1,0,0,Right,Right,3.77,3.76
+20240621,Twins,Athletics,1,1,Chris Paddack,Joey Estes,1,1,1,1,Right,Right,4.99,5.11
+20240621,Angels,Dodgers,0,0,Patrick Sandoval,Landon Knack,1,1,0,0,Left,Right,5.08,3.23
+20240622,White Sox,Tigers,0,0,Drew Thorpe,Kenta Maeda,1,1,0,0,Right,Right,3.03,7.07
+20240622,Giants,Cardinals,3,2,Jordan Hicks,Miles Mikolas,1,1,2,3,Right,Right,3.79,5.02
+20240622,Mets,Cubs,0,5,Tylor Megill,Jameson Taillon,1,1,5,0,Right,Right,5.08,3.10
+20240622,Diamondbacks,Phillies,0,2,Tommy Henry,Zack Wheeler,1,1,2,0,Left,Right,7.04,2.70
+20240622,Royals,Rangers,0,0,Michael Wacha,Jon Gray,1,1,0,0,Right,Right,3.55,3.96
+20240622,Rays,Pirates,1,1,Zach Eflin,Jared Jones,1,1,1,1,Right,Right,4.14,3.56
+20240622,Twins,Athletics,1,1,Bailey Ober,JP Sears,1,1,1,1,Right,Left,4.14,4.49
+20240622,Orioles,Astros,0,0,Corbin Burnes,Ronel Blanco,1,1,0,0,Right,Right,2.38,2.75
+20240622,Red Sox,Reds,0,2,Nick Pivetta,Frankie Montas,1,1,2,0,Right,Right,3.87,4.85
+20240622,Mariners,Marlins,2,0,Logan Gilbert,Shaun Anderson,1,1,0,2,Right,Right,2.79,11.42
+20240622,Blue Jays,Guardians,0,0,Jose Berrios,Ben Lively,1,1,0,0,Right,Right,4.01,3.57
+20240622,Braves,Yankees,1,2,Charlie Morton,Marcus Stroman,1,1,2,1,Right,Right,3.92,3.51
+20240622,Brewers,Padres,0,0,Carlos Rodriguez,Randy Vasquez,1,1,0,0,Right,Right,7.30,4.57
+20240622,Nationals,Rockies,0,1,Mitchell Parker,Cal Quantrill,1,1,1,0,Left,Right,3.90,4.15
+20240622,Angels,Dodgers,0,0,Zach Plesac,Tyler Glasnow,1,1,0,0,Right,Right,8.25,3.47
+20240623,Diamondbacks,Phillies,0,0,Slade Cecconi,Cristopher Sanchez,1,1,0,0,Right,Left,6.14,2.97
+20240623,Braves,Yankees,0,0,Max Fried,Nestor Cortes,1,1,0,0,Left,Left,3.08,3.99
+20240623,Rays,Pirates,1,0,Aaron Civale,Paul Skenes,1,1,0,1,Right,Right,5.17,1.90
+20240623,Red Sox,Reds,0,0,Zack Kelly,Nick Lodolo,1,1,0,0,Right,Left,1.96,3.51
+20240623,White Sox,Tigers,0,5,Jonathan Cannon,Reese Olson,1,1,5,0,Right,Right,4.58,3.23
+20240623,Mariners,Marlins,0,4,Bryce Miller,Kyle Tyler,1,1,4,0,Right,Right,3.63,3.38
+20240623,Blue Jays,Guardians,2,1,Yusei Kikuchi,Triston McKenzie,1,1,1,2,Left,Right,4.54,5.11
+20240623,Orioles,Astros,0,4,Albert Suarez,Framber Valdez,1,1,4,0,Right,Left,2.82,3.63
+20240623,Giants,Cardinals,0,3,Logan Webb,Sonny Gray,1,1,3,0,Right,Right,3.59,3.54
+20240623,Royals,Rangers,0,0,Alec Marsh,Max Scherzer,1,1,0,0,Right,Right,4.52,3.99
+20240623,Nationals,Rockies,0,0,Jake Irvin,Kyle Freeland,1,1,0,0,Right,Left,3.44,5.63
+20240623,Twins,Athletics,0,0,Pablo Lopez,Hogan Harris,1,1,0,0,Right,Left,4.86,3.40
+20240623,Brewers,Padres,0,0,Tobias Myers,Michael King,1,1,0,0,Right,Right,3.13,3.28
+20240623,Mets,Cubs,0,0,Luis Severino,Javier Assad,1,1,0,0,Right,Right,3.58,3.27
+20240624,Guardians,Orioles,1,1,Tanner Bibee,Cade Povich,1,1,1,1,Right,Left,3.58,6.27
+20240624,Phillies,Tigers,4,0,Aaron Nola,Casey Mize,1,1,0,4,Right,Right,3.54,4.23
+20240624,Mariners,Rays,0,0,Bryan Woo,Taj Bradley,1,1,0,0,Right,Right,2.54,2.63
+20240624,Pirates,Reds,0,0,Bailey Falter,Carson Spiers,1,1,0,0,Left,Right,4.08,3.83
+20240624,Blue Jays,Red Sox,0,0,Chris Bassitt,Tanner Houck,1,1,0,0,Right,Right,3.71,2.54
+20240624,Braves,Cardinals,0,0,Spencer Schwellenbach,Lance Lynn,1,1,0,0,Right,Right,4.62,4.39
+20240624,Dodgers,White Sox,0,0,James Paxton,Garrett Crochet,1,1,0,0,Left,Left,4.43,3.02
+20240624,Marlins,Royals,0,0,Roddery Munoz,Cole Ragans,1,1,0,0,Right,Left,5.14,3.16
+20240624,Rangers,Brewers,0,0,Michael Lorenzen,Freddy Peralta,1,1,0,0,Right,Right,3.52,3.88
+20240624,Athletics,Angels,0,2,Luis Medina,Griffin Canning,1,1,2,0,Right,Right,5.18,5.20
+20240624,Nationals,Padres,0,0,Patrick Corbin,Matt Waldron,1,1,0,0,Left,Right,5.35,3.59
+20240624,Cubs,Giants,0,0,Justin Steele,Erik Miller,1,1,0,0,Left,Left,3.07,3.27
+20240625,Guardians,Orioles,1,2,Logan Allen,Cole Irvin,1,1,2,1,Left,Left,5.67,4.67
+20240625,Phillies,Tigers,0,0,Ranger Suarez,Tarik Skubal,1,1,0,0,Left,Left,2.76,2.34
+20240625,Mariners,Rays,0,1,Luis Castillo,Zack Littell,1,1,1,0,Right,Right,3.55,4.46
+20240625,Yankees,Mets,0,1,Gerrit Cole,David Peterson,1,1,1,0,Right,Left,4.60,3.14
+20240625,Pirates,Reds,3,0,Mitch Keller,Hunter Greene,1,1,0,3,Right,Right,3.34,3.14
+20240625,Blue Jays,Red Sox,0,0,Kevin Gausman,Brayan Bello,1,1,0,0,Right,Right,4.55,5.27
+20240625,Rockies,Astros,0,5,Austin Gomber,Hunter Brown,1,1,5,0,Left,Right,4.61,4.14
+20240625,Dodgers,White Sox,1,3,Bobby Miller,Chris Flexen,1,1,3,1,Right,Right,8.07,5.22
+20240625,Marlins,Royals,0,1,Yonny Chirinos,Seth Lugo,1,1,1,0,Right,Right,6.30,2.38
+20240625,Rangers,Brewers,1,0,Andrew Heaney,Hoby Milner,1,1,0,1,Left,Left,3.60,4.91
+20240625,Athletics,Angels,0,0,Mitch Spence,Tyler Anderson,1,1,0,0,Right,Left,4.67,2.97
+20240625,Twins,Diamondbacks,0,2,Joe Ryan,Brandon Pfaadt,1,1,2,0,Right,Right,3.65,3.74
+20240625,Nationals,Padres,0,2,MacKenzie Gore,Adam Mazur,1,1,2,0,Left,Right,4.20,7.84
+20240625,Cubs,Giants,0,0,Kyle Hendricks,Randy Rodriguez,1,1,0,0,Right,Right,6.69,4.10
+20240626,Mariners,Rays,0,0,George Kirby,Ryan Pepiot,1,1,0,0,Right,Right,3.20,3.92
+20240626,Phillies,Tigers,1,1,Spencer Turnbull,Tyler Holton,1,1,1,1,Right,Left,2.65,3.17
+20240626,Pirates,Reds,0,0,Luis Ortiz,Graham Ashcraft,1,1,0,0,Right,Right,2.57,5.24
+20240626,Braves,Cardinals,0,0,Reynaldo Lopez,Kyle Gibson,1,1,0,0,Right,Right,2.12,3.99
+20240626,Rockies,Astros,0,0,Ryan Feltner,Spencer Arrighetti,1,1,0,0,Right,Right,5.19,5.63
+20240626,Marlins,Royals,0,0,Valente Bellozo,Brady Singer,1,1,0,0,Right,Right,4.50,3.00
+20240626,Rangers,Brewers,0,0,Nathan Eovaldi,Dallas Keuchel,1,1,0,0,Right,Left,3.36,5.40
+20240626,Athletics,Angels,0,0,Joey Estes,Roansy Contreras,1,1,0,0,Right,Right,5.11,4.87
+20240626,Nationals,Padres,0,0,DJ Herz,Dylan Cease,1,1,0,0,Left,Right,5.17,3.76
+20240626,Guardians,Orioles,0,0,Carlos Carrasco,Grayson Rodriguez,1,1,0,0,Right,Right,5.32,3.83
+20240626,Yankees,Mets,0,0,Luis Gil,Sean Manaea,1,1,0,0,Right,Left,3.17,3.73
+20240626,Blue Jays,Red Sox,0,0,Yariel Rodriguez,Kutter Crawford,1,1,0,0,Right,Right,3.78,3.37
+20240626,Braves,Cardinals,0,0,Bryce Elder,Matthew Liberatore,1,1,0,0,Right,Left,6.35,4.15
+20240626,Dodgers,White Sox,1,0,Gavin Stone,Erick Fedde,1,1,0,1,Right,Right,3.19,2.99
+20240626,Twins,Diamondbacks,0,0,Simeon Woods Richardson,Ryne Nelson,1,1,0,0,Right,Right,3.51,4.78
+20240626,Cubs,Giants,0,0,Hayden Wesneski,Hayden Birdsong,1,1,0,0,Right,Right,3.94,3.55
+20240627,Twins,Diamondbacks,0,0,David Festa,Jordan Montgomery,1,1,0,0,Right,Left,10.80,6.44
+20240627,Cubs,Giants,0,0,Shota Imanaga,Jordan Hicks,1,1,0,0,Left,Right,2.86,3.79
+20240627,Braves,White Sox,0,1,Chris Sale,Chad Kuhl,1,1,1,0,Left,Right,2.70,4.38
+20240627,Marlins,Phillies,0,1,Trevor Rogers,Zack Wheeler,1,1,1,0,Left,Right,4.59,2.70
+20240627,Rangers,Orioles,0,3,Jon Gray,Corbin Burnes,1,1,3,0,Right,Right,3.96,2.38
+20240627,Yankees,Blue Jays,0,5,Carlos Rodon,Jose Berrios,1,1,5,0,Left,Right,4.42,4.01
+20240627,Reds,Cardinals,1,0,Andrew Abbott,Miles Mikolas,1,1,0,1,Left,Right,3.19,5.02
+20240627,Guardians,Royals,0,0,Ben Lively,Michael Wacha,1,1,0,0,Right,Right,3.57,3.55
+20240627,Tigers,Angels,0,0,Jack Flaherty,Davis Daniel,1,1,0,0,Right,Right,3.13,5.82
+20240628,Marlins,Phillies,0,0,Kyle Tyler,Cristopher Sanchez,1,1,0,0,Right,Left,3.38,2.97
+20240628,Nationals,Rays,0,0,Mitchell Parker,Zach Eflin,1,1,0,0,Left,Right,3.90,4.14
+20240628,Rangers,Orioles,0,0,Max Scherzer,Albert Suarez,1,1,0,0,Right,Right,3.99,2.82
+20240628,Yankees,Blue Jays,0,1,Marcus Stroman,Yusei Kikuchi,1,1,1,0,Right,Left,3.51,4.54
+20240628,Rockies,White Sox,0,0,Dakota Hudson,Drew Thorpe,1,1,0,0,Right,Right,5.84,3.03
+20240628,Astros,Mets,1,1,Ronel Blanco,Jose Quintana,1,1,1,1,Right,Left,2.75,4.13
+20240628,Padres,Red Sox,0,0,Randy Vasquez,Nick Pivetta,1,1,0,0,Right,Right,4.57,3.87
+20240628,Pirates,Braves,0,0,Martin Perez,Charlie Morton,1,1,0,0,Left,Right,5.61,3.92
+20240628,Cubs,Brewers,0,0,Jameson Taillon,Colin Rea,1,1,0,0,Right,Right,3.10,3.77
+20240628,Guardians,Royals,1,0,Triston McKenzie,Alec Marsh,1,1,0,1,Right,Right,5.11,4.52
+20240628,Reds,Cardinals,0,0,Frankie Montas,Andre Pallante,1,1,0,0,Right,Right,4.85,3.92
+20240628,Tigers,Angels,0,2,Kenta Maeda,Zach Plesac,1,1,2,0,Right,Right,7.07,8.25
+20240628,Twins,Mariners,0,0,Bailey Ober,Logan Gilbert,1,1,0,0,Right,Right,4.14,2.79
+20240628,Athletics,Diamondbacks,0,2,JP Sears,Slade Cecconi,1,1,2,0,Left,Right,4.49,6.14
+20240628,Dodgers,Giants,0,0,Landon Knack,Logan Webb,1,1,0,0,Right,Right,3.23,3.59
+20240629,Rockies,White Sox,0,0,Cal Quantrill,Jonathan Cannon,1,1,0,0,Right,Right,4.15,4.58
+20240629,Reds,Cardinals,0,0,Carson Spiers,Sonny Gray,1,1,0,0,Right,Right,3.83,3.54
+20240629,Yankees,Blue Jays,0,2,Nestor Cortes,Chris Bassitt,1,1,2,0,Left,Right,3.99,3.71
+20240629,Marlins,Phillies,0,0,Roddery Munoz,Aaron Nola,1,1,0,0,Right,Right,5.14,3.54
+20240629,Cubs,Brewers,2,0,Justin Steele,Tobias Myers,1,1,0,2,Left,Right,3.07,3.13
+20240629,Guardians,Royals,1,1,Tanner Bibee,Cole Ragans,1,1,1,1,Right,Left,3.58,3.16
+20240629,Astros,Mets,0,0,Framber Valdez,Tylor Megill,1,1,0,0,Left,Right,3.63,5.08
+20240629,Athletics,Diamondbacks,0,0,Hogan Harris,Zac Gallen,1,1,0,0,Left,Right,3.40,3.64
+20240629,Pirates,Braves,0,1,Paul Skenes,Max Fried,1,1,1,0,Right,Left,1.90,3.08
+20240629,Padres,Red Sox,0,0,Michael King,Tanner Houck,1,1,0,0,Right,Right,3.28,2.54
+20240629,Nationals,Rays,1,1,Jake Irvin,Aaron Civale,1,1,1,1,Right,Right,3.44,5.17
+20240629,Dodgers,Giants,0,1,Tyler Glasnow,Erik Miller,1,1,1,0,Right,Left,3.47,3.27
+20240629,Rangers,Orioles,1,0,Michael Lorenzen,Cade Povich,1,1,0,1,Right,Left,3.52,6.27
+20240629,Tigers,Angels,1,0,Reese Olson,Griffin Canning,1,1,0,1,Right,Right,3.23,5.20
+20240629,Twins,Mariners,0,0,Pablo Lopez,Bryce Miller,1,1,0,0,Right,Right,4.86,3.63
+20240630,Pirates,Braves,0,0,Bailey Falter,Spencer Schwellenbach,1,1,0,0,Left,Right,4.08,4.62
+20240630,Marlins,Phillies,1,2,Yonny Chirinos,Ranger Suarez,1,1,2,1,Right,Left,6.30,2.76
+20240630,Padres,Red Sox,0,2,Matt Waldron,Josh Winckowski,1,1,2,0,Right,Right,3.59,3.19
+20240630,Yankees,Blue Jays,2,0,Gerrit Cole,Kevin Gausman,1,1,0,2,Right,Right,4.60,4.55
+20240630,Astros,Mets,0,0,Shawn Dubin,Luis Severino,1,1,0,0,Right,Right,5.06,3.58
+20240630,Nationals,Rays,0,0,Patrick Corbin,Taj Bradley,1,1,0,0,Left,Right,5.35,2.63
+20240630,Cubs,Brewers,1,0,Kyle Hendricks,Freddy Peralta,1,1,0,1,Right,Right,6.69,3.88
+20240630,Guardians,Royals,0,1,Logan Allen,Seth Lugo,1,1,1,0,Left,Right,5.67,2.38
+20240630,Rockies,White Sox,0,0,Kyle Freeland,Garrett Crochet,1,1,0,0,Left,Left,5.63,3.02
+20240630,Reds,Cardinals,0,0,Hunter Greene,Lance Lynn,1,1,0,0,Right,Right,3.14,4.39
+20240630,Dodgers,Giants,0,1,James Paxton,Spencer Bivens,1,1,1,0,Left,Right,4.43,2.65
+20240630,Tigers,Angels,1,0,Casey Mize,Tyler Anderson,1,1,0,1,Right,Left,4.23,2.97
+20240630,Twins,Mariners,1,0,Joe Ryan,Luis Castillo,1,1,0,1,Right,Right,3.65,3.55
+20240630,Athletics,Diamondbacks,0,0,Luis Medina,Brandon Pfaadt,1,1,0,0,Right,Right,5.18,3.74
+20240630,Rangers,Orioles,0,0,Andrew Heaney,Cole Irvin,1,1,0,0,Left,Left,3.60,4.67
+20240701,Astros,Blue Jays,0,0,Hunter Brown,Yariel Rodriguez,1,1,0,0,Right,Right,4.14,3.78
+20240701,Mets,Nationals,0,0,David Peterson,MacKenzie Gore,1,1,0,0,Left,Left,3.14,4.20
+20240701,Brewers,Rockies,0,0,Rob Zastryzny,Austin Gomber,1,1,0,0,Left,Left,0.00,4.61
+20240702,Red Sox,Marlins,2,0,Kutter Crawford,Valente Bellozo,1,1,0,2,Right,Right,3.37,4.50
+20240702,White Sox,Guardians,1,0,Chris Flexen,Carlos Carrasco,1,1,0,1,Right,Right,5.22,5.32
+20240702,Cardinals,Pirates,0,0,Kyle Gibson,Mitch Keller,1,1,0,0,Right,Right,3.99,3.34
+20240702,Mets,Nationals,0,0,Sean Manaea,DJ Herz,1,1,0,0,Left,Left,3.73,5.17
+20240702,Reds,Yankees,0,0,Graham Ashcraft,Luis Gil,1,1,0,0,Right,Right,5.24,3.17
+20240702,Astros,Blue Jays,0,1,Spencer Arrighetti,Jose Berrios,1,1,1,0,Right,Right,5.63,4.01
+20240702,Giants,Braves,0,0,Hayden Birdsong,Reynaldo Lopez,1,1,0,0,Right,Right,3.55,2.12
+20240702,Tigers,Twins,0,0,Tarik Skubal,Simeon Woods Richardson,1,1,0,0,Left,Right,2.34,3.51
+20240702,Phillies,Cubs,0,0,Michael Mercado,Hayden Wesneski,1,1,0,0,Right,Right,9.26,3.94
+20240702,Padres,Rangers,0,2,Dylan Cease,Nathan Eovaldi,1,1,2,0,Right,Right,3.76,3.36
+20240702,Rays,Royals,0,0,Zack Littell,Brady Singer,1,1,0,0,Right,Right,4.46,3.00
+20240702,Brewers,Rockies,0,0,Dallas Keuchel,Ryan Feltner,1,1,0,0,Left,Right,5.40,5.19
+20240702,Angels,Athletics,0,0,Jose Soriano,Mitch Spence,1,1,0,0,Right,Right,3.71,4.67
+20240702,Orioles,Mariners,0,0,Grayson Rodriguez,George Kirby,1,1,0,0,Right,Right,3.83,3.20
+20240702,Diamondbacks,Dodgers,0,1,Joe Mantiply,Bobby Miller,0.2,1,1,0,Left,Right,4.17,8.07
+20240703,Red Sox,Marlins,0,1,Brayan Bello,Trevor Rogers,1,1,1,0,Right,Left,5.27,4.59
+20240703,White Sox,Guardians,1,0,Erick Fedde,Gavin Williams,1,1,0,1,Right,Right,2.99,4.50
+20240703,Cardinals,Pirates,0,0,Miles Mikolas,Jared Jones,1,1,0,0,Right,Right,5.02,3.56
+20240703,Mets,Nationals,0,0,Christian Scott,Mitchell Parker,1,1,0,0,Right,Left,4.56,3.90
+20240703,Reds,Yankees,0,0,Andrew Abbott,Carlos Rodon,1,1,0,0,Left,Left,3.19,4.42
+20240703,Astros,Blue Jays,0,1,Ronel Blanco,Yusei Kikuchi,1,1,1,0,Right,Left,2.75,4.54
+20240703,Giants,Braves,0,0,Jordan Hicks,Chris Sale,1,1,0,0,Right,Left,3.79,2.70
+20240703,Phillies,Cubs,0,0,Zack Wheeler,Shota Imanaga,1,1,0,0,Right,Left,2.70,2.86
+20240703,Padres,Rangers,0,0,Adam Mazur,Jon Gray,1,1,0,0,Right,Right,7.84,3.96
+20240703,Tigers,Twins,0,0,Keider Montero,David Festa,1,1,0,0,Right,Right,5.97,10.80
+20240703,Rays,Royals,1,0,Ryan Pepiot,Michael Wacha,1,1,0,1,Right,Right,3.92,3.55
+20240703,Brewers,Rockies,1,0,Colin Rea,Dakota Hudson,1,1,0,1,Right,Right,3.77,5.84
+20240703,Angels,Athletics,0,0,Davis Daniel,Joey Estes,1,1,0,0,Right,Right,5.82,5.11
+20240703,Diamondbacks,Dodgers,1,4,Cristian Mena,Gavin Stone,1,1,4,1,Right,Right,12.00,3.19
+20240703,Orioles,Mariners,0,0,Dean Kremer,Logan Gilbert,1,1,0,0,Right,Right,4.43,2.79
+20240704,Mets,Nationals,0,0,Jose Quintana,Jake Irvin,1,1,0,0,Left,Right,4.13,3.44
+20240704,Cardinals,Pirates,0,0,Andre Pallante,Martin Perez,1,1,0,0,Right,Left,3.92,5.61
+20240704,Reds,Yankees,0,0,Frankie Montas,Marcus Stroman,1,1,0,0,Right,Right,4.85,3.51
+20240704,Astros,Blue Jays,3,3,Framber Valdez,Chris Bassitt,1,1,3,3,Left,Right,3.63,3.71
+20240704,Red Sox,Marlins,1,0,Nick Pivetta,Kyle Tyler,1,1,0,1,Right,Right,3.87,3.38
+20240704,White Sox,Guardians,0,1,Jared Shuster,Ben Lively,1,1,1,0,Left,Right,3.38,3.57
+20240704,Tigers,Twins,1,0,Kenta Maeda,Bailey Ober,1,1,0,1,Right,Right,7.07,4.14
+20240704,Phillies,Cubs,1,0,Cristopher Sanchez,Jameson Taillon,1,1,0,1,Left,Right,2.97,3.10
+20240704,Padres,Rangers,0,0,Michael King,Max Scherzer,1,1,0,0,Right,Right,3.28,3.99
+20240704,Angels,Athletics,0,0,Roansy Contreras,JP Sears,1,1,0,0,Right,Left,4.87,4.49
+20240704,Orioles,Mariners,0,0,Corbin Burnes,Bryce Miller,1,1,0,0,Right,Right,2.38,3.63
+20240704,Giants,Braves,0,2,Logan Webb,Charlie Morton,1,1,2,0,Right,Right,3.59,3.92
+20240704,Brewers,Rockies,0,1,Tobias Myers,Cal Quantrill,1,1,1,0,Right,Right,3.13,4.15
+20240704,Rays,Royals,2,0,Zach Eflin,Alec Marsh,1,1,0,2,Right,Right,4.14,4.52
+20240704,Diamondbacks,Dodgers,2,0,Zac Gallen,Landon Knack,1,1,0,2,Right,Right,3.64,3.23
+20240705,Angels,Cubs,0,2,Griffin Canning,Justin Steele,1,1,2,0,Right,Left,5.20,3.07
+20240705,Mets,Pirates,0,0,Luis Severino,Paul Skenes,1,1,0,0,Right,Right,3.58,1.90
+20240705,Cardinals,Nationals,0,2,Sonny Gray,Patrick Corbin,1,1,2,0,Right,Left,3.54,5.35
+20240705,Red Sox,Yankees,0,0,Tanner Houck,Nestor Cortes,1,1,0,0,Right,Left,2.54,3.99
+20240705,White Sox,Marlins,0,0,Drew Thorpe,Bryan Hoeing,1,1,0,0,Right,Right,3.03,3.04
+20240705,Giants,Guardians,3,0,Erik Miller,Tanner Bibee,1,1,0,3,Left,Right,3.27,3.58
+20240705,Tigers,Reds,0,0,Reese Olson,Carson Spiers,1,1,0,0,Right,Right,3.23,3.83
+20240705,Phillies,Braves,0,0,Aaron Nola,Max Fried,1,1,0,0,Right,Left,3.54,3.08
+20240705,Rays,Rangers,0,0,Shane Baz,Michael Lorenzen,1,1,0,0,Right,Right,3.95,3.52
+20240705,Astros,Twins,0,0,Shawn Dubin,Pablo Lopez,1,1,0,0,Right,Right,5.06,4.86
+20240705,Royals,Rockies,1,0,Cole Ragans,Kyle Freeland,1,1,0,1,Left,Left,3.16,5.63
+20240705,Diamondbacks,Padres,2,0,Slade Cecconi,Randy Vasquez,1,1,0,2,Right,Right,6.14,4.57
+20240705,Orioles,Athletics,1,1,Albert Suarez,Hogan Harris,1,1,1,1,Right,Left,2.82,3.40
+20240705,Blue Jays,Mariners,0,0,Kevin Gausman,Luis Castillo,1,1,0,0,Right,Right,4.55,3.55
+20240705,Brewers,Dodgers,0,1,Aaron Civale,Tyler Glasnow,1,1,1,0,Right,Right,5.17,3.47
+20240706,Red Sox,Yankees,0,1,Josh Winckowski,Gerrit Cole,1,1,1,0,Right,Right,3.19,4.60
+20240706,Astros,Twins,0,2,Hunter Brown,Joe Ryan,1,1,2,0,Right,Right,4.14,3.65
+20240706,Angels,Cubs,1,0,Tyler Anderson,Kyle Hendricks,1,1,0,1,Left,Right,2.97,6.69
+20240706,Mets,Pirates,0,0,David Peterson,Bailey Falter,1,1,0,0,Left,Left,3.14,4.08
+20240706,Cardinals,Nationals,0,4,Lance Lynn,MacKenzie Gore,1,1,4,0,Right,Left,4.39,4.20
+20240706,Rays,Rangers,0,0,Taj Bradley,Andrew Heaney,1,1,0,0,Right,Left,2.63,3.60
+20240706,Orioles,Athletics,0,3,Cade Povich,Luis Medina,1,1,3,0,Left,Right,6.27,5.18
+20240706,White Sox,Marlins,1,0,Garrett Crochet,Yonny Chirinos,1,1,0,1,Left,Right,3.02,6.30
+20240706,Tigers,Reds,0,0,Alex Faedo,Hunter Greene,1,1,0,0,Right,Right,3.35,3.14
+20240706,Giants,Guardians,0,3,Kyle Harrison,Logan Allen,1,1,3,0,Left,Left,3.86,5.67
+20240706,Blue Jays,Mariners,0,0,Yariel Rodriguez,Emerson Hancock,1,1,0,0,Right,Right,3.78,4.76
+20240706,Brewers,Dodgers,1,3,Freddy Peralta,James Paxton,1,1,3,1,Right,Left,3.88,4.43
+20240706,Phillies,Braves,0,3,Ranger Suarez,Spencer Schwellenbach,1,1,3,0,Left,Right,2.76,4.62
+20240706,Royals,Rockies,0,0,Seth Lugo,Austin Gomber,1,1,0,0,Right,Left,2.38,4.61
+20240706,Diamondbacks,Padres,0,1,Brandon Pfaadt,Matt Waldron,1,1,1,0,Right,Right,3.74,3.59
+20240707,Mets,Pirates,0,0,Sean Manaea,Luis Ortiz,1,1,0,0,Left,Right,3.73,2.57
+20240707,Phillies,Braves,0,0,Michael Mercado,Reynaldo Lopez,1,1,0,0,Right,Right,9.26,2.12
+20240707,Cardinals,Nationals,0,0,Kyle Gibson,DJ Herz,1,1,0,0,Right,Left,3.99,5.17
+20240707,White Sox,Marlins,0,0,Jonathan Cannon,Edward Cabrera,1,1,0,0,Right,Right,4.58,7.36
+20240707,Tigers,Reds,0,0,Tarik Skubal,Graham Ashcraft,1,1,0,0,Left,Right,2.34,5.24
+20240707,Giants,Guardians,0,0,Hayden Birdsong,Carlos Carrasco,1,1,0,0,Right,Right,3.55,5.32
+20240707,Astros,Twins,0,0,Spencer Arrighetti,Simeon Woods Richardson,1,1,0,0,Right,Right,5.63,3.51
+20240707,Angels,Cubs,0,0,Jose Soriano,Hayden Wesneski,1,1,0,0,Right,Right,3.71,3.94
+20240707,Rays,Rangers,0,1,Zack Littell,Nathan Eovaldi,1,1,1,0,Right,Right,4.46,3.36
+20240707,Royals,Rockies,0,0,Brady Singer,Tanner Gordon,1,1,0,0,Right,Right,3.00,10.61
+20240707,Orioles,Athletics,4,0,Grayson Rodriguez,Mitch Spence,1,1,0,4,Right,Right,3.83,4.67
+20240707,Diamondbacks,Padres,1,1,Ryne Nelson,Dylan Cease,1,1,1,1,Right,Right,4.78,3.76
+20240707,Brewers,Dodgers,0,0,Dallas Keuchel,Justin Wrobleski,1,1,0,0,Left,Left,5.40,4.40
+20240707,Blue Jays,Mariners,0,0,Jose Berrios,George Kirby,1,1,0,0,Right,Right,4.01,3.20
+20240707,Red Sox,Yankees,0,0,Kutter Crawford,Luis Gil,1,1,0,0,Right,Right,3.37,3.17
+20240708,Mets,Pirates,0,0,Christian Scott,Mitch Keller,1,1,0,0,Right,Right,4.56,3.34
+20240708,Cardinals,Nationals,0,0,Miles Mikolas,Mitchell Parker,1,1,0,0,Right,Left,5.02,3.90
+20240708,Guardians,Tigers,0,0,Gavin Williams,Keider Montero,1,1,0,0,Right,Right,4.50,5.97
+20240708,Rockies,Reds,0,0,Ryan Feltner,Andrew Abbott,1,1,0,0,Right,Left,5.19,3.19
+20240708,Twins,White Sox,1,0,Chris Paddack,Chris Flexen,1,1,0,1,Right,Right,4.99,5.22
+20240708,Rangers,Angels,2,0,Jon Gray,Davis Daniel,1,1,0,2,Right,Right,3.96,5.82
+20240708,Braves,Diamondbacks,1,0,Bryce Elder,Yilber Diaz,1,1,0,1,Right,Right,6.35,1.50
+20240709,Cubs,Orioles,1,0,Jameson Taillon,Dean Kremer,1,1,0,1,Right,Right,3.10,4.43
+20240709,Guardians,Tigers,3,0,Ben Lively,Kenta Maeda,1,1,0,3,Right,Right,3.57,7.07
+20240709,Dodgers,Phillies,0,0,Bobby Miller,Zack Wheeler,1,1,0,0,Right,Right,8.07,2.70
+20240709,Yankees,Rays,1,4,Carlos Rodon,Ryan Pepiot,1,1,4,1,Left,Right,4.42,3.92
+20240709,Rockies,Reds,0,0,Cal Quantrill,Nick Lodolo,1,1,0,0,Right,Left,4.15,3.51
+20240709,Athletics,Red Sox,2,3,Joey Estes,Brayan Bello,1,1,3,2,Right,Right,5.11,5.27
+20240709,Nationals,Mets,0,0,Jake Irvin,Jose Quintana,1,1,0,0,Right,Left,3.44,4.13
+20240709,Marlins,Astros,1,0,Trevor Rogers,Ronel Blanco,1,1,0,1,Left,Right,4.59,2.75
+20240709,Pirates,Brewers,0,0,Josh Fleming,Colin Rea,1,1,0,0,Left,Right,4.02,3.77
+20240709,Rangers,Angels,1,0,Max Scherzer,Roansy Contreras,1,1,0,1,Right,Right,3.99,4.87
+20240709,Braves,Diamondbacks,0,0,Chris Sale,Zac Gallen,1,1,0,0,Left,Right,2.70,3.64
+20240709,Mariners,Padres,1,0,Logan Gilbert,Adam Mazur,1,1,0,1,Right,Right,2.79,7.84
+20240709,Blue Jays,Giants,0,0,Yusei Kikuchi,Blake Snell,1,1,0,0,Left,Left,4.54,6.31
+20240710,Royals,Cardinals,0,0,Alec Marsh,Andre Pallante,1,1,0,0,Right,Right,4.52,3.92
+20240710,Twins,White Sox,0,0,Bailey Ober,Erick Fedde,1,1,0,0,Right,Right,4.14,2.99
+20240710,Twins,White Sox,0,0,Pablo Lopez,Drew Thorpe,1,1,0,0,Right,Right,4.86,3.03
+20240710,Cubs,Orioles,0,0,Shota Imanaga,Corbin Burnes,1,1,0,0,Left,Right,2.86,2.38
+20240710,Guardians,Tigers,0,2,Tanner Bibee,Reese Olson,1,1,2,0,Right,Right,3.58,3.23
+20240710,Mariners,Padres,0,0,Bryce Miller,Michael King,1,1,0,0,Right,Right,3.63,3.28
+20240710,Yankees,Rays,0,0,Marcus Stroman,Zach Eflin,1,1,0,0,Right,Right,3.51,4.14
+20240710,Dodgers,Phillies,0,1,Gavin Stone,Cristopher Sanchez,1,1,1,0,Right,Left,3.19,2.97
+20240710,Rockies,Reds,0,0,Kyle Freeland,Frankie Montas,1,1,0,0,Left,Right,5.63,4.85
+20240710,Athletics,Red Sox,0,0,JP Sears,Nick Pivetta,1,1,0,0,Left,Right,4.49,3.87
+20240710,Nationals,Mets,0,1,Patrick Corbin,Luis Severino,1,1,1,0,Left,Right,5.35,3.58
+20240710,Royals,Cardinals,0,0,Michael Wacha,Gordon Graceffo,1,1,0,0,Right,Right,3.55,4.70
+20240710,Marlins,Astros,0,1,Bryan Hoeing,Framber Valdez,1,1,1,0,Right,Left,3.04,3.63
+20240710,Pirates,Brewers,0,2,Martin Perez,Tobias Myers,1,1,2,0,Left,Right,5.61,3.14
+20240710,Rangers,Angels,0,0,Michael Lorenzen,Griffin Canning,1,1,0,0,Right,Right,3.52,5.20
+20240710,Braves,Diamondbacks,0,0,Charlie Morton,Slade Cecconi,1,1,0,0,Right,Right,3.92,6.14
+20240710,Blue Jays,Giants,0,2,Chris Bassitt,Logan Webb,1,1,2,0,Right,Right,3.71,3.59
+20240711,Guardians,Tigers,0,1,Spencer Howard,Jack Flaherty,1,1,1,0,Right,Right,6.21,3.13
+20240711,Rockies,Reds,0,0,Austin Gomber,Hunter Greene,1,1,0,0,Left,Right,4.61,3.14
+20240711,Nationals,Mets,0,0,MacKenzie Gore,David Peterson,1,1,0,0,Left,Left,4.20,3.14
+20240711,Pirates,Brewers,0,0,Paul Skenes,Aaron Civale,1,1,0,0,Right,Right,1.90,5.17
+20240711,Blue Jays,Giants,3,2,Kevin Gausman,Jordan Hicks,1,1,2,3,Right,Right,4.55,3.79
+20240711,Dodgers,Phillies,0,1,Anthony Banda,Aaron Nola,1,1,1,0,Left,Right,2.60,3.54
+20240711,Cubs,Orioles,0,0,Justin Steele,Albert Suarez,1,1,0,0,Left,Right,3.07,2.82
+20240711,Yankees,Rays,0,2,Nestor Cortes,Shane Baz,1,1,2,0,Left,Right,3.99,3.95
+20240711,Athletics,Red Sox,0,3,Luis Medina,Tanner Houck,1,1,3,0,Right,Right,5.18,2.54
+20240711,Marlins,Astros,1,2,Roddery Munoz,Jake Bloss,1,1,2,1,Right,Right,5.14,4.70
+20240711,Mariners,Angels,4,0,Luis Castillo,Jack Kochanowicz,1,1,0,4,Right,Right,3.55,14.14
+20240711,Braves,Diamondbacks,0,0,Max Fried,Brandon Pfaadt,1,1,0,0,Left,Right,3.08,3.74
+20240712,Dodgers,Tigers,0,2,James Paxton,Tarik Skubal,1,1,2,0,Left,Left,4.43,2.34
+20240712,Athletics,Phillies,0,0,Hogan Harris,Ranger Suarez,1,1,0,0,Left,Left,3.40,2.76
+20240712,Guardians,Rays,0,0,Carlos Carrasco,Taj Bradley,1,1,0,0,Right,Right,5.32,2.63
+20240712,Yankees,Orioles,0,0,Gerrit Cole,Cade Povich,1,1,0,0,Right,Left,4.60,6.27
+20240712,Rockies,Mets,0,0,Tanner Gordon,Sean Manaea,1,1,0,0,Right,Left,10.61,3.73
+20240712,Royals,Red Sox,1,0,Cole Ragans,Cooper Criswell,1,1,0,1,Left,Right,3.16,4.50
+20240712,Marlins,Reds,0,2,Yonny Chirinos,Carson Spiers,1,1,2,0,Right,Right,6.30,3.83
+20240712,Pirates,White Sox,0,0,Marco Gonzales,Garrett Crochet,1,1,0,0,Left,Left,2.70,3.02
+20240712,Rangers,Astros,0,0,Andrew Heaney,Hunter Brown,1,1,0,0,Left,Right,3.60,4.14
+20240712,Nationals,Brewers,1,0,Jackson Rutledge,Freddy Peralta,1,1,0,1,Right,Right,4.76,3.88
+20240712,Cubs,Cardinals,0,0,Kyle Hendricks,Sonny Gray,1,1,0,0,Right,Right,6.69,3.54
+20240712,Mariners,Angels,2,2,Bryan Woo,Tyler Anderson,1,1,2,2,Right,Left,2.54,2.97
+20240712,Braves,Padres,0,0,Spencer Schwellenbach,Matt Waldron,1,1,0,0,Right,Right,4.62,3.59
+20240712,Blue Jays,Diamondbacks,0,0,Yariel Rodriguez,Ryne Nelson,1,1,0,0,Right,Right,3.78,4.78
+20240712,Twins,Giants,0,1,Joe Ryan,Kyle Harrison,1,1,1,0,Right,Left,3.65,3.86
+20240713,Dodgers,Tigers,1,0,Justin Wrobleski,Keider Montero,1,1,0,1,Left,Right,4.40,5.97
+20240713,Pirates,White Sox,1,0,Luis Ortiz,Chris Flexen,1,1,0,1,Right,Right,2.57,5.22
+20240713,Cubs,Cardinals,1,9,Hayden Wesneski,Lance Lynn,1,1,9,1,Right,Right,3.94,4.39
+20240713,Yankees,Orioles,4,0,Luis Gil,Grayson Rodriguez,1,1,0,4,Right,Right,3.17,3.83
+20240713,Athletics,Phillies,0,0,Mitch Spence,Tyler Phillips,1,1,0,0,Right,Right,4.67,2.81
+20240713,Guardians,Rays,0,0,Gavin Williams,Zack Littell,1,1,0,0,Right,Right,4.50,4.46
+20240713,Rockies,Mets,0,0,Ryan Feltner,Christian Scott,1,1,0,0,Right,Right,5.19,4.56
+20240713,Royals,Red Sox,0,0,Seth Lugo,Kutter Crawford,1,1,0,0,Right,Right,2.38,3.37
+20240713,Marlins,Reds,0,0,Edward Cabrera,Andrew Abbott,1,1,0,0,Right,Left,7.36,3.19
+20240713,Rangers,Astros,1,1,Nathan Eovaldi,Spencer Arrighetti,1,1,1,1,Right,Right,3.36,5.63
+20240713,Nationals,Brewers,0,5,Mitchell Parker,Dallas Keuchel,0.2,1,5,0,Left,Left,3.90,5.40
+20240713,Braves,Padres,0,0,Reynaldo Lopez,Dylan Cease,1,1,0,0,Right,Right,2.12,3.76
+20240713,Twins,Giants,0,0,Simeon Woods Richardson,Hayden Birdsong,1,1,0,0,Right,Right,3.51,3.55
+20240713,Cubs,Cardinals,0,2,Javier Assad,Kyle Gibson,1,1,2,0,Right,Right,3.15,3.99
+20240713,Mariners,Angels,1,0,George Kirby,Jose Soriano,1,1,0,1,Right,Right,3.20,3.71
+20240713,Blue Jays,Diamondbacks,0,1,Jose Berrios,Yilber Diaz,1,1,1,0,Right,Right,4.01,1.50
+20240714,Yankees,Orioles,0,0,Carlos Rodon,Dean Kremer,1,1,0,0,Left,Right,4.42,4.43
+20240714,Royals,Red Sox,1,2,Brady Singer,Brayan Bello,1,1,2,1,Right,Right,3.00,5.27
+20240714,Athletics,Phillies,0,1,Joey Estes,Orion Kerkering,1,1,1,0,Right,Right,5.11,1.72
+20240714,Guardians,Rays,0,0,Ben Lively,Ryan Pepiot,1,1,0,0,Right,Right,3.57,3.92
+20240714,Rockies,Mets,2,0,German Marquez,Jose Quintana,1,1,0,2,Right,Left,6.75,4.13
+20240714,Dodgers,Tigers,3,0,Brent Honeywell,Beau Brieske,1,1,0,3,Right,Right,1.08,4.32
+20240714,Marlins,Reds,0,0,Trevor Rogers,Nick Lodolo,1,1,0,0,Left,Left,4.59,3.51
+20240714,Pirates,White Sox,0,1,Mitch Keller,Jared Shuster,1,1,1,0,Right,Left,3.34,3.38
+20240714,Rangers,Astros,2,0,Max Scherzer,Ronel Blanco,1,1,0,2,Right,Right,3.99,2.75
+20240714,Nationals,Brewers,0,1,Jake Irvin,Rob Zastryzny,1,1,1,0,Right,Left,3.44,0.00
+20240714,Cubs,Cardinals,0,0,Jameson Taillon,Miles Mikolas,1,1,0,0,Right,Right,3.10,5.02
+20240714,Twins,Giants,0,0,Chris Paddack,Blake Snell,1,1,0,0,Right,Left,4.99,6.31
+20240714,Mariners,Angels,0,0,Logan Gilbert,Carson Fulmer,1,1,0,0,Right,Right,2.79,3.66
+20240714,Braves,Padres,0,1,Chris Sale,Randy Vasquez,1,1,1,0,Left,Right,2.70,4.57
+20240714,Blue Jays,Diamondbacks,0,0,Yusei Kikuchi,Zac Gallen,1,1,0,0,Left,Right,4.54,3.64
+20240719,Diamondbacks,Cubs,0,0,Ryne Nelson,Justin Steele,1,1,0,0,Right,Left,4.78,3.07
+20240719,Phillies,Pirates,3,3,Aaron Nola,Martin Perez,1,1,3,3,Right,Left,3.54,5.61
+20240719,Reds,Nationals,0,0,Frankie Montas,Patrick Corbin,1,1,0,0,Right,Left,4.85,5.35
+20240719,Rays,Yankees,0,0,Zach Eflin,Gerrit Cole,1,1,0,0,Right,Right,4.14,4.60
+20240719,Tigers,Blue Jays,0,0,Jack Flaherty,Chris Bassitt,1,1,0,0,Right,Right,3.13,3.71
+20240719,Mets,Marlins,0,0,Sean Manaea,Edward Cabrera,1,1,0,0,Left,Right,3.73,7.36
+20240719,Padres,Guardians,0,0,Matt Waldron,Tanner Bibee,1,1,0,0,Right,Right,3.59,3.58
+20240719,Orioles,Rangers,4,0,Corbin Burnes,Nathan Eovaldi,1,1,0,4,Right,Right,2.38,3.36
+20240719,White Sox,Royals,0,1,Chris Flexen,Michael Wacha,1,1,1,0,Right,Right,5.22,3.55
+20240719,Giants,Rockies,0,0,Kyle Harrison,Cal Quantrill,1,1,0,0,Left,Right,3.86,4.15
+20240719,Angels,Athletics,0,0,Griffin Canning,JP Sears,1,1,0,0,Right,Left,5.20,4.49
+20240719,Red Sox,Dodgers,0,0,Nick Pivetta,Gavin Stone,1,1,0,0,Right,Right,3.87,3.19
+20240719,Astros,Mariners,0,0,Hunter Brown,Luis Castillo,1,1,0,0,Right,Right,4.14,3.55
+20240720,Rays,Yankees,0,0,Taj Bradley,Nestor Cortes,1,1,0,0,Right,Left,2.63,3.99
+20240720,Cardinals,Braves,0,0,Kyle Gibson,Charlie Morton,1,1,0,0,Right,Right,3.99,3.92
+20240720,Tigers,Blue Jays,0,0,Reese Olson,Yusei Kikuchi,1,1,0,0,Right,Left,3.23,4.54
+20240720,Angels,Athletics,0,3,Jack Kochanowicz,Mitch Spence,1,1,3,0,Right,Right,14.14,4.67
+20240720,Mets,Marlins,0,0,Luis Severino,Roddery Munoz,1,1,0,0,Right,Right,3.58,5.14
+20240720,Phillies,Pirates,0,0,Cristopher Sanchez,Luis Ortiz,1,1,0,0,Left,Right,2.97,2.57
+20240720,Reds,Nationals,2,2,Nick Lodolo,MacKenzie Gore,1,1,2,2,Left,Left,3.51,4.20
+20240720,Orioles,Rangers,0,0,Grayson Rodriguez,Max Scherzer,1,1,0,0,Right,Right,3.83,3.99
+20240720,White Sox,Royals,0,3,Jonathan Cannon,Brady Singer,1,1,3,0,Right,Right,4.58,3.00
+20240720,Brewers,Twins,0,0,Freddy Peralta,Pablo Lopez,1,1,0,0,Right,Right,3.88,4.86
+20240720,Padres,Guardians,0,0,Dylan Cease,Gavin Williams,1,1,0,0,Right,Right,3.76,4.50
+20240720,Diamondbacks,Cubs,0,0,Zac Gallen,Kyle Hendricks,1,1,0,0,Right,Right,3.64,6.69
+20240720,Red Sox,Dodgers,0,0,Brayan Bello,Justin Wrobleski,1,1,0,0,Right,Left,5.27,4.40
+20240720,Cardinals,Braves,1,1,Sonny Gray,Bryce Elder,1,1,1,1,Right,Right,3.54,6.35
+20240720,Giants,Rockies,0,2,Logan Webb,Kyle Freeland,1,1,2,0,Right,Left,3.59,5.63
+20240720,Astros,Mariners,0,0,Framber Valdez,George Kirby,1,1,0,0,Left,Right,3.63,3.20
+20240721,Brewers,Twins,0,0,Aaron Civale,Joe Ryan,1,1,0,0,Right,Right,5.17,3.65
+20240721,Reds,Nationals,0,0,Andrew Abbott,Jake Irvin,1,1,0,0,Left,Right,3.19,3.44
+20240721,Phillies,Pirates,0,0,Tyler Phillips,Marco Gonzales,1,1,0,0,Right,Left,2.81,2.70
+20240721,Cardinals,Braves,0,0,Miles Mikolas,Spencer Schwellenbach,1,1,0,0,Right,Right,5.02,4.62
+20240721,Rays,Yankees,1,0,Shane Baz,Marcus Stroman,1,1,0,1,Right,Right,3.95,3.51
+20240721,Tigers,Blue Jays,0,1,Keider Montero,Kevin Gausman,1,1,1,0,Right,Right,5.97,4.55
+20240721,Mets,Marlins,0,0,Christian Scott,Trevor Rogers,1,1,0,0,Right,Left,4.56,4.59
+20240721,Padres,Guardians,0,0,Michael King,Ben Lively,1,1,0,0,Right,Right,3.28,3.57
+20240721,White Sox,Royals,0,0,Drew Thorpe,Seth Lugo,1,1,0,0,Right,Right,3.03,2.38
+20240721,Diamondbacks,Cubs,0,0,Brandon Pfaadt,Shota Imanaga,1,1,0,0,Right,Left,3.74,2.86
+20240721,Orioles,Rangers,0,0,Dean Kremer,Andrew Heaney,1,1,0,0,Right,Left,4.43,3.60
+20240721,Giants,Rockies,1,0,Hayden Birdsong,Ryan Feltner,1,1,0,1,Right,Right,3.55,5.19
+20240721,Angels,Athletics,0,0,Carson Fulmer,Joey Estes,1,1,0,0,Right,Right,3.66,5.11
+20240721,Astros,Mariners,0,0,Ronel Blanco,Bryan Woo,1,1,0,0,Right,Right,2.75,2.54
+20240721,Red Sox,Dodgers,2,2,Kutter Crawford,James Paxton,1,1,2,2,Right,Left,3.37,4.43
+20240722,Red Sox,Rockies,0,0,Tanner Houck,Austin Gomber,1,1,0,0,Right,Left,2.54,4.61
+20240722,Angels,Mariners,0,1,Tyler Anderson,Bryce Miller,1,1,1,0,Left,Right,2.97,3.63
+20240722,Giants,Dodgers,0,0,Blake Snell,River Ryan,1,1,0,0,Left,Right,,
+20240722,Rays,Yankees,0,0,Zack Littell,Carlos Rodon,1,1,0,0,Right,Left,4.46,4.42
+20240722,Tigers,Guardians,2,0,Tarik Skubal,Carlos Carrasco,1,1,0,2,Left,Right,2.34,5.32
+20240722,Mets,Marlins,0,0,David Peterson,Yonny Chirinos,1,1,0,0,Left,Right,3.14,6.30
+20240722,Cardinals,Pirates,0,0,Andre Pallante,Mitch Keller,1,1,0,0,Right,Right,3.92,3.34
+20240722,Reds,Braves,1,0,Hunter Greene,Reynaldo Lopez,1,1,0,1,Right,Right,3.14,2.12
+20240722,Phillies,Twins,2,0,Ranger Suarez,Bailey Ober,1,1,0,2,Left,Right,2.76,4.14
+20240722,White Sox,Rangers,1,0,Erick Fedde,Michael Lorenzen,1,1,0,1,Right,Right,2.98,3.53
+20240722,Brewers,Cubs,0,0,Tobias Myers,Javier Assad,1,1,0,0,Right,Right,3.14,3.15
+20240722,Diamondbacks,Royals,0,0,Yilber Diaz,Cole Ragans,1,1,0,0,Right,Left,5.40,3.23
+20240722,Astros,Athletics,0,0,Spencer Arrighetti,Hogan Harris,1,1,0,0,Right,Left,5.63,2.98
+20240723,Orioles,Marlins,1,0,Albert Suarez,Kyle Tyler,1,1,0,1,Right,Right,3.48,3.92
+20240723,Tigers,Guardians,0,0,Tyler Holton,Xzavion Curry,1,1,0,0,Left,Right,3.07,4.98
+20240723,Cardinals,Pirates,0,0,Lance Lynn,Paul Skenes,1,1,0,0,Right,Right,4.17,1.93
+20240723,Padres,Nationals,0,0,Randy Vasquez,DJ Herz,1,1,0,0,Right,Left,4.17,4.95
+20240723,Mets,Yankees,0,0,Jose Quintana,Luis Gil,1,1,0,0,Left,Right,4.02,3.10
+20240723,Rays,Blue Jays,0,0,Shawn Armstrong,Jose Berrios,1,1,0,0,Right,Right,5.64,4.08
+20240723,Phillies,Twins,0,0,Zack Wheeler,Simeon Woods Richardson,1,1,0,0,Right,Right,2.55,3.27
+20240723,White Sox,Rangers,0,2,Garrett Crochet,Jon Gray,1,1,2,0,Left,Right,3.07,3.73
+20240723,Brewers,Cubs,0,0,Colin Rea,Jameson Taillon,1,1,0,0,Right,Right,3.60,2.96
+20240723,Diamondbacks,Royals,3,1,Jordan Montgomery,Alec Marsh,1,1,1,3,Left,Right,6.11,4.75
+20240723,Red Sox,Rockies,3,0,Cooper Criswell,Ty Blach,1,1,0,3,Right,Left,4.02,6.13
+20240723,Angels,Mariners,0,0,Jose Soriano,Logan Gilbert,1,1,0,0,Right,Right,3.51,2.72
+20240723,Astros,Athletics,0,2,Jake Bloss,Osvaldo Bido,1,1,2,0,Right,Right,6.94,3.09
+20240723,Giants,Dodgers,0,2,Jordan Hicks,Landon Knack,1,1,2,0,Right,Right,4.01,3.07
+20240724,Giants,Dodgers,0,1,Robbie Ray,Tyler Glasnow,1,1,1,0,Left,Right,8.10,3.47
+20240724,Reds,Braves,4,1,Frankie Montas,Allan Winans,1,1,1,4,Right,Right,5.01,15.26
+20240724,Cardinals,Pirates,0,0,Matthew Liberatore,Martin Perez,1,1,0,0,Left,Left,4.75,5.20
+20240724,Phillies,Twins,0,0,Aaron Nola,Steven Okert,1,0.1,0,0,Right,Left,3.44,4.34
+20240724,Brewers,Cubs,1,1,Rob Zastryzny,Justin Steele,1,1,1,1,Left,Left,1.17,3.08
+20240724,Red Sox,Rockies,0,3,Nick Pivetta,Cal Quantrill,1,1,3,0,Right,Right,4.50,4.09
+20240724,Astros,Athletics,1,1,Hunter Brown,JP Sears,1,1,1,1,Right,Left,4.00,4.81
+20240724,Angels,Mariners,0,0,Griffin Canning,Luis Castillo,1,1,0,0,Right,Right,5.04,3.38
+20240724,Orioles,Marlins,0,0,Chayce McDermott,Edward Cabrera,1,1,0,0,Right,Right,,
+20240724,Tigers,Guardians,1,0,Jack Flaherty,Tanner Bibee,1,1,0,1,Right,Right,2.95,3.50
+20240724,Padres,Nationals,0,3,Matt Waldron,Mitchell Parker,1,1,3,0,Right,Left,3.64,4.34
+20240724,Mets,Yankees,0,1,Sean Manaea,Gerrit Cole,1,1,1,0,Left,Right,3.74,5.40
+20240724,Rays,Blue Jays,0,1,Zach Eflin,Yariel Rodriguez,1,1,1,0,Right,Right,4.09,3.69
+20240724,White Sox,Rangers,0,1,Chris Flexen,Nathan Eovaldi,1,1,1,0,Right,Right,5.25,3.31
+20240724,Diamondbacks,Royals,0,0,Ryne Nelson,Michael Wacha,1,1,0,0,Right,Right,4.85,3.65
+20240725,Athletics,Angels,2,0,Ross Stripling,Kenny Rosenberg,1,1,0,2,Right,Left,5.82,6.30
+20240725,Padres,Nationals,3,0,Dylan Cease,Patrick Corbin,1,1,0,3,Right,Left,3.50,5.26
+20240725,Orioles,Marlins,1,0,Corbin Burnes,Roddery Munoz,1,1,0,1,Right,Right,2.45,5.61
+20240725,Tigers,Guardians,0,0,Tyler Holton,Gavin Williams,1,1,0,0,Left,Right,2.97,4.50
+20240725,White Sox,Rangers,0,0,Jonathan Cannon,Max Scherzer,1,1,0,0,Right,Right,4.43,3.57
+20240725,Rays,Blue Jays,1,0,Taj Bradley,Chris Bassitt,1,1,0,1,Right,Right,2.43,3.78
+20240725,Giants,Dodgers,0,0,Logan Webb,Clayton Kershaw,1,1,0,0,Right,Left,3.72,4.50
+20240725,Braves,Mets,0,0,Chris Sale,Luis Severino,1,1,0,0,Left,Right,2.68,3.58
+20240726,Athletics,Angels,0,4,Paul Blackburn,Carson Fulmer,1,1,4,0,Right,Right,4.11,3.66
+20240726,Pirates,Diamondbacks,2,0,Luis Ortiz,Zac Gallen,1,1,0,2,Right,Right,2.57,3.64
+20240726,Rockies,Giants,0,1,Kyle Freeland,Kyle Harrison,1,1,1,0,Left,Left,5.63,3.86
+20240726,Guardians,Phillies,1,0,Ben Lively,Cristopher Sanchez,1,1,0,1,Right,Left,3.44,3.05
+20240726,Twins,Tigers,2,0,Pablo Lopez,Keider Montero,1,1,0,2,Right,Right,4.73,6.38
+20240726,Reds,Rays,2,0,Nick Lodolo,Shane Baz,1,1,0,2,Left,Right,3.45,3.66
+20240726,Padres,Orioles,0,0,Adam Mazur,Grayson Rodriguez,1,1,0,0,Right,Right,7.49,3.82
+20240726,Rangers,Blue Jays,1,3,Andrew Heaney,Yusei Kikuchi,1,1,3,1,Left,Left,3.77,4.75
+20240726,Braves,Mets,0,0,Charlie Morton,Kodai Senga,1,1,0,0,Right,Right,4.16,3.38
+20240726,Yankees,Red Sox,0,1,Nestor Cortes,Brayan Bello,1,1,1,0,Left,Right,4.13,5.27
+20240726,Cubs,Royals,0,0,Kyle Hendricks,Brady Singer,1,1,0,0,Right,Right,6.95,2.82
+20240726,Dodgers,Astros,0,0,Gavin Stone,Framber Valdez,1,1,0,0,Right,Left,3.34,3.43
+20240726,Marlins,Brewers,3,0,Trevor Rogers,Freddy Peralta,1,1,0,3,Left,Right,4.53,3.94
+20240726,Mariners,White Sox,8,0,George Kirby,Drew Thorpe,1,0.2,0,8,Right,Right,3.03,4.81
+20240726,Nationals,Cardinals,0,0,MacKenzie Gore,Sonny Gray,1,1,0,0,Left,Right,4.51,3.79
+20240727,Yankees,Red Sox,3,3,Marcus Stroman,Kutter Crawford,1,1,3,3,Right,Right,3.51,3.37
+20240727,Nationals,Cardinals,0,0,Jake Irvin,Kyle Gibson,1,1,0,0,Right,Right,3.44,3.99
+20240727,Pirates,Diamondbacks,1,1,Marco Gonzales,Brandon Pfaadt,1,1,1,1,Left,Right,2.70,3.74
+20240727,Athletics,Angels,3,0,Mitch Spence,Tyler Anderson,1,1,0,3,Right,Left,4.67,2.91
+20240727,Rockies,Giants,0,1,Tanner Gordon,Hayden Birdsong,1,1,1,0,Right,Right,10.61,3.55
+20240727,Rangers,Blue Jays,1,4,Michael Lorenzen,Kevin Gausman,0.2,1,4,1,Right,Right,3.87,4.44
+20240727,Padres,Orioles,0,0,Michael King,Dean Kremer,1,1,0,0,Right,Right,3.26,4.20
+20240727,Braves,Mets,0,0,Spencer Schwellenbach,Tylor Megill,1,1,0,0,Right,Right,4.06,5.20
+20240727,Reds,Rays,0,0,Andrew Abbott,Zack Littell,1,1,0,0,Left,Right,3.38,4.18
+20240727,Guardians,Phillies,0,0,Carlos Carrasco,Tyler Phillips,1,1,0,0,Right,Right,5.68,1.80
+20240727,Twins,Tigers,2,1,Joe Ryan,Tarik Skubal,1,1,1,2,Right,Left,3.69,2.35
+20240727,Rockies,Giants,0,0,Ryan Feltner,Blake Snell,1,1,0,0,Right,Left,4.99,5.10
+20240727,Cubs,Royals,2,0,Shota Imanaga,Seth Lugo,1,1,0,2,Left,Right,2.95,2.66
+20240727,Dodgers,Astros,0,0,Justin Wrobleski,Ronel Blanco,1,1,0,0,Left,Right,4.05,2.95
+20240727,Marlins,Brewers,0,0,Max Meyer,Aaron Civale,1,1,0,0,Right,Right,3.00,4.92
+20240727,Mariners,White Sox,0,0,Bryan Woo,Erick Fedde,1,1,0,0,Right,Right,2.35,3.11
+20240728,Yankees,Red Sox,3,0,Carlos Rodon,Tanner Houck,1,1,0,3,Left,Right,4.42,2.71
+20240728,Reds,Rays,0,0,Hunter Greene,Shawn Armstrong,1,1,0,0,Right,Right,2.97,5.40
+20240728,Guardians,Phillies,0,1,Joey Cantillo,Kolby Allard,1,1,1,0,Left,Left,,
+20240728,Padres,Orioles,0,0,Randy Vasquez,Albert Suarez,1,1,0,0,Right,Right,4.82,3.62
+20240728,Rangers,Blue Jays,0,3,Jon Gray,Jose Berrios,0.0,1,0,0,Right,Right,3.73,3.93
+20240728,Braves,Mets,0,0,Reynaldo Lopez,David Peterson,1,1,0,0,Right,Left,2.06,3.52
+20240728,Twins,Tigers,0,0,Bailey Ober,Alex Faedo,1,1,0,0,Right,Right,3.76,3.58
+20240728,Cubs,Royals,0,2,Javier Assad,Cole Ragans,1,1,2,0,Right,Left,3.23,3.37
+20240728,Dodgers,Astros,0,0,River Ryan,Spencer Arrighetti,1,1,0,0,Right,Right,0.82,5.58
+20240728,Marlins,Brewers,1,2,Kyle Tyler,Tobias Myers,1,1,2,1,Right,Right,4.74,3.10
+20240728,Mariners,White Sox,2,0,Bryce Miller,Garrett Crochet,1,1,0,2,Right,Left,3.46,3.23
+20240728,Nationals,Cardinals,0,1,DJ Herz,Miles Mikolas,1,1,1,0,Left,Right,4.79,4.99
+20240728,Rockies,Giants,0,1,Austin Gomber,Erik Miller,1,1,1,0,Left,Left,4.79,3.40
+20240728,Athletics,Angels,0,0,Osvaldo Bido,Jose Soriano,1,1,0,0,Right,Right,5.00,3.69
+20240728,Pirates,Diamondbacks,0,0,Mitch Keller,Yilber Diaz,1,1,0,0,Right,Right,3.30,4.05
+20240729,Blue Jays,Orioles,1,1,Bowden Francis,Cade Povich,1,1,1,1,Right,Left,5.82,6.27
+20240729,Nationals,Diamondbacks,5,0,Mitchell Parker,Jordan Montgomery,1,1,0,5,Left,Left,4.34,6.11
+20240729,Blue Jays,Orioles,0,4,Yariel Rodriguez,Zach Eflin,0.2,1,3,0,Right,Right,4.31,4.11
+20240729,Guardians,Tigers,3,0,Tanner Bibee,Beau Brieske,1,0.2,0,3,Right,Right,3.48,5.00
+20240729,Yankees,Phillies,1,0,Luis Gil,Zack Wheeler,1,1,0,1,Right,Right,3.20,2.94
+20240729,Cubs,Reds,0,0,Jameson Taillon,Carson Spiers,1,1,0,0,Right,Right,3.35,3.46
+20240729,Twins,Mets,1,0,Simeon Woods Richardson,Jose Quintana,1,1,0,1,Right,Left,3.74,3.89
+20240729,Mariners,Red Sox,0,0,Logan Gilbert,Nick Pivetta,1,1,0,0,Right,Right,3.11,4.47
+20240729,Rangers,Cardinals,0,0,Nathan Eovaldi,Andre Pallante,1,1,0,0,Right,Right,3.38,4.04
+20240729,Braves,Brewers,0,0,Grant Holmes,Colin Rea,1,1,0,0,Right,Right,2.54,3.59
+20240729,Royals,White Sox,0,1,Alec Marsh,Chris Flexen,1,1,1,0,Right,Right,4.71,5.13
+20240729,Pirates,Astros,0,0,Paul Skenes,Tayler Scott,1,1,0,0,Right,Right,1.90,1.37
+20240730,Yankees,Phillies,1,1,Will Warren,Aaron Nola,1,1,1,1,Right,Right,,
+20240730,Rangers,Cardinals,0,1,Max Scherzer,Lance Lynn,1,1,1,0,Right,Right,3.57,4.17
+20240730,Braves,Brewers,0,0,Bryce Elder,Joe Ross,1,1,0,0,Right,Right,6.35,4.50
+20240730,Royals,White Sox,0,1,Michael Wacha,Jonathan Cannon,1,1,1,0,Right,Right,3.65,4.43
+20240730,Pirates,Astros,0,0,Bailey Falter,Hunter Brown,1,1,0,0,Left,Right,4.08,4.00
+20240730,Rockies,Angels,2,2,Cal Quantrill,Griffin Canning,0.1,1,2,2,Right,Right,4.09,5.04
+20240730,Dodgers,Padres,5,0,Tyler Glasnow,Matt Waldron,0.0,1,0,5,Right,Right,3.47,3.64
+20240730,Nationals,Diamondbacks,0,2,Patrick Corbin,Ryne Nelson,1,1,2,0,Left,Right,5.26,4.85
+20240730,Athletics,Giants,0,0,JP Sears,Robbie Ray,1,1,0,0,Left,Left,4.81,1.80
+20240730,Guardians,Tigers,0,0,Gavin Williams,Tyler Holton,1,1,0,0,Right,Left,3.72,2.83
+20240730,Blue Jays,Orioles,0,1,Chris Bassitt,Corbin Burnes,1,1,1,0,Right,Right,4.02,2.47
+20240730,Marlins,Rays,2,0,Edward Cabrera,Jeffrey Springs,1,1,0,2,Right,Left,6.65,4.91
+20240730,Cubs,Reds,0,2,Justin Steele,Tony Santillan,1,1,2,0,Left,Right,3.08,0.00
+20240730,Twins,Mets,0,0,David Festa,Sean Manaea,1,1,0,0,Right,Left,6.98,3.50
+20240730,Mariners,Red Sox,1,0,Luis Castillo,James Paxton,1,1,0,1,Right,Left,3.38,4.43
+20240731,Cubs,Reds,0,0,Kyle Hendricks,Nick Lodolo,1,1,0,0,Right,Left,6.95,3.45
+20240731,Pirates,Astros,0,0,Jake Woodford,Framber Valdez,1,1,0,0,Right,Left,10.80,3.43
+20240731,Dodgers,Padres,0,0,Clayton Kershaw,Dylan Cease,1,1,0,0,Left,Right,4.50,3.50
+20240731,Rockies,Angels,1,0,Kyle Freeland,Davis Daniel,1,1,0,1,Left,Right,6.23,5.82
+20240731,Athletics,Giants,0,0,Ross Stripling,Logan Webb,1,1,0,0,Right,Right,6.02,3.72
+20240731,Marlins,Rays,0,1,Roddery Munoz,Taj Bradley,1,1,1,0,Right,Right,5.45,2.71
+20240731,Yankees,Phillies,0,0,Nestor Cortes,Cristopher Sanchez,1,1,0,0,Left,Left,4.16,3.36
+20240731,Blue Jays,Orioles,0,2,Paolo Espino,Grayson Rodriguez,1,1,2,0,Right,Right,8.31,3.86
+20240731,Twins,Mets,0,0,Pablo Lopez,Luis Severino,1,1,0,0,Right,Right,4.65,3.93
+20240731,Braves,Brewers,0,2,Chris Sale,Freddy Peralta,1,1,2,0,Left,Right,2.71,3.89
+20240731,Royals,White Sox,1,0,Brady Singer,Drew Thorpe,1,1,0,1,Right,Right,2.88,5.48
+20240731,Rangers,Cardinals,0,0,Andrew Heaney,Michael McGreevy,1,1,0,0,Left,Right,,
+20240731,Nationals,Diamondbacks,0,0,MacKenzie Gore,Zac Gallen,1,1,0,0,Left,Right,4.54,3.56
+20240731,Mariners,Red Sox,0,1,George Kirby,Brayan Bello,1,1,1,0,Right,Right,3.04,5.13
+20240801,Cardinals,Cubs,1,0,Sonny Gray,Shota Imanaga,1,1,0,1,Right,Left,3.79,2.95
+20240801,Rockies,Angels,0,0,Ryan Feltner,Carson Fulmer,1,1,0,0,Right,Right,4.99,3.77
+20240801,Orioles,Guardians,1,2,Trevor Rogers,Ben Lively,1,1,2,1,Left,Right,4.76,3.42
+20240801,Royals,Tigers,3,0,Seth Lugo,Keider Montero,1,1,0,3,Right,Right,2.57,6.18
+20240801,Marlins,Braves,0,3,Max Meyer,Charlie Morton,1,1,3,0,Right,Right,3.81,3.94
+20240802,Blue Jays,Yankees,3,2,Kevin Gausman,Marcus Stroman,1,1,2,3,Right,Right,4.44,3.64
+20240802,Mets,Angels,0,0,Paul Blackburn,Tyler Anderson,1,1,0,0,Right,Left,4.41,2.96
+20240802,Rockies,Padres,0,0,Austin Gomber,Randy Vasquez,1,1,0,0,Left,Right,4.79,4.82
+20240802,Dodgers,Athletics,2,0,Gavin Stone,Joey Estes,1,1,0,2,Right,Right,3.34,4.92
+20240802,Phillies,Mariners,0,1,Tyler Phillips,Bryan Woo,1,1,1,0,Right,Right,1.80,2.35
+20240802,Cardinals,Cubs,0,0,Erick Fedde,Javier Assad,1,1,0,0,Right,Right,3.34,3.19
+20240802,Diamondbacks,Pirates,5,0,Brandon Pfaadt,Luis Ortiz,1,1,0,5,Right,Right,3.97,3.21
+20240802,Royals,Tigers,0,2,Cole Ragans,Tarik Skubal,1,1,2,0,Left,Left,3.36,2.57
+20240802,Brewers,Nationals,0,0,Frankie Montas,Jake Irvin,1,1,0,0,Right,Right,5.03,3.56
+20240802,Orioles,Guardians,0,0,Dean Kremer,Carlos Carrasco,1,1,0,0,Right,Right,4.39,5.53
+20240802,Giants,Reds,0,0,Blake Snell,Andrew Abbott,1,1,0,0,Left,Left,4.29,3.41
+20240802,Marlins,Braves,2,0,Valente Bellozo,Spencer Schwellenbach,1,1,0,2,Right,Right,4.20,4.04
+20240802,Red Sox,Rangers,0,1,Kutter Crawford,Jose Urena,1,1,1,0,Right,Right,3.81,3.70
+20240802,White Sox,Twins,0,2,Davis Martin,Joe Ryan,1,1,2,0,Right,Right,7.11,3.59
+20240802,Rays,Astros,2,0,Shane Baz,Yusei Kikuchi,1,1,0,2,Right,Left,3.60,4.67
+20240803,Phillies,Mariners,1,0,Orion Kerkering,Bryce Miller,1,1,0,1,Right,Right,2.21,3.46
+20240803,Blue Jays,Yankees,1,2,Jose Berrios,Carlos Rodon,1,1,2,1,Right,Left,4.11,4.37
+20240803,Cardinals,Cubs,1,2,Kyle Gibson,Jameson Taillon,1,1,2,1,Right,Right,4.04,3.25
+20240803,Brewers,Nationals,0,4,Aaron Civale,DJ Herz,1,1,4,0,Right,Left,5.14,4.27
+20240803,Royals,Tigers,0,0,Michael Lorenzen,Tyler Holton,1,1,0,0,Right,Left,3.69,2.70
+20240803,Diamondbacks,Pirates,0,0,Jordan Montgomery,Mitch Keller,1,1,0,0,Left,Right,6.37,3.20
+20240803,Red Sox,Rangers,1,0,Tanner Houck,Cody Bradford,1,1,0,1,Right,Left,3.09,3.96
+20240803,White Sox,Twins,0,0,Garrett Crochet,Bailey Ober,1,1,0,0,Left,Right,3.19,3.69
+20240803,Orioles,Guardians,0,0,Zach Eflin,Joey Cantillo,1,1,0,0,Right,Left,4.05,7.36
+20240803,Giants,Reds,0,0,Kyle Harrison,Hunter Greene,1,1,0,0,Left,Right,4.09,2.83
+20240803,Rays,Astros,0,0,Zack Littell,Ronel Blanco,1,1,0,0,Right,Right,4.06,2.98
+20240803,Marlins,Braves,0,1,Kyle Tyler,Grant Holmes,1,1,1,0,Right,Right,5.27,3.00
+20240803,Rockies,Padres,0,0,Tanner Gordon,Martin Perez,1,1,0,0,Right,Left,6.75,4.96
+20240803,Dodgers,Athletics,0,0,Jack Flaherty,Mitch Spence,1,1,0,0,Right,Right,2.80,4.40
+20240803,Mets,Angels,0,1,David Peterson,Jose Soriano,1,1,1,0,Left,Right,3.47,3.47
+20240804,Cardinals,Cubs,0,0,Miles Mikolas,Justin Steele,1,1,0,0,Right,Left,4.99,3.38
+20240804,Giants,Reds,0,0,Robbie Ray,Carson Spiers,1,1,0,0,Left,Right,4.40,3.59
+20240804,Diamondbacks,Pirates,0,1,Ryne Nelson,Paul Skenes,1,1,1,0,Right,Right,4.65,1.99
+20240804,Marlins,Braves,0,0,Edward Cabrera,Max Fried,1,1,0,0,Right,Left,5.96,3.40
+20240804,Brewers,Nationals,0,1,Tobias Myers,Mitchell Parker,1,1,1,0,Right,Left,3.02,4.06
+20240804,Blue Jays,Yankees,0,0,Yariel Rodriguez,Gerrit Cole,1,1,0,0,Right,Right,3.86,5.09
+20240804,Orioles,Guardians,1,0,Corbin Burnes,Gavin Williams,1,1,0,1,Right,Right,2.63,4.91
+20240804,Royals,Tigers,0,0,Michael Wacha,Alex Faedo,1,1,0,0,Right,Right,3.55,3.69
+20240804,White Sox,Twins,0,2,Chris Flexen,Simeon Woods Richardson,1,1,2,0,Right,Right,5.53,3.87
+20240804,Rays,Astros,0,0,Hunter Bigge,Spencer Arrighetti,0.2,1,0,0,Right,Right,1.50,5.33
+20240804,Red Sox,Rangers,0,1,Nick Pivetta,Nathan Eovaldi,1,1,1,0,Right,Right,4.44,3.62
+20240804,Dodgers,Athletics,2,2,River Ryan,Osvaldo Bido,1,1,2,2,Right,Right,1.72,4.64
+20240804,Mets,Angels,0,0,Jose Quintana,Griffin Canning,1,1,0,0,Left,Right,3.95,5.10
+20240804,Rockies,Padres,0,0,Cal Quantrill,Matt Waldron,1,1,0,0,Right,Right,4.56,3.79
+20240804,Phillies,Mariners,1,0,Zack Wheeler,Logan Gilbert,1,1,0,1,Right,Right,2.77,3.05
+20240805,Astros,Rangers,0,0,Hunter Brown,Andrew Heaney,1,1,0,0,Right,Left,4.11,4.12
+20240805,Red Sox,Royals,0,0,James Paxton,Brady Singer,1,1,0,0,Left,Right,4.52,2.88
+20240805,White Sox,Athletics,0,1,Ky Bush,JP Sears,1,1,1,0,Left,Left,,
+20240805,Phillies,Dodgers,0,0,Aaron Nola,Tyler Glasnow,1,1,0,0,Right,Right,3.43,3.50
+20240805,Mets,Cardinals,0,0,Sean Manaea,Andre Pallante,1,1,0,0,Left,Right,3.50,4.04
+20240805,Diamondbacks,Guardians,2,2,Zac Gallen,Logan Allen,1,1,2,2,Right,Left,3.56,5.67
+20240805,Reds,Marlins,2,0,Nick Martinez,Roddery Munoz,1,1,0,2,Right,Right,3.65,5.45
+20240805,Giants,Nationals,1,0,Logan Webb,Patrick Corbin,1,1,0,1,Right,Left,3.49,5.88
+20240805,Twins,Cubs,0,0,David Festa,Kyle Hendricks,1,1,0,0,Right,Right,6.98,6.86
+20240806,Padres,Pirates,0,0,Dylan Cease,Bailey Falter,1,1,0,0,Right,Left,3.42,3.95
+20240806,Astros,Rangers,0,0,Framber Valdez,Tyler Mahle,1,1,0,0,Left,Right,3.56,3.16
+20240806,Twins,Cubs,0,3,Pablo Lopez,Shota Imanaga,1,1,3,0,Right,Left,4.65,3.09
+20240806,Red Sox,Royals,0,1,Brayan Bello,Seth Lugo,1,1,1,0,Right,Right,5.13,2.57
+20240806,Mets,Rockies,0,0,Luis Severino,Kyle Freeland,1,1,0,0,Right,Left,3.93,5.64
+20240806,White Sox,Athletics,0,0,Jonathan Cannon,Ross Stripling,1,1,0,0,Right,Right,4.11,5.64
+20240806,Tigers,Mariners,0,0,Keider Montero,Luis Castillo,1,1,0,0,Right,Right,6.18,3.43
+20240806,Phillies,Dodgers,0,0,Cristopher Sanchez,Clayton Kershaw,1,1,0,0,Left,Left,3.36,5.87
+20240806,Reds,Marlins,0,0,Nick Lodolo,Max Meyer,1,1,0,0,Left,Right,3.93,5.10
+20240806,Giants,Nationals,4,0,Hayden Birdsong,MacKenzie Gore,1,1,0,4,Right,Left,4.73,4.66
+20240806,Orioles,Blue Jays,0,0,Albert Suarez,Chris Bassitt,1,1,0,0,Right,Right,3.66,3.95
+20240806,Brewers,Braves,3,0,Colin Rea,Bryce Elder,1,1,0,3,Right,Right,3.38,6.52
+20240806,Rays,Cardinals,2,0,Jeffrey Springs,Sonny Gray,1,1,0,2,Left,Right,4.91,3.72
+20240807,Padres,Pirates,0,2,Michael King,Marco Gonzales,1,1,2,0,Right,Left,3.26,3.72
+20240807,Red Sox,Royals,0,1,Kutter Crawford,Cole Ragans,1,1,1,0,Right,Left,3.81,3.36
+20240807,Mets,Rockies,1,1,Paul Blackburn,Ryan Feltner,1,1,1,1,Right,Right,4.11,4.97
+20240807,Tigers,Mariners,1,0,Tarik Skubal,George Kirby,1,1,0,1,Left,Right,2.57,3.04
+20240807,Phillies,Dodgers,1,2,Tyler Phillips,Gavin Stone,1,1,2,1,Right,Right,4.39,3.63
+20240807,Diamondbacks,Guardians,0,0,Brandon Pfaadt,Ben Lively,1,1,0,0,Right,Right,3.92,3.59
+20240807,Twins,Cubs,1,1,Joe Ryan,Javier Assad,1,1,1,1,Right,Right,3.60,3.24
+20240807,Astros,Rangers,1,0,Yusei Kikuchi,Jose Urena,1,1,0,1,Left,Right,4.62,3.74
+20240807,White Sox,Athletics,0,0,Davis Martin,Joey Estes,1,1,0,0,Right,Right,3.65,4.70
+20240807,Angels,Yankees,0,2,Davis Daniel,Luis Gil,1,1,2,0,Right,Right,6.04,3.06
+20240807,Diamondbacks,Guardians,0,0,Eduardo Rodriguez,Carlos Carrasco,1,1,0,0,Left,Right,4.76,5.64
+20240807,Reds,Marlins,0,5,Andrew Abbott,Valente Bellozo,1,1,5,0,Left,Right,3.70,3.05
+20240807,Giants,Nationals,0,0,Blake Snell,Jake Irvin,1,1,0,0,Left,Right,4.31,3.76
+20240807,Orioles,Blue Jays,2,1,Trevor Rogers,Bowden Francis,1,1,1,2,Left,Right,4.71,5.44
+20240807,Brewers,Braves,0,2,Freddy Peralta,Chris Sale,1,1,2,0,Right,Left,3.89,2.71
+20240807,Angels,Yankees,0,0,Carson Fulmer,Will Warren,1,1,0,0,Right,Right,3.69,11.17
+20240807,Rays,Cardinals,0,1,Taj Bradley,Erick Fedde,1,1,1,0,Right,Right,3.07,3.28
+20240808,Angels,Yankees,1,0,Tyler Anderson,Nestor Cortes,1,1,0,1,Left,Left,3.05,4.16
+20240808,Tigers,Mariners,0,0,Brenan Hanifee,Bryan Woo,1,1,0,0,Right,Right,4.50,2.08
+20240808,Phillies,Diamondbacks,0,0,Kolby Allard,Jordan Montgomery,1,1,0,0,Left,Left,4.50,6.37
+20240808,Giants,Nationals,1,1,Kyle Harrison,DJ Herz,1,1,1,1,Left,Left,4.08,4.41
+20240808,Brewers,Braves,3,0,Frankie Montas,Charlie Morton,1,1,0,3,Right,Right,5.10,4.47
+20240808,Padres,Pirates,2,0,Randy Vasquez,Luis Ortiz,1,1,0,2,Right,Right,4.63,3.40
+20240808,Mets,Rockies,4,0,David Peterson,Austin Gomber,1,1,0,4,Left,Left,3.34,4.92
+20240808,Reds,Marlins,2,0,Hunter Greene,Kyle Tyler,1,1,0,2,Right,Right,2.90,5.40
+20240808,Orioles,Blue Jays,0,3,Dean Kremer,Kevin Gausman,1,1,3,0,Right,Right,4.70,4.42
+20240808,Rays,Cardinals,2,3,Shane Baz,Kyle Gibson,1,1,3,2,Right,Right,3.60,4.04
+20240809,Cubs,White Sox,3,0,Jameson Taillon,Garrett Crochet,1,1,0,3,Right,Left,3.25,3.19
+20240809,Reds,Brewers,0,3,Carson Spiers,Aaron Civale,1,1,3,0,Right,Right,3.59,5.14
+20240809,Guardians,Twins,0,1,Alex Cobb,Louie Varland,1,1,1,0,Right,Right,3.87,6.58
+20240809,Cardinals,Royals,2,0,Miles Mikolas,Michael Lorenzen,1,1,0,2,Right,Right,5.12,3.69
+20240809,Braves,Rockies,1,0,Grant Holmes,Tanner Gordon,1,1,0,1,Right,Right,3.00,6.75
+20240809,Phillies,Diamondbacks,0,1,Zack Wheeler,Ryne Nelson,1,1,1,0,Right,Right,2.77,4.65
+20240809,Mets,Mariners,0,0,Jose Quintana,Bryce Miller,1,1,0,0,Left,Right,3.95,3.62
+20240809,Pirates,Dodgers,0,1,Mitch Keller,Jack Flaherty,1,1,1,0,Right,Right,3.20,2.80
+20240809,Tigers,Giants,0,0,Beau Brieske,Robbie Ray,1,1,0,0,Right,Left,4.93,4.40
+20240809,Guardians,Twins,0,1,Joey Cantillo,Bailey Ober,1,1,1,0,Left,Right,6.23,3.52
+20240809,Angels,Nationals,0,1,Jose Soriano,Mitchell Parker,1,1,1,0,Right,Left,3.36,3.83
+20240809,Orioles,Rays,1,0,Zach Eflin,Zack Littell,1,1,0,1,Right,Right,3.83,4.11
+20240809,Athletics,Blue Jays,0,1,Mitch Spence,Jose Berrios,1,1,1,0,Right,Right,4.33,3.97
+20240809,Astros,Red Sox,1,0,Ronel Blanco,Tanner Houck,1,1,0,1,Right,Right,3.02,3.02
+20240809,Padres,Marlins,0,0,Martin Perez,Edward Cabrera,1,1,0,0,Left,Right,4.78,5.20
+20240810,Braves,Rockies,0,0,Max Fried,Dakota Hudson,1,1,0,0,Left,Right,3.40,5.84
+20240810,Pirates,Dodgers,0,1,Paul Skenes,River Ryan,1,1,1,0,Right,Right,1.99,1.72
+20240810,Mets,Mariners,0,3,Sean Manaea,Logan Gilbert,1,1,3,0,Left,Right,3.30,3.05
+20240810,Rangers,Yankees,0,1,Nathan Eovaldi,Carlos Rodon,1,1,1,0,Right,Left,3.75,4.18
+20240810,Athletics,Blue Jays,0,0,Osvaldo Bido,Yariel Rodriguez,1,1,0,0,Right,Right,3.92,3.60
+20240810,Tigers,Giants,0,0,Alex Faedo,Logan Webb,1,1,0,0,Right,Right,3.62,3.32
+20240810,Astros,Red Sox,1,0,Spencer Arrighetti,Josh Winckowski,1,1,0,1,Right,Right,5.14,3.42
+20240810,Padres,Marlins,1,0,Matt Waldron,Roddery Munoz,1,1,0,1,Right,Right,4.00,5.67
+20240810,Rangers,Yankees,0,0,Cody Bradford,Gerrit Cole,1,1,0,0,Left,Right,3.60,4.70
+20240810,Angels,Nationals,0,0,Griffin Canning,Patrick Corbin,1,1,0,0,Right,Left,5.11,5.98
+20240810,Reds,Brewers,0,0,Nick Martinez,Tobias Myers,1,1,0,0,Right,Right,3.16,2.79
+20240810,Guardians,Twins,1,0,Gavin Williams,Simeon Woods Richardson,1,1,0,1,Right,Right,4.38,3.78
+20240810,Cardinals,Royals,0,0,Andre Pallante,Michael Wacha,1,1,0,0,Right,Right,4.21,3.50
+20240810,Orioles,Rays,3,0,Corbin Burnes,Drew Rasmussen,1,1,0,3,Right,Right,2.71,9.00
+20240810,Cubs,White Sox,0,0,Justin Steele,Chris Flexen,1,1,0,0,Left,Right,3.16,5.34
+20240810,Phillies,Diamondbacks,0,1,Aaron Nola,Zac Gallen,1,1,1,0,Right,Right,3.54,3.75
+20240811,Mets,Mariners,0,0,Luis Severino,Luis Castillo,1,1,0,0,Right,Right,4.06,3.48
+20240811,Angels,Nationals,0,0,Jack Kochanowicz,MacKenzie Gore,1,1,0,0,Right,Left,7.98,4.50
+20240811,Astros,Red Sox,0,0,Hunter Brown,James Paxton,1,0.2,0,0,Right,Left,3.96,4.40
+20240811,Rangers,Yankees,0,1,Andrew Heaney,Marcus Stroman,1,1,1,0,Left,Right,4.05,4.01
+20240811,Athletics,Blue Jays,6,0,JP Sears,Chris Bassitt,1,1,0,6,Left,Right,4.32,4.30
+20240811,Orioles,Rays,0,0,Albert Suarez,Jeffrey Springs,1,1,0,0,Right,Left,3.39,4.61
+20240811,Padres,Marlins,0,2,Dylan Cease,Max Meyer,1,1,2,0,Right,Right,3.41,5.20
+20240811,Reds,Brewers,0,0,Nick Lodolo,DL Hall,1,1,0,0,Left,Left,3.99,7.29
+20240811,Guardians,Twins,0,0,Tanner Bibee,David Festa,1,1,0,0,Right,Right,3.39,5.20
+20240811,Braves,Rockies,1,0,Spencer Schwellenbach,Kyle Freeland,1,1,0,1,Right,Left,3.95,5.75
+20240811,Tigers,Giants,1,2,Keider Montero,Hayden Birdsong,1,1,2,1,Right,Right,5.76,5.40
+20240811,Phillies,Diamondbacks,2,1,Cristopher Sanchez,Merrill Kelly,1,1,1,2,Left,Right,3.63,2.43
+20240811,Pirates,Dodgers,0,2,Bailey Falter,Tyler Glasnow,1,1,2,0,Left,Right,4.07,3.54
+20240812,Rangers,Red Sox,0,0,Tyler Mahle,Brayan Bello,1,1,0,0,Right,Right,1.80,5.16
+20240812,Royals,Twins,1,0,Brady Singer,Pablo Lopez,1,1,0,1,Right,Right,3.03,4.74
+20240812,Dodgers,Brewers,0,0,Clayton Kershaw,Freddy Peralta,1,1,0,0,Left,Right,4.38,4.02
+20240812,Yankees,White Sox,1,2,Luis Gil,Ky Bush,1,1,2,1,Right,Left,3.06,6.75
+20240812,Blue Jays,Angels,0,0,Bowden Francis,Davis Daniel,1,1,0,0,Right,Right,5.44,6.04
+20240812,Rockies,Diamondbacks,0,0,Bradley Blalock,Brandon Pfaadt,1,1,0,0,Right,Right,0.00,3.92
+20240812,Pirates,Padres,0,0,Jake Woodford,Joe Musgrove,1,1,0,0,Right,Right,7.41,5.66
+20240812,Braves,Giants,0,0,Chris Sale,Blake Snell,1,1,0,0,Left,Left,2.75,4.31
+20240812,Cubs,Guardians,0,0,Shota Imanaga,Ben Lively,1,1,0,0,Left,Right,3.16,3.71
+20240812,Cardinals,Reds,0,0,Sonny Gray,Andrew Abbott,1,1,0,0,Right,Left,3.93,3.59
+20240812,Astros,Rays,1,0,Framber Valdez,Taj Bradley,1,1,0,1,Left,Right,3.38,3.49
+20240813,Athletics,Mets,3,0,Joe Boyle,Paul Blackburn,1,1,0,3,Right,Right,7.16,3.86
+20240813,Dodgers,Brewers,0,0,Gavin Stone,Colin Rea,1,1,0,0,Right,Right,3.71,3.38
+20240813,Yankees,White Sox,0,0,Nestor Cortes,Jonathan Cannon,1,1,0,0,Left,Right,4.42,3.91
+20240813,Blue Jays,Angels,3,0,Kevin Gausman,Carson Fulmer,1,1,0,3,Right,Right,4.42,3.74
+20240813,Rockies,Diamondbacks,0,0,Austin Gomber,Eduardo Rodriguez,1,1,0,0,Left,Left,4.92,4.76
+20240813,Pirates,Padres,0,1,Luis Ortiz,Michael King,1,1,1,0,Right,Right,3.40,3.34
+20240813,Braves,Giants,0,0,Charlie Morton,Kyle Harrison,1,1,0,0,Right,Left,4.47,4.08
+20240813,Nationals,Orioles,2,0,Jake Irvin,Trevor Rogers,1,1,0,2,Right,Left,3.72,4.89
+20240813,Cubs,Guardians,0,0,Javier Assad,Matthew Boyd,1,1,0,0,Right,Left,3.19,1.69
+20240813,Marlins,Phillies,2,0,Valente Bellozo,Taijuan Walker,1,1,0,2,Right,Right,2.28,5.68
+20240813,Mariners,Tigers,0,1,George Kirby,Tarik Skubal,1,1,1,0,Right,Left,3.73,2.53
+20240813,Cardinals,Reds,0,1,Erick Fedde,Hunter Greene,1,1,1,0,Right,Right,3.40,2.83
+20240813,Astros,Rays,0,0,Yusei Kikuchi,Shane Baz,1,1,0,0,Left,Right,4.49,4.21
+20240813,Rangers,Red Sox,0,1,Jose Urena,Kutter Crawford,1,1,1,0,Right,Right,4.15,4.21
+20240813,Royals,Twins,0,3,Seth Lugo,Zeddy Matthews,1,1,3,0,Right,Right,,
+20240814,Dodgers,Brewers,3,0,Walker Buehler,Frankie Montas,1,1,0,3,Right,Right,5.84,5.10
+20240814,Yankees,White Sox,1,0,Will Warren,Davis Martin,1,1,0,1,Right,Right,11.17,3.65
+20240814,Blue Jays,Angels,0,0,Jose Berrios,Tyler Anderson,1,1,0,0,Right,Left,3.97,2.99
+20240814,Braves,Giants,5,1,Grant Holmes,Robbie Ray,1,0.2,1,5,Right,Left,3.79,3.98
+20240814,Royals,Twins,0,0,Cole Ragans,Louie Varland,1,1,0,0,Left,Right,3.18,6.14
+20240814,Rockies,Diamondbacks,0,4,Tanner Gordon,Jordan Montgomery,0.2,1,3,0,Right,Left,7.00,6.25
+20240814,Pirates,Padres,0,3,Mitch Keller,Martin Perez,1,1,3,0,Right,Left,3.95,4.62
+20240814,Rangers,Red Sox,0,0,Dane Dunning,Tanner Houck,1,1,0,0,Right,Right,4.92,3.01
+20240814,Nationals,Orioles,0,2,DJ Herz,Dean Kremer,1,1,2,0,Left,Right,4.25,4.48
+20240814,Cubs,Guardians,0,0,Jameson Taillon,Alex Cobb,1,1,0,0,Right,Right,3.62,4.35
+20240814,Marlins,Phillies,3,0,Edward Cabrera,Tyler Phillips,1,1,0,3,Right,Right,5.76,5.50
+20240814,Mariners,Tigers,0,0,Bryan Woo,Beau Brieske,1,1,0,0,Right,Right,2.06,4.43
+20240814,Cardinals,Reds,0,0,Kyle Gibson,Emilio Pagan,1,1,0,0,Right,Right,4.26,3.86
+20240814,Astros,Rays,0,0,Ronel Blanco,Zack Littell,1,1,0,0,Right,Right,2.89,3.89
+20240814,Athletics,Mets,0,0,Joey Estes,David Peterson,1,1,0,0,Right,Left,4.72,3.04
+20240815,Red Sox,Orioles,0,0,Nick Pivetta,Zach Eflin,1,1,0,0,Right,Right,4.44,3.83
+20240815,Nationals,Phillies,0,4,Mitchell Parker,Zack Wheeler,1,1,4,0,Left,Right,3.83,2.78
+20240815,Twins,Rangers,0,2,Bailey Ober,Cody Bradford,1,1,2,0,Right,Left,3.52,3.60
+20240815,Athletics,Mets,0,0,Mitch Spence,Jose Quintana,1,1,0,0,Right,Left,4.64,4.26
+20240815,Mariners,Tigers,1,0,Bryce Miller,Alex Faedo,1,1,0,1,Right,Right,3.29,3.72
+20240815,Dodgers,Brewers,0,3,Jack Flaherty,Tobias Myers,1,1,3,0,Right,Right,3.06,2.81
+20240815,Braves,Giants,0,0,Max Fried,Logan Webb,1,1,0,0,Left,Right,3.62,3.17
+20240816,Blue Jays,Cubs,0,2,Yariel Rodriguez,Kyle Hendricks,1,1,2,0,Right,Right,3.93,6.35
+20240816,Royals,Reds,0,0,Michael Lorenzen,Nick Martinez,1,1,0,0,Right,Right,3.68,3.25
+20240816,Yankees,Tigers,1,0,Gerrit Cole,Beau Brieske,1,1,0,1,Right,Right,4.15,4.53
+20240816,Mariners,Pirates,0,0,Logan Gilbert,Paul Skenes,1,1,0,0,Right,Right,2.96,2.30
+20240816,Nationals,Phillies,0,0,Patrick Corbin,Aaron Nola,1,1,0,0,Left,Right,5.92,3.45
+20240816,Diamondbacks,Rays,2,0,Ryne Nelson,Ryan Pepiot,1,1,0,2,Right,Right,4.35,3.69
+20240816,Red Sox,Orioles,2,0,Brennan Bernardino,Corbin Burnes,0.2,1,0,2,Left,Right,3.73,3.10
+20240816,Marlins,Mets,0,1,Roddery Munoz,Sean Manaea,1,1,1,0,Right,Left,5.88,3.46
+20240816,Twins,Rangers,0,0,Simeon Woods Richardson,Andrew Heaney,1,1,0,0,Right,Left,3.77,4.20
+20240816,White Sox,Astros,0,0,Garrett Crochet,Spencer Arrighetti,1,1,0,0,Left,Right,3.61,5.20
+20240816,Guardians,Brewers,0,3,Gavin Williams,Aaron Civale,1,1,3,0,Right,Right,5.02,4.78
+20240816,Dodgers,Cardinals,0,0,Justin Wrobleski,Miles Mikolas,1,1,0,0,Left,Right,4.68,5.41
+20240816,Padres,Rockies,0,4,Matt Waldron,Cal Quantrill,1,1,4,0,Right,Right,4.29,4.59
+20240816,Braves,Angels,0,0,Spencer Schwellenbach,Jose Soriano,1,1,0,0,Right,Right,4.04,3.42
+20240817,Red Sox,Orioles,0,0,Brayan Bello,Cade Povich,1,1,0,0,Right,Left,4.97,6.27
+20240817,Padres,Rockies,0,0,Dylan Cease,Kyle Freeland,1,1,0,0,Right,Left,3.41,5.75
+20240817,Braves,Angels,3,0,Chris Sale,Griffin Canning,1,1,0,3,Left,Right,2.61,5.11
+20240817,Mariners,Pirates,0,1,Luis Castillo,Bailey Falter,1,1,1,0,Right,Left,3.51,4.02
+20240817,Yankees,Tigers,0,1,Carlos Rodon,Keider Montero,1,1,1,0,Left,Right,4.34,5.28
+20240817,Blue Jays,Cubs,0,1,Chris Bassitt,Justin Steele,1,1,1,0,Right,Left,4.34,3.10
+20240817,Diamondbacks,Rays,0,2,Zac Gallen,Jeffrey Springs,1,1,2,0,Right,Left,3.85,3.86
+20240817,Marlins,Mets,0,1,Max Meyer,Luis Severino,1,1,1,0,Right,Right,5.58,3.91
+20240817,Nationals,Phillies,0,0,MacKenzie Gore,Cristopher Sanchez,1,1,0,0,Left,Left,4.66,3.46
+20240817,Royals,Reds,1,0,Michael Wacha,Nick Lodolo,1,1,0,1,Right,Left,3.33,4.55
+20240817,Twins,Rangers,0,0,David Festa,Nathan Eovaldi,1,1,0,0,Right,Right,4.96,3.76
+20240817,Giants,Athletics,0,0,Hayden Birdsong,Osvaldo Bido,1,1,0,0,Right,Right,5.40,3.92
+20240817,White Sox,Astros,1,0,Chris Flexen,Hunter Brown,1,1,0,1,Right,Right,5.46,3.82
+20240817,Guardians,Brewers,0,1,Tanner Bibee,Freddy Peralta,1,1,1,0,Right,Right,3.33,4.00
+20240817,Dodgers,Cardinals,1,1,Bobby Miller,Andre Pallante,1,1,1,1,Right,Right,8.02,4.21
+20240818,Yankees,Tigers,0,0,Marcus Stroman,Tarik Skubal,1,1,0,0,Right,Left,4.01,2.53
+20240818,Marlins,Mets,0,0,Valente Bellozo,Paul Blackburn,1,1,0,0,Right,Right,2.45,4.19
+20240818,Red Sox,Orioles,0,0,Kutter Crawford,Albert Suarez,1,1,0,0,Right,Right,4.25,3.18
+20240818,Mariners,Pirates,2,0,George Kirby,Jake Woodford,1,1,0,2,Right,Right,3.40,6.67
+20240818,Nationals,Phillies,0,1,Jake Irvin,Taijuan Walker,1,1,1,0,Right,Right,3.81,5.69
+20240818,Diamondbacks,Rays,0,0,Merrill Kelly,Drew Rasmussen,1,1,0,0,Right,Right,3.63,3.86
+20240818,Royals,Reds,0,0,Brady Singer,Andrew Abbott,1,1,0,0,Right,Left,3.18,3.72
+20240818,White Sox,Astros,0,0,Ky Bush,Framber Valdez,1,1,0,0,Left,Left,3.68,3.20
+20240818,Guardians,Brewers,0,1,Ben Lively,Colin Rea,1,1,1,0,Right,Right,3.68,3.52
+20240818,Dodgers,Cardinals,0,0,Clayton Kershaw,Sonny Gray,1,1,0,0,Left,Right,2.63,3.91
+20240818,Blue Jays,Cubs,0,0,Bowden Francis,Shota Imanaga,1,1,0,0,Right,Left,4.38,3.11
+20240818,Twins,Rangers,3,0,Pablo Lopez,Tyler Mahle,1,1,0,3,Right,Right,4.47,4.97
+20240818,Padres,Rockies,0,0,Joe Musgrove,Bradley Blalock,1,1,0,0,Right,Right,4.97,2.92
+20240818,Braves,Angels,1,0,Charlie Morton,Jack Kochanowicz,1,1,0,1,Right,Right,4.29,6.53
+20240818,Giants,Athletics,0,0,Blake Snell,JP Sears,1,1,0,0,Left,Left,3.67,4.15
+20240819,Angels,Royals,0,0,Carson Fulmer,Seth Lugo,1,1,0,0,Right,Right,4.22,3.04
+20240819,Red Sox,Astros,2,0,Tanner Houck,Yusei Kikuchi,1,1,0,2,Right,Left,3.01,4.49
+20240819,Twins,Padres,1,2,Zebby Matthews,Michael King,1,1,2,1,Right,Right,3.60,3.19
+20240819,Rays,Athletics,0,2,Taj Bradley,Joe Boyle,1,1,2,0,Right,Right,3.49,7.39
+20240819,White Sox,Giants,0,0,Jonathan Cannon,Kyle Harrison,1,1,0,0,Right,Left,4.02,4.14
+20240819,Mariners,Dodgers,0,0,Bryan Woo,Gavin Stone,1,1,0,0,Right,Right,2.06,3.63
+20240819,Diamondbacks,Marlins,0,0,Brandon Pfaadt,Adam Oller,1,1,0,0,Right,Right,4.08,9.64
+20240819,Reds,Blue Jays,0,1,Julian Aguiar,Kevin Gausman,1,1,1,0,Right,Right,,4.24
+20240819,Orioles,Mets,0,2,Trevor Rogers,David Peterson,1,1,2,0,Left,Left,4.92,3.00
+20240819,Pirates,Rangers,0,1,Luis Ortiz,Dane Dunning,1,1,1,0,Right,Right,3.41,5.00
+20240820,Guardians,Yankees,0,2,Matthew Boyd,Luis Gil,1,1,2,0,Left,Right,1.69,3.25
+20240820,Angels,Royals,0,0,Tyler Anderson,Cole Ragans,1,1,0,0,Left,Left,3.30,3.18
+20240820,Red Sox,Astros,3,3,Nick Pivetta,Ronel Blanco,1,1,3,3,Right,Right,4.49,2.89
+20240820,Twins,Padres,0,0,Bailey Ober,Martin Perez,1,1,0,0,Right,Left,3.49,4.62
+20240820,Rays,Athletics,0,0,Shane Baz,Joey Estes,1,1,0,0,Right,Right,4.21,4.72
+20240820,White Sox,Giants,0,0,Davis Martin,Robbie Ray,1,1,0,0,Right,Left,3.00,6.00
+20240820,Mariners,Dodgers,2,0,Bryce Miller,Walker Buehler,1,1,0,2,Right,Right,3.29,5.58
+20240820,Diamondbacks,Marlins,1,0,Eduardo Rodriguez,Edward Cabrera,1,1,0,1,Left,Right,3.94,5.65
+20240820,Rockies,Nationals,1,0,Austin Gomber,DJ Herz,1,1,0,1,Left,Left,4.64,4.15
+20240820,Reds,Blue Jays,0,1,Carson Spiers,Jose Berrios,1,1,1,0,Right,Right,5.43,3.79
+20240820,Orioles,Mets,2,0,Dean Kremer,Jose Quintana,1,1,0,2,Right,Left,4.30,4.57
+20240820,Phillies,Braves,0,0,Zack Wheeler,Reynaldo Lopez,1,1,0,0,Right,Right,2.73,2.05
+20240820,Brewers,Cardinals,0,0,Frankie Montas,Erick Fedde,1,1,0,0,Right,Right,4.57,3.39
+20240820,Tigers,Cubs,0,0,Alex Faedo,Javier Assad,1,1,0,0,Right,Right,3.72,3.19
+20240820,Pirates,Rangers,0,0,Mitch Keller,Cody Bradford,1,1,0,0,Right,Left,3.76,3.56
+20240821,Reds,Blue Jays,0,3,Nick Martinez,Yariel Rodriguez,1,1,3,0,Right,Right,3.25,3.93
+20240821,Brewers,Cardinals,0,0,Tobias Myers,Kyle Gibson,1,1,0,0,Right,Right,2.81,4.26
+20240821,Tigers,Cubs,0,0,Beau Brieske,Jameson Taillon,1,1,0,0,Right,Right,4.43,3.62
+20240821,Rays,Athletics,0,1,Ryan Pepiot,Mitch Spence,1,1,1,0,Right,Right,3.69,4.64
+20240821,Mariners,Dodgers,0,0,Logan Gilbert,Jack Flaherty,1,1,0,0,Right,Right,2.96,3.06
+20240821,Orioles,Mets,0,0,Cole Irvin,Sean Manaea,1,1,0,0,Left,Left,4.82,3.48
+20240821,Red Sox,Astros,1,1,Cooper Criswell,Justin Verlander,1,1,1,1,Right,Right,4.41,3.92
+20240821,Pirates,Rangers,0,0,Domingo German,Andrew Heaney,1,1,0,0,Right,Left,1.50,4.04
+20240821,White Sox,Giants,1,0,Garrett Crochet,Logan Webb,1,1,0,1,Left,Right,3.64,3.13
+20240821,Diamondbacks,Marlins,1,2,Jordan Montgomery,Roddery Munoz,1,1,2,1,Left,Right,6.44,5.98
+20240821,Twins,Padres,0,0,Simeon Woods Richardson,Matt Waldron,1,1,0,0,Right,Right,3.69,4.79
+20240821,Rockies,Nationals,0,0,Tanner Gordon,Mitchell Parker,1,1,0,0,Right,Left,7.55,4.26
+20240821,Guardians,Yankees,0,2,Joey Cantillo,Nestor Cortes,1,1,2,0,Left,Left,8.47,4.00
+20240821,Phillies,Braves,0,0,Aaron Nola,Max Fried,1,1,0,0,Right,Left,3.45,3.57
+20240821,Angels,Royals,0,0,Johnny Cueto,Michael Lorenzen,1,1,0,0,Right,Right,4.26,3.47
+20240822,Astros,Orioles,0,0,Spencer Arrighetti,Corbin Burnes,1,1,0,0,Right,Right,5.20,3.10
+20240822,Mets,Padres,1,0,Luis Severino,Dylan Cease,1,1,0,1,Right,Right,3.91,3.46
+20240822,Guardians,Yankees,0,0,Gavin Williams,Gerrit Cole,1,1,0,0,Right,Right,5.13,3.72
+20240822,Rockies,Nationals,0,0,Cal Quantrill,Patrick Corbin,1,1,0,0,Right,Left,4.56,5.73
+20240822,Brewers,Cardinals,0,0,Freddy Peralta,Miles Mikolas,1,1,0,0,Right,Right,3.86,5.19
+20240822,Tigers,Cubs,0,0,Tyler Holton,Justin Steele,1,1,0,0,Left,Left,2.45,3.07
+20240822,Rays,Athletics,0,0,Jeffrey Springs,Osvaldo Bido,1,1,0,0,Left,Right,4.50,3.24
+20240822,Reds,Pirates,0,0,Nick Lodolo,Paul Skenes,1,1,0,0,Left,Right,4.76,2.16
+20240822,Angels,Blue Jays,0,0,Brock Burke,Ryan Burr,1,1,0,0,Left,Right,8.35,5.12
+20240822,Phillies,Braves,1,0,Cristopher Sanchez,Spencer Schwellenbach,1,1,0,1,Left,Right,3.51,3.94
+20240823,Tigers,White Sox,1,0,Keider Montero,Chris Flexen,1,1,0,1,Right,Right,5.28,5.46
+20240823,Phillies,Royals,0,1,Taijuan Walker,Michael Wacha,1,1,1,0,Right,Right,5.69,3.33
+20240823,Cardinals,Twins,0,0,Andre Pallante,David Festa,1,1,0,0,Right,Right,4.07,4.96
+20240823,Brewers,Athletics,0,1,Aaron Civale,JP Sears,1,1,1,0,Right,Left,4.78,4.15
+20240823,Mets,Padres,0,1,Paul Blackburn,Joe Musgrove,1,1,1,0,Right,Right,4.19,4.97
+20240823,Giants,Mariners,1,0,Hayden Birdsong,Luis Castillo,1,1,0,1,Right,Right,5.01,3.51
+20240823,Rays,Dodgers,1,0,Tyler Alexander,Bobby Miller,1,1,0,1,Left,Right,5.17,8.02
+20240823,Reds,Pirates,1,0,Buck Farmer,Bailey Falter,1,1,0,1,Right,Left,2.58,4.25
+20240823,Rockies,Yankees,0,0,Kyle Freeland,Carlos Rodon,1,1,0,0,Left,Left,5.70,4.16
+20240823,Astros,Orioles,0,0,Hunter Brown,Cade Povich,1,1,0,0,Right,Left,3.72,6.10
+20240823,Angels,Blue Jays,0,0,Jack Kochanowicz,Chris Bassitt,1,1,0,0,Right,Right,6.08,4.41
+20240823,Diamondbacks,Red Sox,2,1,Ryne Nelson,Brayan Bello,1,1,1,2,Right,Right,4.29,4.95
+20240823,Cubs,Marlins,0,0,Kyle Hendricks,Max Meyer,1,1,0,0,Right,Right,6.33,5.44
+20240823,Rangers,Guardians,0,0,Nathan Eovaldi,Tanner Bibee,1,1,0,0,Right,Right,3.79,3.46
+20240823,Nationals,Braves,0,1,MacKenzie Gore,Chris Sale,1,1,1,0,Left,Left,4.66,2.62
+20240824,Mets,Padres,1,0,David Peterson,Michael King,1,1,0,1,Left,Right,3.00,3.18
+20240824,Rays,Dodgers,4,0,Taj Bradley,Clayton Kershaw,1,1,0,4,Right,Left,3.55,2.63
+20240824,Rockies,Yankees,1,0,Bradley Blalock,Will Warren,1,1,0,1,Right,Right,3.06,9.68
+20240824,Angels,Blue Jays,0,2,Carson Fulmer,Bowden Francis,1,1,2,0,Right,Right,4.15,4.02
+20240824,Astros,Orioles,1,0,Framber Valdez,Albert Suarez,1,1,0,1,Left,Right,3.27,3.18
+20240824,Brewers,Athletics,0,1,Colin Rea,Joe Boyle,1,1,1,0,Right,Right,3.61,6.54
+20240824,Diamondbacks,Red Sox,0,0,Zac Gallen,Kutter Crawford,1,1,0,0,Right,Right,3.65,4.22
+20240824,Cubs,Marlins,1,0,Shota Imanaga,Valente Bellozo,1,1,0,1,Left,Right,3.08,3.35
+20240824,Giants,Mariners,1,0,Blake Snell,George Kirby,1,1,0,1,Left,Right,3.76,3.48
+20240824,Reds,Pirates,4,0,Julian Aguiar,Jake Woodford,1,1,0,4,Right,Right,3.60,8.01
+20240824,Tigers,White Sox,1,0,Tarik Skubal,Ky Bush,1,1,0,1,Left,Left,2.58,5.60
+20240824,Phillies,Royals,0,0,Ranger Suarez,Brady Singer,1,1,0,0,Left,Right,2.82,3.38
+20240824,Cardinals,Twins,0,0,Sonny Gray,Pablo Lopez,1,1,0,0,Right,Right,4.07,4.26
+20240824,Rangers,Guardians,1,1,Jon Gray,Ben Lively,1,1,1,1,Right,Right,4.22,3.62
+20240824,Nationals,Braves,0,0,Jake Irvin,Charlie Morton,1,1,0,0,Right,Right,3.80,4.24
+20240825,Astros,Orioles,0,0,Yusei Kikuchi,Dean Kremer,1,1,0,0,Left,Right,4.37,4.30
+20240825,Nationals,Braves,1,0,DJ Herz,Reynaldo Lopez,1,1,0,1,Left,Right,3.84,2.02
+20240825,Diamondbacks,Red Sox,0,1,Merrill Kelly,Tanner Houck,1,1,1,0,Right,Right,3.98,3.23
+20240825,Reds,Pirates,0,1,Nick Martinez,Luis Ortiz,1,1,1,0,Right,Right,3.62,3.36
+20240825,Rockies,Yankees,1,2,Austin Gomber,Marcus Stroman,1,1,2,1,Left,Right,4.70,3.88
+20240825,Angels,Blue Jays,0,0,Tyler Anderson,Kevin Gausman,1,1,0,0,Left,Right,3.41,4.10
+20240825,Cubs,Marlins,0,2,Javier Assad,Adam Oller,1,1,2,0,Right,Right,3.15,5.23
+20240825,Rangers,Guardians,0,1,Cody Bradford,Matthew Boyd,1,1,1,0,Left,Left,3.31,2.70
+20240825,Tigers,White Sox,0,2,Beau Brieske,Jonathan Cannon,1,1,2,0,Right,Right,4.53,4.57
+20240825,Phillies,Royals,0,0,Kolby Allard,Seth Lugo,1,1,0,0,Left,Right,3.50,3.19
+20240825,Cardinals,Twins,0,1,Erick Fedde,Zebby Matthews,1,1,1,0,Right,Right,3.31,3.00
+20240825,Brewers,Athletics,0,0,Frankie Montas,Joey Estes,1,1,0,0,Right,Right,4.64,4.37
+20240825,Mets,Padres,0,0,Jose Quintana,Martin Perez,1,1,0,0,Left,Left,4.36,4.60
+20240825,Giants,Mariners,2,1,Robbie Ray,Bryan Woo,1,1,1,2,Left,Right,4.70,2.05
+20240825,Rays,Dodgers,0,0,Jacob Lopez,Gavin Stone,1,1,0,0,Left,Right,5.23,3.33
+20240826,Blue Jays,Red Sox,0,0,Yariel Rodriguez,Kutter Crawford,1,1,0,0,Right,Right,4.40,4.22
+20240826,Braves,Twins,4,1,Max Fried,Bailey Ober,1,1,1,4,Left,Right,3.57,3.54
+20240826,Tigers,White Sox,0,1,T. Madden,D. Martin,1,1,1,0,Right,Right,,
+20240826,Marlins,Rockies,0,0,Edward Cabrera,Ryan Feltner,1,1,0,0,Right,Right,5.65,5.00
+20240826,Rays,Mariners,0,0,Ryan Pepiot,Bryce Miller,1,1,0,0,Right,Right,3.65,3.32
+20240826,Royals,Guardians,0,0,Cole Ragans,Nick Sandlin,1,1,0,0,Left,Right,3.28,3.80
+20240826,Cubs,Pirates,0,0,Jameson Taillon,Mitch Keller,1,1,0,0,Right,Right,3.85,3.84
+20240826,Astros,Phillies,0,0,Ronel Blanco,Zack Wheeler,1,1,0,0,Right,Right,3.14,2.74
+20240826,Royals,Guardians,0,3,Alec Marsh,Logan Allen,1,1,3,0,Right,Left,4.67,5.73
+20240826,Yankees,Nationals,1,0,Nestor Cortes,Mitchell Parker,1,1,0,1,Left,Left,3.89,4.26
+20240826,Blue Jays,Red Sox,0,0,Jose Berrios,Zack Kelly,1,1,0,0,Right,Right,3.72,2.58
+20240826,Padres,Cardinals,2,0,Randy Vasquez,Kyle Gibson,1,1,0,2,Right,Right,4.63,4.22
+20240827,Angels,Tigers,1,0,Johnny Cueto,Brant Hurter,1,1,0,1,Right,Left,4.26,3.57
+20240827,Royals,Guardians,0,0,Michael Lorenzen,Gavin Williams,1,1,0,0,Right,Right,3.47,5.13
+20240827,Braves,Twins,0,0,Spencer Schwellenbach,Simeon Woods Richardson,1,1,0,0,Right,Right,3.94,3.69
+20240827,Padres,Cardinals,0,2,Dylan Cease,Miles Mikolas,1,1,2,0,Right,Right,3.43,5.19
+20240827,Giants,Brewers,0,0,Logan Webb,Tobias Myers,1,1,0,0,Right,Right,3.13,2.87
+20240827,Marlins,Rockies,0,4,Roddery Munoz,Cal Quantrill,1,1,4,0,Right,Right,5.98,4.56
+20240827,Mets,Diamondbacks,0,0,Sean Manaea,Brandon Pfaadt,1,1,0,0,Left,Right,3.48,4.08
+20240827,Rays,Mariners,0,0,Jeffrey Springs,Logan Gilbert,1,1,0,0,Left,Right,4.50,3.21
+20240827,Orioles,Dodgers,0,0,Cole Irvin,Jack Flaherty,1,1,0,0,Left,Right,4.82,3.00
+20240827,Cubs,Pirates,0,2,Justin Steele,Jared Jones,1,1,2,0,Left,Right,3.09,3.88
+20240827,Astros,Phillies,0,0,Justin Verlander,Aaron Nola,1,1,0,0,Right,Right,4.16,3.30
+20240827,Athletics,Reds,0,0,Mitch Spence,Jakob Junis,1,1,0,0,Right,Right,4.54,3.19
+20240827,Yankees,Nationals,0,0,Gerrit Cole,Patrick Corbin,1,1,0,0,Right,Left,3.86,5.50
+20240827,Blue Jays,Red Sox,0,3,Yariel Rodriguez,Cooper Criswell,1,1,3,0,Right,Right,4.82,4.34
+20240828,Rangers,White Sox,1,0,Andrew Heaney,Chris Flexen,1,1,0,1,Left,Left,3.95,3.64
+20240828,Padres,Cardinals,2,0,Joe Musgrove,Andre Pallante,1,1,0,2,Right,Right,4.43,3.84
+20240828,Giants,Brewers,0,0,Kyle Harrison,Freddy Peralta,1,1,0,0,Left,Right,4.00,3.86
+20240828,Rangers,White Sox,0,2,Jack Leiter,Matt Foster,1,1,2,0,Right,Right,16.39,0.00
+20240828,Angels,Tigers,0,0,Griffin Canning,Mason Englert,1,1,0,0,Right,Right,5.18,5.95
+20240828,Marlins,Rockies,0,0,Max Meyer,Kyle Freeland,1,1,0,0,Right,Left,5.44,5.70
+20240828,Mets,Diamondbacks,0,0,Luis Severino,Eduardo Rodriguez,1,1,0,0,Right,Left,3.84,3.94
+20240828,Orioles,Dodgers,0,1,Corbin Burnes,Walker Buehler,1,1,1,0,Right,Right,3.28,6.09
+20240828,Cubs,Pirates,1,1,Kyle Hendricks,Paul Skenes,1,1,1,1,Right,Right,6.75,2.23
+20240828,Royals,Guardians,2,1,Michael Wacha,Tanner Bibee,1,1,1,2,Right,Right,3.50,3.65
+20240828,Astros,Phillies,1,0,Spencer Arrighetti,Taijuan Walker,1,1,0,1,Right,Right,4.63,6.50
+20240828,Rays,Mariners,0,0,Drew Rasmussen,Luis Castillo,1,1,0,0,Right,Right,2.25,3.65
+20240828,Athletics,Reds,1,0,Osvaldo Bido,Fernando Cruz,1,1,0,1,Right,Right,3.21,5.17
+20240828,Yankees,Nationals,0,2,Carlos Rodon,MacKenzie Gore,1,1,2,0,Left,Left,4.31,4.45
+20240828,Blue Jays,Red Sox,0,1,Chris Bassitt,Brayan Bello,1,1,1,0,Right,Right,4.27,4.66
+20240828,Braves,Twins,1,0,Chris Sale,David Festa,1,1,0,1,Left,Right,2.62,5.20
+20240829,Royals,Astros,0,0,Brady Singer,Hunter Brown,1,1,0,0,Right,Right,3.38,3.72
+20240829,Orioles,Dodgers,0,0,Cade Povich,Bobby Miller,1,1,0,0,Left,Right,6.10,7.49
+20240829,Angels,Tigers,0,0,Jack Kochanowicz,Keider Montero,1,1,0,0,Right,Right,4.96,5.17
+20240829,Giants,Brewers,0,0,Hayden Birdsong,Aaron Civale,1,1,0,0,Right,Right,5.14,4.59
+20240829,Rangers,White Sox,0,0,Nathan Eovaldi,Nick Nastrini,1,1,0,0,Right,Right,3.60,7.04
+20240829,Padres,Cardinals,0,0,Michael King,Sonny Gray,1,1,0,0,Right,Right,3.05,3.96
+20240829,Marlins,Rockies,0,0,Valente Bellozo,Bradley Blalock,1,1,0,0,Right,Right,4.32,4.98
+20240829,Mets,Diamondbacks,0,0,David Peterson,Ryne Nelson,1,1,0,0,Left,Right,2.83,4.22
+20240829,Athletics,Reds,2,0,JT Ginn,Julian Aguiar,1,1,0,2,Right,Right,5.19,6.43
+20240829,Braves,Phillies,0,0,Charlie Morton,Cristopher Sanchez,1,1,0,0,Right,Left,4.26,3.49
+20240829,Blue Jays,Red Sox,0,0,Bowden Francis,Kutter Crawford,1,1,0,0,Right,Right,3.66,4.12
+20240830,Mets,White Sox,0,1,Tylor Megill,Jonathan Cannon,1,1,1,0,Right,Right,5.17,4.57
+20240830,Orioles,Rockies,0,0,Albert Suarez,Austin Gomber,1,1,0,0,Right,Left,3.18,4.70
+20240830,Mariners,Angels,5,2,George Kirby,Samuel Aldegheri,1,1,2,5,Right,Left,,
+20240830,Dodgers,Diamondbacks,2,2,Clayton Kershaw,Zac Gallen,1,1,2,2,Left,Right,3.72,3.65
+20240830,Marlins,Giants,0,0,Adam Oller,Blake Snell,1,1,0,0,Right,Left,5.23,3.76
+20240830,Brewers,Reds,0,1,Colin Rea,Nick Martinez,1,1,1,0,Right,Right,3.70,3.78
+20240830,Braves,Phillies,0,0,Reynaldo Lopez,Ranger Suarez,1,1,0,0,Right,Left,2.00,3.02
+20240830,Red Sox,Tigers,1,0,Tanner Houck,Casey Mize,1,1,0,1,Right,Right,3.12,4.36
+20240830,Brewers,Reds,0,0,DL Hall,Rhett Lowder,1,1,0,0,Left,Right,,
+20240830,Cubs,Nationals,0,2,Shota Imanaga,Jake Irvin,1,1,2,0,Left,Right,3.14,4.08
+20240830,Padres,Rays,3,0,Martin Perez,Taj Bradley,1,1,0,3,Left,Right,4.71,4.35
+20240830,Cardinals,Yankees,0,0,Erick Fedde,Marcus Stroman,1,1,0,0,Right,Right,3.43,3.81
+20240830,Pirates,Guardians,0,2,Bailey Falter,Ben Lively,1,1,2,0,Left,Right,4.41,3.92
+20240830,Athletics,Rangers,1,0,JP Sears,Jon Gray,1,1,0,1,Left,Right,4.35,4.32
+20240830,Royals,Astros,0,0,Seth Lugo,Framber Valdez,1,1,0,0,Right,Left,3.12,3.27
+20240830,Blue Jays,Twins,0,0,Kevin Gausman,Pablo Lopez,1,1,0,0,Right,Right,4.10,4.26
+20240831,Cardinals,Yankees,0,0,Kyle Gibson,Will Warren,1,1,0,0,Right,Right,4.39,9.55
+20240831,Cubs,Nationals,0,0,Javier Assad,DJ Herz,1,1,0,0,Right,Left,3.21,4.09
+20240831,Padres,Rays,2,1,Randy Vasquez,Shane Baz,1,1,1,2,Right,Right,5.18,3.49
+20240831,Red Sox,Tigers,1,0,Nick Pivetta,Tarik Skubal,1,1,0,1,Right,Left,4.53,2.51
+20240831,Pirates,Guardians,0,0,Luis Ortiz,Matthew Boyd,1,1,0,0,Right,Left,3.19,2.38
+20240831,Athletics,Rangers,0,0,Joey Estes,Cody Bradford,1,1,0,0,Right,Left,4.29,3.21
+20240831,Royals,Astros,0,0,Cole Ragans,Yusei Kikuchi,1,1,0,0,Left,Left,3.46,4.24
+20240831,Mets,White Sox,3,0,Jose Quintana,Davis Martin,1,1,0,3,Left,Right,4.27,3.62
+20240831,Blue Jays,Twins,7,0,Jose Berrios,Zebby Matthews,1,1,0,7,Right,Right,3.59,7.41
+20240831,Braves,Phillies,0,0,Max Fried,Zack Wheeler,1,1,0,0,Left,Right,3.52,2.63
+20240831,Brewers,Reds,0,0,Frankie Montas,Fernando Cruz,1,1,0,0,Right,Right,4.70,4.99
+20240831,Orioles,Rockies,0,0,Dean Kremer,Ryan Feltner,1,1,0,0,Right,Right,4.51,5.11
+20240831,Dodgers,Diamondbacks,3,4,Gavin Stone,Merrill Kelly,1,1,4,3,Right,Right,3.53,4.30
+20240831,Marlins,Giants,0,0,Edward Cabrera,Mason Black,1,1,0,0,Right,Right,5.33,7.45
+20240831,Mariners,Angels,0,0,Bryan Woo,Tyler Anderson,1,1,0,0,Right,Left,2.30,3.55
+20240901,Braves,Phillies,0,0,Spencer Schwellenbach,Aaron Nola,1,1,0,0,Right,Right,3.72,3.30
+20240901,Brewers,Reds,0,0,Tobias Myers,Brandon Williamson,1,1,0,0,Right,Left,3.00,5.40
+20240901,Cubs,Nationals,0,0,Jordan Wicks,Mitchell Parker,1,1,0,0,Left,Left,3.82,4.27
+20240901,Cardinals,Yankees,0,0,Miles Mikolas,Nestor Cortes,1,1,0,0,Right,Left,5.27,4.08
+20240901,Red Sox,Tigers,0,0,Cooper Criswell,Beau Brieske,1,1,0,0,Right,Right,4.14,4.33
+20240901,Pirates,Guardians,0,2,Mitch Keller,Alex Cobb,1,1,2,0,Right,Right,3.88,2.76
+20240901,Padres,Rays,0,0,Dylan Cease,Ryan Pepiot,1,1,0,0,Right,Right,3.62,3.76
+20240901,Royals,Astros,0,0,Alec Marsh,Ronel Blanco,1,1,0,0,Right,Right,4.70,3.03
+20240901,Mets,White Sox,0,0,Sean Manaea,Garrett Crochet,1,1,0,0,Left,Left,3.35,3.61
+20240901,Blue Jays,Twins,1,0,Yariel Rodriguez,Bailey Ober,1,1,0,1,Right,Right,4.61,3.95
+20240901,Athletics,Rangers,0,1,Mitch Spence,Walter Pennington,1,1,1,0,Right,Left,4.50,2.61
+20240901,Orioles,Rockies,1,0,Zach Eflin,Ty Blach,1,1,0,1,Right,Left,3.60,6.65
+20240901,Marlins,Giants,0,1,Darren McCaughan,Logan Webb,1,1,1,0,Right,Right,8.24,3.43
+20240901,Mariners,Angels,0,1,Bryce Miller,Caden Dana,1,1,1,0,Right,Right,,
+20240901,Dodgers,Diamondbacks,0,0,Justin Wrobleski,Brandon Pfaadt,1,1,0,0,Left,Right,6.82,4.32
+20240902,Yankees,Rangers,0,0,Gerrit Cole,Jack Leiter,1,1,0,0,Right,Right,3.86,12.83
+20240902,Cardinals,Brewers,0,3,Andre Pallante,Freddy Peralta,1,1,3,0,Right,Right,4.07,3.75
+20240902,White Sox,Orioles,2,1,Chris Flexen,Corbin Burnes,1,1,1,2,Right,Right,5.36,3.19
+20240902,Guardians,Royals,0,0,Gavin Williams,Michael Wacha,1,1,0,0,Right,Right,4.55,3.50
+20240902,Astros,Reds,0,2,Justin Verlander,Julian Aguiar,1,1,2,0,Right,Right,4.52,6.48
+20240902,Dodgers,Diamondbacks,0,0,Jack Flaherty,Eduardo Rodriguez,1,1,0,0,Right,Left,3.01,5.33
+20240902,Tigers,Padres,0,0,Tyler Holton,Joe Musgrove,1,1,0,0,Left,Right,2.38,4.09
+20240902,Twins,Rays,1,2,Simeon Woods Richardson,Zack Littell,1,1,2,1,Right,Right,3.95,4.04
+20240902,Mariners,Athletics,2,0,Logan Gilbert,Osvaldo Bido,1,1,0,2,Right,Right,3.19,3.52
+20240902,Red Sox,Mets,0,0,Brayan Bello,Luis Severino,1,1,0,0,Right,Right,4.75,3.84
+20240902,Pirates,Cubs,0,0,Jared Jones,Jameson Taillon,1,1,0,0,Right,Right,3.91,3.66
+20240903,Phillies,Blue Jays,1,6,Tyler Phillips,Chris Bassitt,0.2,1,6,1,Right,Right,5.50,4.27
+20240903,Guardians,Royals,0,0,Tanner Bibee,Brady Singer,1,1,0,0,Right,Right,3.65,3.36
+20240903,Cardinals,Brewers,2,0,Steven Matz,Aaron Civale,1,1,0,2,Left,Right,6.18,4.59
+20240903,Yankees,Rangers,0,0,Carlos Rodon,Andrew Heaney,1,1,0,0,Left,Left,4.31,3.95
+20240903,Dodgers,Angels,0,0,Walker Buehler,Reid Detmers,1,1,0,0,Right,Left,5.88,6.14
+20240903,Mariners,Athletics,2,1,Luis Castillo,JT Ginn,1,1,1,2,Right,Right,3.65,5.19
+20240903,Diamondbacks,Giants,3,1,Ryne Nelson,Kyle Harrison,1,1,1,3,Right,Left,4.22,4.22
+20240903,White Sox,Orioles,0,3,Nick Nastrini,Cade Povich,1,1,3,0,Right,Left,7.79,5.76
+20240903,Nationals,Marlins,0,0,Patrick Corbin,Max Meyer,1,1,0,0,Left,Right,5.41,5.68
+20240903,Twins,Rays,0,0,David Festa,Jeffrey Springs,1,1,0,0,Right,Left,4.75,3.27
+20240903,Red Sox,Mets,0,0,Kutter Crawford,David Peterson,1,1,0,0,Right,Left,4.08,2.75
+20240903,Rockies,Braves,0,0,Kyle Freeland,Chris Sale,1,1,0,0,Left,Left,5.30,2.46
+20240903,Pirates,Cubs,0,0,Paul Skenes,Kyle Hendricks,1,1,0,0,Right,Right,2.23,6.75

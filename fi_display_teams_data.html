@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team NRFI Data</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+<h1>Team NRFI Data</h1>
+<table>
+    <thead>
+    <tr>
+        <th>Team</th>
+        <th>Away RS</th>
+        <th>Away RA</th>
+        <th>Away NRFI</th>
+        <th>Away YRFI</th>
+        <th>Away NRFI %</th>
+        <th>Away NRSFI</th>
+        <th>Away YRSFI</th>
+        <th>Away NRSFI %</th>
+
+
+        <th>Home RS</th>
+        <th>Home RA</th>
+        <th>Home NRFI</th>
+        <th>Home YRFI</th>
+        <th>Home NRFI %</th>
+        <th>Home NRSFI</th>
+        <th>Home YRSFI</th>
+        <th>Home NRSFI %</th>
+
+
+
+        <th>Total NRFI</th>
+        <th>Total YRFI</th>
+        <th>Total NRFI %</th>
+        <th>Total NRSFI</th>
+        <th>Total YRSFI</th>
+        <th>Total NRSFI %</th>
+
+
+
+        <th>Intra NRFI</th>
+        <th>Intra YRFI</th>
+        <th>Intra NRFI %</th>
+        <th>Intra NRSFI</th>
+        <th>Intra YRSFI</th>
+        <th>Intra NRSFI %</th>
+
+
+
+        <th>Intra-Total NRFI %</th>
+        <th>Intra-Total NRSFI %</th>
+
+
+        <th>Righties NRSFI</th>
+        <th>Righties YRSFI</th>
+        <th>Righties NRSFI %</th>
+
+        <th>Lefties NRSFI</th>
+        <th>Lefties YRSFI</th>
+        <th>Lefties NRSFI %</th>
+
+        <th>L10 Games</th>
+        <th>NRSFI Streak</th>
+        <th>YRSFI Streak</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for row in updated_data %}
+    <tr>
+        <td>{{ row['Team'] }}</td>
+        <td style="background-color: {{ row['Away RS Color'] }}">{{ row['Away RS'] }}</td>
+        <td>{{ row['Away RA'] }}</td>
+        <td>{{ row['Away NRFI'] }}</td>
+        <td>{{ row['Away YRFI'] }}</td>
+        <td style="background-color: {{ row['Away NRFI % Color'] }}">{{ row['Away NRFI %'] }}</td>
+        <td>{{ row['Away NRSFI'] }}</td>
+        <td>{{ row['Away YRSFI'] }}</td>
+        <td style="background-color: {{ row['Away NRSFI % Color'] }}">{{ row['Away NRSFI %'] }}</td>
+
+        <td style="background-color: {{ row['Home RS Color'] }}">{{ row['Home RS'] }}</td>
+        <td>{{ row['Home RA'] }}</td>
+        <td>{{ row['Home NRFI'] }}</td>
+        <td>{{ row['Home YRFI'] }}</td>
+        <td style="background-color: {{ row['Home NRFI % Color'] }}">{{ row['Home NRFI %'] }}</td>
+        <td>{{ row['Home NRSFI'] }}</td>
+        <td>{{ row['Home YRSFI'] }}</td>
+        <td style="background-color: {{ row['Home NRSFI % Color'] }}">{{ row['Home NRSFI %'] }}</td>
+
+
+        <td>{{ row['Total NRFI'] }}</td>
+        <td>{{ row['Total YRFI'] }}</td>
+        <td style="background-color: {{ row['Total NRFI % Color'] }}">{{ row['Total NRFI %'] }}</td>
+
+        <td>{{ row['Total NRSFI'] }}</td>
+        <td>{{ row['Total YRSFI'] }}</td>
+        <td style="background-color: {{ row['Total NRSFI % Color'] }}">{{ row['Total NRSFI %'] }}</td>
+
+
+
+        <td>{{ row['Intra NRFI'] }}</td>
+        <td>{{ row['Intra YRFI'] }}</td>
+        <td style="background-color: {{ row['Intra NRFI % Color'] }}">{{ row['Intra NRFI %'] }}</td>
+
+        <td>{{ row['Intra NRSFI'] }}</td>
+        <td>{{ row['Intra YRSFI'] }}</td>
+        <td style="background-color: {{ row['Intra NRSFI % Color'] }}">{{ row['Intra NRSFI %'] }}</td>
+
+
+
+        <td style="background-color: {{ row['Intra-Total NRFI % Color'] }}">{{ row['Intra-Total NRFI %'] }}</td>
+        <td style="background-color: {{ row['Intra-Total NRSFI % Color'] }}">{{ row['Intra-Total NRSFI %'] }}</td>
+
+        <td>{{ row['Righties NRSFI'] }}</td>
+        <td>{{ row['Righties YRSFI'] }}</td>
+        <td style="background-color: {{ row['Righties NRSFI % Color'] }}">{{ row['Righties NRSFI %'] }}</td>
+
+        <td>{{ row['Lefties NRSFI'] }}</td>
+        <td>{{ row['Lefties YRSFI'] }}</td>
+        <td style="background-color: {{ row['Lefties NRSFI % Color'] }}">{{ row['Lefties NRSFI %'] }}</td>
+
+        <td>{{ row['L10 Games'] }}</td>
+        <td>{{ row['NRSFI Streak'] }}</td>
+        <td>{{ row['YRSFI Streak'] }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</body>
+</html>

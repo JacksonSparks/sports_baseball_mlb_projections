@@ -1,0 +1,253 @@
+Batter,Opposing Pitcher,Opposing Team,Batter Location,Batter Spot,AB,H,2B,3B,HR,RBI,BB,K,AVG,OBP,SLG,OPS
+Kyle Schwarber,Bowden Francis,Blue Jays,Away,1,0,0,0,0,0,0,0,0,0,0,0,0
+Trea Turner,Bowden Francis,Blue Jays,Away,2,1,0,0,0,0,0,0,0,.000,.000,.000,.000
+Bryce Harper,Bowden Francis,Blue Jays,Away,3,1,1,0,0,1,1,0,0,1.000,1.000,4.000,5.000
+Nick Castellanos,Bowden Francis,Blue Jays,Away,4,1,0,0,0,0,0,0,0,.000,.000,.000,.000
+Bryson Stott,Bowden Francis,Blue Jays,Away,5,1,0,0,0,0,0,0,0,.000,.000,.000,.000
+JT Realmuto,Bowden Francis,Blue Jays,Away,6,0,0,0,0,0,0,0,0,0,0,0,0
+Brandon Marsh,Bowden Francis,Blue Jays,Away,7,0,0,0,0,0,0,0,0,0,0,0,0
+Austin Hays,Bowden Francis,Blue Jays,Away,8,4,1,1,0,0,0,0,1,.250,.400,.500,.900
+Edmundo Sosa,Bowden Francis,Blue Jays,Away,9,0,0,0,0,0,0,0,0,0,0,0,0
+George Springer,Cristopher Sanchez,Phillies,Home,1,3,1,0,0,0,0,0,0,.333,.333,.333,.667
+Daulton Varsho,Cristopher Sanchez,Phillies,Home,2,0,0,0,0,0,0,0,0,0,0,0,0
+Vladimir Guerrero Jr,Cristopher Sanchez,Phillies,Home,3,2,0,0,0,0,0,1,0,.000,.333,.000,.333
+Alejandro Kirk,Cristopher Sanchez,Phillies,Home,4,3,1,1,0,0,0,0,1,.333,.333,.667,1.000
+Ernie Clement,Cristopher Sanchez,Phillies,Home,5,0,0,0,0,0,0,0,0,0,0,0,0
+Leo Jimenez,Cristopher Sanchez,Phillies,Home,6,0,0,0,0,0,0,0,0,0,0,0,0
+Davis Schneider,Cristopher Sanchez,Phillies,Home,7,3,0,0,0,0,0,0,1,.000,.000,.000,.000
+Luis De Los Santos,Cristopher Sanchez,Phillies,Home,8,0,0,0,0,0,0,0,0,0,0,0,0
+Brian Serven,Cristopher Sanchez,Phillies,Home,9,0,0,0,0,0,0,0,0,0,0,0,0
+Nicky Lopez,Albert Suarez,Orioles,Away,1,0,0,0,0,0,0,1,0,.000,1.000,.000,1.000
+Luis Robert Jr,Albert Suarez,Orioles,Away,2,0,0,0,0,0,0,0,0,0,0,0,0
+Andrew Benintendi,Albert Suarez,Orioles,Away,3,1,0,0,0,0,0,0,0,.000,.000,.000,.000
+Andrew Vaughn,Albert Suarez,Orioles,Away,4,2,0,0,0,0,0,0,1,.000,.000,.000,.000
+Gavin Sheets,Albert Suarez,Orioles,Away,5,2,0,0,0,0,0,0,1,.000,.000,.000,.000
+Korey Lee,Albert Suarez,Orioles,Away,6,0,0,0,0,0,0,0,0,0,0,0,0
+Dominic Fletcher,Albert Suarez,Orioles,Away,7,0,0,0,0,0,0,0,0,0,0,0,0
+Lenyn Sosa,Albert Suarez,Orioles,Away,8,0,0,0,0,0,0,0,0,0,0,0,0
+Jacob Amaya,Albert Suarez,Orioles,Away,9,0,0,0,0,0,0,0,0,0,0,0,0
+Gunnar Henderson,Jonathan Cannon,White Sox,Home,1,0,0,0,0,0,0,0,0,0,0,0,0
+Adley Rutschman,Jonathan Cannon,White Sox,Home,2,0,0,0,0,0,0,0,0,0,0,0,0
+Ryan O'Hearn,Jonathan Cannon,White Sox,Home,3,0,0,0,0,0,0,0,0,0,0,0,0
+Anthony Santander,Jonathan Cannon,White Sox,Home,4,0,0,0,0,0,0,0,0,0,0,0,0
+Colton Cowser,Jonathan Cannon,White Sox,Home,5,0,0,0,0,0,0,0,0,0,0,0,0
+Eloy Jimenez,Jonathan Cannon,White Sox,Home,6,0,0,0,0,0,0,0,0,0,0,0,0
+Cedric Mullins,Jonathan Cannon,White Sox,Home,7,0,0,0,0,0,0,0,0,0,0,0,0
+Jackson Holliday,Jonathan Cannon,White Sox,Home,8,0,0,0,0,0,0,0,0,0,0,0,0
+Emmanuel Rivera,Jonathan Cannon,White Sox,Home,9,0,0,0,0,0,0,0,0,0,0,0,0
+Jose Altuve,Nick Martinez,Reds,Away,1,27,6,3,0,1,2,0,0,.222,.250,.444,.694
+Yordan Alvarez,Nick Martinez,Reds,Away,2,0,0,0,0,0,0,0,0,0,0,0,0
+Alex Bregman,Nick Martinez,Reds,Away,3,12,4,0,0,0,1,0,1,.333,.333,.333,.667
+Yainer Diaz,Nick Martinez,Reds,Away,4,0,0,0,0,0,0,0,0,0,0,0,0
+Jon Singleton,Nick Martinez,Reds,Away,5,6,0,0,0,0,0,1,3,.000,.143,.000,.143
+Jeremy Pena,Nick Martinez,Reds,Away,6,0,0,0,0,0,0,0,0,0,0,0,0
+Ben Gamel,Nick Martinez,Reds,Away,7,4,0,0,0,0,0,0,0,.000,.000,.000,.000
+Mauricio Dubon,Nick Martinez,Reds,Away,8,2,1,0,0,0,1,0,0,.500,.333,.500,.833
+Jason Heyward,Nick Martinez,Reds,Away,9,5,1,0,0,0,1,0,2,.200,.200,.200,.400
+Jonathan India,Spencer Arrighetti,Astros,Home,1,0,0,0,0,0,0,0,0,0,0,0,0
+Elly De La Cruz,Spencer Arrighetti,Astros,Home,2,0,0,0,0,0,0,0,0,0,0,0,0
+Tyler Stephenson,Spencer Arrighetti,Astros,Home,3,0,0,0,0,0,0,0,0,0,0,0,0
+TJ Friedl,Spencer Arrighetti,Astros,Home,4,0,0,0,0,0,0,0,0,0,0,0,0
+Spencer Steer,Spencer Arrighetti,Astros,Home,5,0,0,0,0,0,0,0,0,0,0,0,0
+Ty France,Spencer Arrighetti,Astros,Home,6,3,1,0,0,0,0,0,2,.333,.333,.333,.667
+Jake Fraley,Spencer Arrighetti,Astros,Home,7,0,0,0,0,0,0,0,0,0,0,0,0
+Santiago Espinal,Spencer Arrighetti,Astros,Home,8,0,0,0,0,0,0,0,0,0,0,0,0
+Amed Rosario,Spencer Arrighetti,Astros,Home,9,0,0,0,0,0,0,0,0,0,0,0,0
+Dylan Crews,Valente Bellozo,Marlins,Away,1,0,0,0,0,0,0,0,0,0,0,0,0
+Jose Tena,Valente Bellozo,Marlins,Away,2,0,0,0,0,0,0,0,0,0,0,0,0
+Andres Chaparro,Valente Bellozo,Marlins,Away,3,0,0,0,0,0,0,0,0,0,0,0,0
+James Wood,Valente Bellozo,Marlins,Away,4,0,0,0,0,0,0,0,0,0,0,0,0
+Luis Garcia Jr,Valente Bellozo,Marlins,Away,5,0,0,0,0,0,0,0,0,0,0,0,0
+Joey Gallo,Valente Bellozo,Marlins,Away,6,0,0,0,0,0,0,0,0,0,0,0,0
+CJ Abrams,Valente Bellozo,Marlins,Away,7,0,0,0,0,0,0,0,0,0,0,0,0
+Keibert Ruiz,Valente Bellozo,Marlins,Away,8,0,0,0,0,0,0,0,0,0,0,0,0
+Jacob Young,Valente Bellozo,Marlins,Away,9,0,0,0,0,0,0,0,0,0,0,0,0
+Xavier Edwards,MacKenzie Gore,Nationals,Home,1,0,0,0,0,0,0,0,0,0,0,0,0
+Connor Norby,MacKenzie Gore,Nationals,Home,2,0,0,0,0,0,0,0,0,0,0,0,0
+Jake Burger,MacKenzie Gore,Nationals,Home,3,2,1,1,0,0,0,1,0,.500,.667,1.000,1.667
+Jonah Bride,MacKenzie Gore,Nationals,Home,4,0,0,0,0,0,0,0,0,0,0,0,0
+Otto Lopez,MacKenzie Gore,Nationals,Home,5,3,0,0,0,0,0,0,0,.000,.000,.000,.000
+Cristian Pache,MacKenzie Gore,Nationals,Home,6,6,1,1,0,0,1,0,2,.167,.167,.333,.500
+David Hensley,MacKenzie Gore,Nationals,Home,7,0,0,0,0,0,0,0,0,0,0,0,0
+Kyle Stowers,MacKenzie Gore,Nationals,Home,8,0,0,0,0,0,0,0,0,0,0,0,0
+Nick Fortes,MacKenzie Gore,Nationals,Home,9,3,1,0,0,0,1,0,1,.333,.333,.333,.667
+Jarren Duran,Tylor Megill,Mets,Away,1,0,0,0,0,0,0,0,0,0,0,0,0
+Wilyer Abreu,Tylor Megill,Mets,Away,2,0,0,0,0,0,0,0,0,0,0,0,0
+Tyler O'Neill,Tylor Megill,Mets,Away,3,2,1,1,0,0,2,0,1,.500,.500,1.000,1.500
+Rafael Devers,Tylor Megill,Mets,Away,4,0,0,0,0,0,0,0,0,0,0,0,0
+Triston Casas,Tylor Megill,Mets,Away,5,0,0,0,0,0,0,0,0,0,0,0,0
+Masataka Yoshida,Tylor Megill,Mets,Away,6,0,0,0,0,0,0,0,0,0,0,0,0
+Connor Wong,Tylor Megill,Mets,Away,7,0,0,0,0,0,0,0,0,0,0,0,0
+Enmanuel Valdez,Tylor Megill,Mets,Away,8,0,0,0,0,0,0,0,0,0,0,0,0
+Ceddanne Rafaela,Tylor Megill,Mets,Away,9,0,0,0,0,0,0,0,0,0,0,0,0
+Francisco Lindor,Tanner Houck,Red Sox,Home,1,0,0,0,0,0,0,0,0,0,0,0,0
+Brandon Nimmo,Tanner Houck,Red Sox,Home,2,0,0,0,0,0,0,0,0,0,0,0,0
+Mark Vientos,Tanner Houck,Red Sox,Home,3,0,0,0,0,0,0,0,0,0,0,0,0
+Pete Alonso,Tanner Houck,Red Sox,Home,4,0,0,0,0,0,0,0,0,0,0,0,0
+Jesse Winker,Tanner Houck,Red Sox,Home,5,4,1,0,0,0,0,0,0,.250,.250,.250,.500
+Starling Marte,Tanner Houck,Red Sox,Home,6,2,0,0,0,0,0,0,0,.000,.000,.000,.000
+Jose Iglesias,Tanner Houck,Red Sox,Home,7,0,0,0,0,0,0,0,0,0,0,0,0
+Jeff McNeil,Tanner Houck,Red Sox,Home,8,0,0,0,0,0,0,0,0,0,0,0,0
+Francisco Alvarez,Tanner Houck,Red Sox,Home,9,0,0,0,0,0,0,0,0,0,0,0,0
+Charlie Blackmon,Charlie Morton,Braves,Away,1,17,4,0,0,0,0,2,5,.235,.381,.235,.616
+Ezequiel Tovar,Charlie Morton,Braves,Away,2,6,1,0,0,0,0,0,2,.167,.167,.167,.333
+Ryan McMahon,Charlie Morton,Braves,Away,3,12,3,0,0,1,4,1,3,.250,.286,.500,.786
+Brenton Doyle,Charlie Morton,Braves,Away,4,4,1,0,0,0,1,0,0,.250,.250,.250,.500
+Brendan Rodgers,Charlie Morton,Braves,Away,5,6,3,1,0,1,4,0,0,.500,.500,1.167,1.667
+Michael Toglia,Charlie Morton,Braves,Away,6,2,0,0,0,0,0,0,1,.000,.000,.000,.000
+Nolan Jones,Charlie Morton,Braves,Away,7,4,0,0,0,0,0,0,4,.000,.333,.000,.333
+Jordan Beck,Charlie Morton,Braves,Away,8,0,0,0,0,0,0,0,0,0,0,0,0
+Drew Romo,Charlie Morton,Braves,Away,9,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Harris II,Bradley Blalock,Rockies,Home,1,0,0,0,0,0,0,0,0,0,0,0,0
+Jorge Soler,Bradley Blalock,Rockies,Home,2,0,0,0,0,0,0,0,0,0,0,0,0
+Marcell Ozuna,Bradley Blalock,Rockies,Home,3,0,0,0,0,0,0,0,0,0,0,0,0
+Matt Olson,Bradley Blalock,Rockies,Home,4,0,0,0,0,0,0,0,0,0,0,0,0
+Travis d'Arnaud,Bradley Blalock,Rockies,Home,5,0,0,0,0,0,0,0,0,0,0,0,0
+Whit Merrifield,Bradley Blalock,Rockies,Home,6,0,0,0,0,0,0,0,0,0,0,0,0
+Jarred Kelenic,Bradley Blalock,Rockies,Home,7,0,0,0,0,0,0,0,0,0,0,0,0
+Orlando Arcia,Bradley Blalock,Rockies,Home,8,0,0,0,0,0,0,0,0,0,0,0,0
+Gio Urshela,Bradley Blalock,Rockies,Home,9,0,0,0,0,0,0,0,0,0,0,0,0
+Masyn Winn,Colin Rea,Brewers,Away,1,5,2,1,0,0,0,1,3,.400,.500,.600,1.100
+Alec Burleson,Colin Rea,Brewers,Away,2,2,0,0,0,0,0,0,0,.000,.000,.000,.000
+Nolan Arenado,Colin Rea,Brewers,Away,3,8,0,0,0,0,0,2,0,.000,.200,.000,.200
+Brendan Donovan,Colin Rea,Brewers,Away,4,3,1,0,0,0,0,0,1,.333,.333,.333,.667
+Paul Goldschmidt,Colin Rea,Brewers,Away,5,8,2,1,0,0,0,2,1,.250,.400,.375,.775
+Lars Nootbaar,Colin Rea,Brewers,Away,6,4,2,0,0,0,0,1,0,.500,.600,.500,1.100
+Jordan Walker,Colin Rea,Brewers,Away,7,2,0,0,0,0,0,0,1,.000,.000,.000,.000
+Ivan Herrera,Colin Rea,Brewers,Away,8,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Siani,Colin Rea,Brewers,Away,9,1,1,0,0,0,0,1,0,1.000,1.000,1.000,2.000
+Brice Turang,Sonny Gray,Cardinals,Home,1,6,2,0,0,0,0,0,1,.333,.333,.333,.667
+Jackson Chourio,Sonny Gray,Cardinals,Home,2,2,0,0,0,0,0,0,2,.000,.000,.000,.000
+William Contreras,Sonny Gray,Cardinals,Home,3,6,2,0,0,0,0,0,1,.333,.333,.333,.667
+Jake Bauers,Sonny Gray,Cardinals,Home,4,6,2,1,0,1,2,0,1,.333,.333,1.000,1.333
+Willy Adames,Sonny Gray,Cardinals,Home,5,12,5,1,0,1,2,6,4,.417,.611,.750,1.361
+Garrett Mitchell,Sonny Gray,Cardinals,Home,6,0,0,0,0,0,0,0,0,0,0,0,0
+Rhys Hoskins,Sonny Gray,Cardinals,Home,7,15,4,2,0,1,6,0,6,.267,.267,.600,.867
+Sal Frelick,Sonny Gray,Cardinals,Home,8,5,0,0,0,0,0,0,2,.000,.167,.000,.167
+Joey Ortiz,Sonny Gray,Cardinals,Home,9,3,1,0,0,1,1,1,1,.333,.500,1.333,1.833
+Steven Kwan,Seth Lugo,Royals,Away,1,5,2,1,0,0,0,0,1,.400,.500,.600,1.100
+Andres Gimenez,Seth Lugo,Royals,Away,2,5,0,0,0,0,0,0,2,.000,.000,.000,.000
+Jose Ramirez,Seth Lugo,Royals,Away,3,7,1,0,0,0,1,0,2,.143,.143,.143,.286
+Josh Naylor,Seth Lugo,Royals,Away,4,6,2,0,0,1,2,0,0,.333,.333,.833,1.167
+Jhonkensy Noel,Seth Lugo,Royals,Away,5,3,0,0,0,0,0,0,2,.000,.000,.000,.000
+Kyle Manzardo,Seth Lugo,Royals,Away,6,3,0,0,0,0,0,0,1,.000,.000,.000,.000
+Lane Thomas,Seth Lugo,Royals,Away,7,7,1,0,0,1,2,0,2,.143,.143,.571,.714
+Bo Naylor,Seth Lugo,Royals,Away,8,2,2,1,0,0,0,0,0,1.000,1.000,1.500,2.500
+Brayan Rocchio,Seth Lugo,Royals,Away,9,2,0,0,0,0,0,0,2,.000,.000,.000,.000
+Tommy Pham,Ben Lively,Guardians,Home,1,9,3,1,0,0,1,0,3,.333,.333,.444,.778
+Bobby Witt Jr,Ben Lively,Guardians,Home,2,6,3,0,0,0,1,0,0,.500,.500,.500,1.000
+Michael Massey,Ben Lively,Guardians,Home,3,5,0,0,0,0,0,0,3,.000,.167,.000,.167
+Salvador Perez,Ben Lively,Guardians,Home,4,4,2,0,0,0,0,0,1,.500,.600,.500,1.100
+Paul DeJong,Ben Lively,Guardians,Home,5,9,3,0,0,1,3,0,3,.333,.333,.667,1.000
+MJ Melendez,Ben Lively,Guardians,Home,6,5,2,0,0,0,0,0,1,.400,.400,.400,.800
+Freddy Fermin,Ben Lively,Guardians,Home,7,3,1,0,0,0,0,0,1,.333,.333,.333,.667
+Maikel Garcia,Ben Lively,Guardians,Home,8,4,2,0,1,0,1,0,1,.500,.500,1.000,1.500
+Kyle Isbel,Ben Lively,Guardians,Home,9,2,1,0,1,0,0,0,1,.500,.500,1.500,2.000
+Isiah Kiner-Falefa,Shota Imanaga,Cubs,Away,1,0,0,0,0,0,0,0,0,0,0,0,0
+Bryan Reynolds,Shota Imanaga,Cubs,Away,2,3,1,0,0,0,0,0,0,.333,.333,.333,.667
+Nick Gonzales,Shota Imanaga,Cubs,Away,3,3,0,0,0,0,0,0,1,.000,.000,.000,.000
+Andrew McCutchen,Shota Imanaga,Cubs,Away,4,2,0,0,0,0,0,1,0,.000,.333,.000,.333
+Oneil Cruz,Shota Imanaga,Cubs,Away,5,0,0,0,0,0,0,0,0,0,0,0,0
+Connor Joe,Shota Imanaga,Cubs,Away,6,3,0,0,0,0,0,0,1,.000,.000,.000,.000
+Bryan De La Cruz,Shota Imanaga,Cubs,Away,7,3,0,0,0,0,0,0,2,.000,.000,.000,.000
+Jared Triolo,Shota Imanaga,Cubs,Away,8,3,1,0,0,0,0,0,2,.333,.333,.333,.667
+Henry Davis,Shota Imanaga,Cubs,Away,9,0,0,0,0,0,0,0,0,0,0,0,0
+Ian Happ,Domingo German,Pirates,Home,1,3,0,0,0,0,0,1,3,.000,.250,.000,.250
+Michael Busch,Domingo German,Pirates,Home,2,2,0,0,0,0,0,0,1,.000,.000,.000,.000
+Seiya Suzuki,Domingo German,Pirates,Home,3,4,3,0,0,1,2,0,0,.750,.750,1.500,2.250
+Cody Bellinger,Domingo German,Pirates,Home,4,4,0,0,0,0,0,3,1,.000,.429,.000,.429
+Isaac Paredes,Domingo German,Pirates,Home,5,4,0,0,0,0,0,3,2,.000,.429,.000,.429
+Nico Hoerner,Domingo German,Pirates,Home,6,4,0,0,0,0,1,1,1,.000,.200,.000,.200
+Dansby Swanson,Domingo German,Pirates,Home,7,3,1,0,0,1,4,1,1,.333,.500,1.333,1.833
+Pete Crow-Armstrong,Domingo German,Pirates,Home,8,2,1,0,0,0,0,0,0,.500,.500,.500,1.000
+Miguel Amaya,Domingo German,Pirates,Home,9,2,2,1,0,0,2,0,0,1.000,1.000,1.500,2.500
+Gleyber Torres,Nathan Eovaldi,Rangers,Away,1,46,10,2,0,0,2,2,8,.217,.250,.261,.511
+Juan Soto,Nathan Eovaldi,Rangers,Away,2,3,2,0,0,0,0,3,1,.667,.833,.667,1.500
+Aaron Judge,Nathan Eovaldi,Rangers,Away,3,36,14,2,0,2,3,2,6,.389,.421,.611,1.032
+Austin Wells,Nathan Eovaldi,Rangers,Away,4,2,1,1,0,0,2,0,0,.500,.500,1.000,1.500
+Giancarlo Stanton,Nathan Eovaldi,Rangers,Away,5,38,12,2,0,4,11,2,13,.316,.341,.684,1.026
+Jazz Chisholm Jr,Nathan Eovaldi,Rangers,Away,6,4,1,0,0,0,0,0,2,.250,.250,.250,.500
+Anthony Rizzo,Nathan Eovaldi,Rangers,Away,7,25,9,4,0,2,6,1,6,.360,.407,.760,1.167
+Anthony Volpe,Nathan Eovaldi,Rangers,Away,8,8,0,0,0,0,0,0,4,.000,.000,.000,.000
+Alex Verdugo,Nathan Eovaldi,Rangers,Away,9,7,1,0,0,0,0,1,1,.143,.250,.143,.393
+Marcus Semien,Marcus Stroman,Yankees,Home,1,17,7,0,0,0,0,3,2,.412,.500,.412,.912
+Corey Seager,Marcus Stroman,Yankees,Home,2,10,3,1,0,0,1,3,2,.300,.462,.400,.862
+Josh Smith,Marcus Stroman,Yankees,Home,3,3,1,0,0,0,0,1,0,.333,.600,.333,.933
+Adolis Garcia,Marcus Stroman,Yankees,Home,4,3,0,0,0,0,0,2,1,.000,.400,.000,.400
+Nathaniel Lowe,Marcus Stroman,Yankees,Home,5,5,1,0,0,0,0,0,2,.200,.200,.200,.400
+Josh Jung,Marcus Stroman,Yankees,Home,6,5,0,0,0,0,0,0,1,.000,.000,.000,.000
+Wyatt Langford,Marcus Stroman,Yankees,Home,7,2,1,0,0,0,0,0,0,.500,.500,.500,1.000
+Jonah Heim,Marcus Stroman,Yankees,Home,8,0,0,0,0,0,0,0,0,0,0,0,0
+Leody Taveras,Marcus Stroman,Yankees,Home,9,2,0,0,0,0,0,0,0,.000,.000,.000,.000
+Shohei Ohtani,Griffin Canning,Angels,Away,1,0,0,0,0,0,0,0,0,0,0,0,0
+Mookie Betts,Griffin Canning,Angels,Away,2,5,2,1,0,1,1,0,0,.400,.400,1.200,1.600
+Freddie Freeman,Griffin Canning,Angels,Away,3,2,1,0,0,1,1,0,0,.500,.500,2.000,2.500
+Teoscar Hernandez,Griffin Canning,Angels,Away,4,6,4,1,0,1,3,0,2,.667,.667,1.333,2.000
+Gavin Lux,Griffin Canning,Angels,Away,5,2,1,0,0,0,0,0,0,.500,.500,.500,1.000
+Will Smith,Griffin Canning,Angels,Away,6,4,2,1,0,0,0,1,0,.500,.600,.750,1.350
+Max Muncy,Griffin Canning,Angels,Away,7,7,0,0,0,0,0,1,3,.000,.125,.000,.125
+Tommy Edman,Griffin Canning,Angels,Away,8,2,1,0,0,1,3,0,0,.500,.500,2.000,2.500
+Miguel Rojas,Griffin Canning,Angels,Away,9,1,0,0,0,0,0,0,0,.000,.000,.000,.000
+Taylor Ward,Bobby Miller,Dodgers,Home,1,0,0,0,0,0,0,0,0,0,0,0,0
+Zach Neto,Bobby Miller,Dodgers,Home,2,0,0,0,0,0,0,0,0,0,0,0,0
+Nolan Schanuel,Bobby Miller,Dodgers,Home,3,0,0,0,0,0,0,0,0,0,0,0,0
+Anthony Rendon,Bobby Miller,Dodgers,Home,4,0,0,0,0,0,0,0,0,0,0,0,0
+Mickey Moniak,Bobby Miller,Dodgers,Home,5,0,0,0,0,0,0,0,0,0,0,0,0
+Logan O'Hoppe,Bobby Miller,Dodgers,Home,6,0,0,0,0,0,0,0,0,0,0,0,0
+Brandon Drury,Bobby Miller,Dodgers,Home,7,0,0,0,0,0,0,0,0,0,0,0,0
+Jo Adell,Bobby Miller,Dodgers,Home,8,0,0,0,0,0,0,0,0,0,0,0,0
+Niko Kavadas,Bobby Miller,Dodgers,Home,9,0,0,0,0,0,0,0,0,0,0,0,0
+Parker Meadows,Yu Darvish,Padres,Away,1,0,0,0,0,0,0,0,0,0,0,0,0
+Riley Greene,Yu Darvish,Padres,Away,2,0,0,0,0,0,0,0,0,0,0,0,0
+Matt Vierling,Yu Darvish,Padres,Away,3,0,0,0,0,0,0,0,0,0,0,0,0
+Kerry Carpenter,Yu Darvish,Padres,Away,4,0,0,0,0,0,0,0,0,0,0,0,0
+Colt Keith,Yu Darvish,Padres,Away,5,0,0,0,0,0,0,0,0,0,0,0,0
+Spencer Torkelson,Yu Darvish,Padres,Away,6,0,0,0,0,0,0,0,0,0,0,0,0
+Jace Jung,Yu Darvish,Padres,Away,7,0,0,0,0,0,0,0,0,0,0,0,0
+Trey Sweeney,Yu Darvish,Padres,Away,8,0,0,0,0,0,0,0,0,0,0,0,0
+Dillon Dingler,Yu Darvish,Padres,Away,9,0,0,0,0,0,0,0,0,0,0,0,0
+Fernando Tatis Jr,Keider Montero,Tigers,Home,1,0,0,0,0,0,0,0,0,0,0,0,0
+Luis Arraez,Keider Montero,Tigers,Home,2,0,0,0,0,0,0,0,0,0,0,0,0
+Jurickson Profar,Keider Montero,Tigers,Home,3,0,0,0,0,0,0,0,0,0,0,0,0
+Manny Machado,Keider Montero,Tigers,Home,4,0,0,0,0,0,0,0,0,0,0,0,0
+Jake Cronenworth,Keider Montero,Tigers,Home,5,0,0,0,0,0,0,0,0,0,0,0,0
+Xander Bogaerts,Keider Montero,Tigers,Home,6,0,0,0,0,0,0,0,0,0,0,0,0
+Jackson Merrill,Keider Montero,Tigers,Home,7,0,0,0,0,0,0,0,0,0,0,0,0
+Kyle Higashioka,Keider Montero,Tigers,Home,8,0,0,0,0,0,0,0,0,0,0,0,0
+Mason McCoy,Keider Montero,Tigers,Home,9,0,0,0,0,0,0,0,0,0,0,0,0
+JP Crawford,JP Sears,Athletics,Away,1,12,3,0,0,0,1,3,1,.250,.400,.250,.650
+Julio Rodriguez,JP Sears,Athletics,Away,2,16,3,0,0,0,0,0,5,.188,.235,.188,.423
+Cal Raleigh,JP Sears,Athletics,Away,3,3,0,0,0,0,0,1,0,.000,.400,.000,.400
+Randy Arozarena,JP Sears,Athletics,Away,4,0,0,0,0,0,0,0,0,0,0,0,0
+Jorge Polanco,JP Sears,Athletics,Away,5,0,0,0,0,0,0,0,0,0,0,0,0
+Justin Turner,JP Sears,Athletics,Away,6,2,1,1,0,0,0,0,0,.500,.667,1.000,1.667
+Luis Urias,JP Sears,Athletics,Away,7,1,0,0,0,0,0,0,1,.000,.500,.000,.500
+Mitch Garver,JP Sears,Athletics,Away,8,3,1,0,0,0,1,1,0,.333,.500,.333,.833
+Victor Robles,JP Sears,Athletics,Away,9,1,0,0,0,0,0,0,0,.000,.500,.000,.500
+Lawrence Butler,George Kirby,Mariners,Home,1,3,1,0,0,0,0,0,0,.333,.333,.333,.667
+Brent Rooker,George Kirby,Mariners,Home,2,9,3,1,0,1,2,0,1,.333,.333,.778,1.111
+JJ Bleday,George Kirby,Mariners,Home,3,6,4,0,0,1,1,0,1,.667,.667,1.167,1.833
+Shea Langeliers,George Kirby,Mariners,Home,4,4,2,1,0,0,1,0,2,.500,.500,.750,1.250
+Seth Brown,George Kirby,Mariners,Home,5,14,3,1,0,0,0,2,6,.214,.313,.286,.598
+Zack Gelof,George Kirby,Mariners,Home,6,5,3,1,0,1,1,0,1,.600,.600,1.400,2.000
+Tristan Gray,George Kirby,Mariners,Home,7,0,0,0,0,0,0,0,0,0,0,0,0
+Max Schuemann,George Kirby,Mariners,Home,8,2,0,0,0,0,0,0,2,.000,.000,.000,.000
+Jacob Wilson,George Kirby,Mariners,Home,9,0,0,0,0,0,0,0,0,0,0,0,0
+Corbin Carroll,Hayden Birdsong,Giants,Away,1,0,0,0,0,0,0,0,0,0,0,0,0
+Jake McCarthy,Hayden Birdsong,Giants,Away,2,0,0,0,0,0,0,0,0,0,0,0,0
+Joc Pederson,Hayden Birdsong,Giants,Away,3,0,0,0,0,0,0,0,0,0,0,0,0
+Christian Walker,Hayden Birdsong,Giants,Away,4,0,0,0,0,0,0,0,0,0,0,0,0
+Pavin Smith,Hayden Birdsong,Giants,Away,5,0,0,0,0,0,0,0,0,0,0,0,0
+Adrian Del Castillo,Hayden Birdsong,Giants,Away,6,0,0,0,0,0,0,0,0,0,0,0,0
+Eugenio Suarez,Hayden Birdsong,Giants,Away,7,0,0,0,0,0,0,0,0,0,0,0,0
+Luis Guillorme,Hayden Birdsong,Giants,Away,8,0,0,0,0,0,0,0,0,0,0,0,0
+Geraldo Perdomo,Hayden Birdsong,Giants,Away,9,0,0,0,0,0,0,0,0,0,0,0,0
+Mike Yastrzemski,Zac Gallen,Diamondbacks,Home,1,23,7,3,0,0,5,3,7,.304,.393,.435,.828
+Tyler Fitzgerald,Zac Gallen,Diamondbacks,Home,2,0,0,0,0,0,0,0,0,0,0,0,0
+Heliot Ramos,Zac Gallen,Diamondbacks,Home,3,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Conforto,Zac Gallen,Diamondbacks,Home,4,18,5,1,0,1,3,2,3,.278,.350,.500,.850
+Matt Chapman,Zac Gallen,Diamondbacks,Home,5,7,0,0,0,0,0,0,2,.000,.000,.000,.000
+LaMonte Wade Jr,Zac Gallen,Diamondbacks,Home,6,24,6,0,1,0,2,3,9,.250,.333,.333,.667
+Patrick Bailey,Zac Gallen,Diamondbacks,Home,7,5,3,1,0,1,3,0,2,.600,.600,1.400,2.000
+Marco Luciano,Zac Gallen,Diamondbacks,Home,8,0,0,0,0,0,0,0,0,0,0,0,0
+Grant McCray,Zac Gallen,Diamondbacks,Home,9,0,0,0,0,0,0,0,0,0,0,0,0

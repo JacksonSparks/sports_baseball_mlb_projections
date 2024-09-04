@@ -1,0 +1,253 @@
+Batter,Opposing Team,Batter Location,Batter Spot,Batting Orientation,Against PA,Against H,Location PA,Location H,Season PA,Season H,Recent PA,Recent H,T Recent PA,T Recent H,T Throw PA,T Throw H,T Local PA,T Local H
+Kyle Schwarber,Blue Jays,Away,1,Left,61,17,269.0,62,584.0,119,70.0,12.0,206,41,2346,499,2545,579
+Trea Turner,Blue Jays,Away,2,Right,66,18,219.0,55,436.0,123,66.0,14.0,206,41,2773,649,2545,579
+Bryce Harper,Blue Jays,Away,3,Left,71,22,250.0,58,535.0,132,65.0,17.0,206,41,2346,499,2545,579
+Nick Castellanos,Blue Jays,Away,4,Right,96,30,282.0,60,567.0,130,57.0,12.0,206,41,2773,649,2545,579
+Bryson Stott,Blue Jays,Away,5,Left,38,7,231.0,47,480.0,104,56.0,14.0,206,41,2346,499,2545,579
+JT Realmuto,Blue Jays,Away,6,Right,58,11,159.0,41,352.0,85,48.0,14.0,206,41,2773,649,2545,579
+Brandon Marsh,Blue Jays,Away,7,Left,33,7,182.0,34,399.0,87,55.0,11.0,206,41,2346,499,2545,579
+Austin Hays,Blue Jays,Away,8,Right,75,19,110.0,28,241.0,57,nan,nan,206,41,2773,649,2545,579
+Edmundo Sosa,Blue Jays,Away,9,Right,16,3,121.0,32,247.0,61,25.0,4.0,206,41,2773,649,2545,579
+George Springer,Phillies,Home,1,Right,63,20,256.0,53,535.0,105,57.0,10.0,237,62,3068,664,2382,549
+Daulton Varsho,Phillies,Home,2,Left,44,9,242.0,50,487.0,95,53.0,13.0,237,62,1987,459,2382,549
+Vladimir Guerrero Jr,Phillies,Home,3,Right,49,17,281.0,88,596.0,174,64.0,22.0,237,62,3068,664,2382,549
+Alejandro Kirk,Phillies,Home,4,Right,33,7,148.0,32,303.0,66,46.0,11.0,237,62,3068,664,2382,549
+Ernie Clement,Phillies,Home,5,Right,9,3,178.0,42,362.0,92,50.0,11.0,237,62,3068,664,2382,549
+Leo Jimenez,Phillies,Home,6,Right,2,1,67.0,13,154.0,32,49.0,11.0,237,62,3068,664,2382,549
+Davis Schneider,Phillies,Home,7,Right,8,2,194.0,37,387.0,66,nan,nan,237,62,3068,664,2382,549
+Luis De Los Santos,Phillies,Home,8,Right,0,0,3.0,2,12.0,2,nan,nan,237,62,3068,664,2382,549
+Brian Serven,Phillies,Home,9,Right,5,1,17.0,3,57.0,9,nan,nan,237,62,3068,664,2382,549
+Nicky Lopez,Orioles,Away,1,Left,46,14,192.0,48,394.0,84,nan,nan,243,58,2103,427,2683,622
+Luis Robert Jr,Orioles,Away,2,Right,27,6,164.0,32,339.0,68,51.0,10.0,243,58,3044,697,2683,622
+Andrew Benintendi,Orioles,Away,3,Left,69,13,207.0,35,438.0,88,57.0,10.0,243,58,2103,427,2683,622
+Andrew Vaughn,Orioles,Away,4,Right,57,14,248.0,55,524.0,114,54.0,8.0,243,58,3044,697,2683,622
+Gavin Sheets,Orioles,Away,5,Left,38,8,214.0,47,448.0,98,54.0,14.0,243,58,2103,427,2683,622
+Korey Lee,Orioles,Away,6,Right,24,6,187.0,40,352.0,72,nan,nan,243,58,3044,697,2683,622
+Dominic Fletcher,Orioles,Away,7,Left,4,0,77.0,13,167.0,34,nan,nan,243,58,2103,427,2683,622
+Lenyn Sosa,Orioles,Away,8,Right,13,4,138.0,37,287.0,59,nan,nan,243,58,3044,697,2683,622
+Jacob Amaya,Orioles,Away,9,Right,6,3,7.0,3,16.0,4,nan,nan,243,58,3044,697,2683,622
+Gunnar Henderson,White Sox,Home,1,Left,21,5,305.0,73,623.0,151,68.0,10.0,283,71,2300,531,2497,594
+Adley Rutschman,White Sox,Home,2,Both,24,6,270.0,57,544.0,127,nan,nan,283,71,5315,1228,2497,594
+Ryan O'Hearn,White Sox,Home,3,Left,20,7,219.0,51,420.0,101,44.0,8.0,283,71,2300,531,2497,594
+Anthony Santander,White Sox,Home,4,Both,32,10,273.0,57,571.0,125,69.0,14.0,283,71,5315,1228,2497,594
+Colton Cowser,White Sox,Home,5,Left,14,1,244.0,55,477.0,105,63.0,13.0,283,71,2300,531,2497,594
+Eloy Jimenez,White Sox,Home,6,Right,10,3,152.0,36,331.0,78,45.0,9.0,283,71,3015,697,2497,594
+Cedric Mullins,White Sox,Home,7,Left,28,7,202.0,46,410.0,85,45.0,9.0,283,71,2300,531,2497,594
+Jackson Holliday,White Sox,Home,8,Left,8,0,68.0,12,159.0,27,55.0,8.0,283,71,2300,531,2497,594
+Emmanuel Rivera,White Sox,Home,9,Right,16,2,116.0,23,246.0,47,24.0,4.0,283,71,3015,697,2497,594
+Jose Altuve,Reds,Away,1,Right,59,11,301.0,81,594.0,161,56.0,11.0,282,73,3012,644,2775,663
+Yordan Alvarez,Reds,Away,2,Left,20,5,283.0,87,554.0,151,53.0,15.0,282,73,2093,480,2775,663
+Alex Bregman,Reds,Away,3,Right,50,14,309.0,80,545.0,131,38.0,9.0,282,73,3012,644,2775,663
+Yainer Diaz,Reds,Away,4,Right,7,3,260.0,68,514.0,148,54.0,16.0,282,73,3012,644,2775,663
+Jon Singleton,Reds,Away,5,Left,13,0,172.0,33,353.0,72,32.0,4.0,282,73,2093,480,2775,663
+Jeremy Pena,Reds,Away,6,Right,12,2,292.0,71,553.0,140,52.0,10.0,282,73,3012,644,2775,663
+Ben Gamel,Reds,Away,7,Left,33,3,44.0,13,74.0,17,49.0,12.0,282,73,2093,480,2775,663
+Mauricio Dubon,Reds,Away,8,Right,14,2,185.0,48,357.0,88,41.0,12.0,282,73,3012,644,2775,663
+Jason Heyward,Reds,Away,9,Left,42,6,99.0,22,204.0,38,12.0,3.0,282,73,2093,480,2775,663
+Jonathan India,Astros,Home,1,Right,22,4,261.0,62,539.0,116,62.0,14.0,212,36,2768,552,2535,533
+Elly De La Cruz,Astros,Home,2,Both,15,3,301.0,65,595.0,138,72.0,17.0,212,36,5047,1038,2535,533
+Tyler Stephenson,Astros,Home,3,Right,24,4,229.0,55,429.0,101,56.0,17.0,212,36,2768,552,2535,533
+TJ Friedl,Astros,Home,4,Left,13,3,132.0,26,253.0,48,59.0,7.0,212,36,2279,486,2535,533
+Spencer Steer,Astros,Home,5,Right,21,4,296.0,57,564.0,116,68.0,12.0,212,36,2768,552,2535,533
+Ty France,Astros,Home,6,Right,126,34,221.0,50,444.0,94,53.0,12.0,212,36,2768,552,2535,533
+Jake Fraley,Astros,Home,7,Left,15,4,128.0,33,303.0,76,13.0,2.0,212,36,2279,486,2535,533
+Santiago Espinal,Astros,Home,8,Right,26,4,168.0,45,305.0,77,50.0,16.0,212,36,2768,552,2535,533
+Amed Rosario,Astros,Home,9,Right,46,9,171.0,43,316.0,91,30.0,7.0,212,36,2768,552,2535,533
+Dylan Crews,Marlins,Away,1,Right,5,1,5.0,1,31.0,7,32.0,7.0,222,51,3193,746,2813,674
+Jose Tena,Marlins,Away,2,Left,5,0,32.0,8,74.0,21,55.0,14.0,222,51,2010,467,2813,674
+Andres Chaparro,Marlins,Away,3,Right,5,1,41.0,10,70.0,16,48.0,10.0,222,51,3193,746,2813,674
+James Wood,Marlins,Away,4,Left,6,1,96.0,25,233.0,55,63.0,11.0,222,51,2010,467,2813,674
+Luis Garcia Jr,Marlins,Away,5,Left,20,4,231.0,53,459.0,126,43.0,10.0,222,51,2010,467,2813,674
+Joey Gallo,Marlins,Away,6,Left,13,1,103.0,12,198.0,29,39.0,6.0,222,51,2010,467,2813,674
+CJ Abrams,Marlins,Away,7,Left,18,2,291.0,66,553.0,121,49.0,8.0,222,51,2010,467,2813,674
+Keibert Ruiz,Marlins,Away,8,Both,16,4,194.0,39,400.0,85,45.0,8.0,222,51,5203,1213,2813,674
+Jacob Young,Marlins,Away,9,Right,8,5,229.0,59,440.0,106,50.0,16.0,222,51,3193,746,2813,674
+Xavier Edwards,Nationals,Home,1,Both,7,0,116.0,32,203.0,60,15.0,4.0,194,49,5142,1239,2499,612
+Connor Norby,Nationals,Home,2,Right,4,2,43.0,12,89.0,23,58.0,16.0,194,49,3294,798,2499,612
+Jake Burger,Nationals,Home,3,Right,29,8,245.0,51,478.0,109,56.0,11.0,194,49,3294,798,2499,612
+Jonah Bride,Nationals,Home,4,Right,7,1,76.0,17,169.0,37,nan,nan,194,49,3294,798,2499,612
+Otto Lopez,Nationals,Home,5,Right,13,3,167.0,40,335.0,77,61.0,14.0,194,49,3294,798,2499,612
+Cristian Pache,Nationals,Home,6,Right,13,3,73.0,13,155.0,28,19.0,4.0,194,49,3294,798,2499,612
+David Hensley,Nationals,Home,7,Right,2,0,16.0,4,43.0,10,26.0,8.0,194,49,3294,798,2499,612
+Kyle Stowers,Nationals,Home,8,Left,4,0,66.0,14,140.0,30,46.0,11.0,194,49,1848,441,2499,612
+Nick Fortes,Nationals,Home,9,Right,26,5,129.0,25,259.0,56,29.0,6.0,194,49,3294,798,2499,612
+Jarren Duran,Mets,Away,1,Left,21,7,329.0,87,628.0,168,69.0,20.0,238,44,1995,437,2614,523
+Wilyer Abreu,Mets,Away,2,Left,4,1,180.0,42,371.0,90,44.0,10.0,238,44,1995,437,2614,523
+Tyler O'Neill,Mets,Away,3,Right,23,8,204.0,51,395.0,88,47.0,6.0,238,44,3139,636,2614,523
+Rafael Devers,Mets,Away,4,Left,73,14,281.0,66,533.0,132,nan,nan,238,44,1995,437,2614,523
+Triston Casas,Mets,Away,5,Left,13,3,94.0,20,165.0,36,63.0,12.0,238,44,1995,437,2614,523
+Masataka Yoshida,Mets,Away,6,Left,14,3,178.0,45,353.0,92,53.0,12.0,238,44,1995,437,2614,523
+Connor Wong,Mets,Away,7,Right,7,1,220.0,58,409.0,106,nan,nan,238,44,3139,636,2614,523
+Enmanuel Valdez,Mets,Away,8,Left,3,0,98.0,15,189.0,38,nan,nan,238,44,1995,437,2614,523
+Ceddanne Rafaela,Mets,Away,9,Right,9,2,258.0,65,504.0,122,nan,nan,238,44,3139,636,2614,523
+Francisco Lindor,Red Sox,Home,1,Both,31,10,308.0,72,630.0,155,64.0,21.0,226,42,5155,1178,2521,566
+Brandon Nimmo,Red Sox,Home,2,Left,37,4,281.0,49,566.0,111,57.0,11.0,226,42,2513,555,2521,566
+Mark Vientos,Red Sox,Home,3,Right,11,3,178.0,44,356.0,92,55.0,15.0,226,42,2642,623,2521,566
+Pete Alonso,Red Sox,Home,4,Right,39,9,290.0,63,596.0,128,63.0,12.0,226,42,2642,623,2521,566
+Jesse Winker,Red Sox,Home,5,Left,49,4,207.0,50,461.0,106,37.0,11.0,226,42,2513,555,2521,566
+Starling Marte,Red Sox,Home,6,Right,40,12,153.0,36,307.0,78,nan,nan,226,42,2642,623,2521,566
+Jose Iglesias,Red Sox,Home,7,Right,25,4,76.0,26,199.0,57,34.0,6.0,226,42,2642,623,2521,566
+Jeff McNeil,Red Sox,Home,8,Left,39,12,234.0,43,462.0,101,45.0,9.0,226,42,2513,555,2521,566
+Francisco Alvarez,Red Sox,Home,9,Right,12,1,132.0,26,274.0,59,nan,nan,226,42,2642,623,2521,566
+Charlie Blackmon,Braves,Away,1,Left,72,16,217.0,41,421.0,94,46.0,7.0,212,38,2039,460,2439,565
+Ezequiel Tovar,Braves,Away,2,Right,32,6,297.0,76,582.0,151,59.0,13.0,212,38,2969,646,2439,565
+Ryan McMahon,Braves,Away,3,Left,59,10,278.0,57,551.0,120,55.0,13.0,212,38,2039,460,2439,565
+Brenton Doyle,Braves,Away,4,Right,24,5,279.0,55,530.0,131,57.0,14.0,212,38,2969,646,2439,565
+Brendan Rodgers,Braves,Away,5,Right,45,17,238.0,51,475.0,124,53.0,15.0,212,38,2969,646,2439,565
+Michael Toglia,Braves,Away,6,Both,24,5,182.0,33,359.0,69,66.0,9.0,212,38,5008,1106,2439,565
+Nolan Jones,Braves,Away,7,Left,13,1,104.0,18,234.0,44,49.0,11.0,212,38,2039,460,2439,565
+Jordan Beck,Braves,Away,8,Right,5,0,82.0,14,138.0,27,44.0,6.0,212,38,2969,646,2439,565
+Drew Romo,Braves,Away,9,Both,3,0,19.0,3,38.0,7,36.0,7.0,212,38,5008,1106,2439,565
+Michael Harris II,Rockies,Home,1,Left,27,10,156.0,41,355.0,83,54.0,12.0,232,60,2142,536,2609,669
+Jorge Soler,Rockies,Home,2,Right,61,21,225.0,47,484.0,96,nan,nan,232,60,3173,851,2609,669
+Marcell Ozuna,Rockies,Home,3,Right,37,9,268.0,72,583.0,159,66.0,15.0,232,60,3173,851,2609,669
+Matt Olson,Rockies,Home,4,Left,51,9,261.0,56,578.0,120,63.0,14.0,232,60,2142,536,2609,669
+Travis d'Arnaud,Rockies,Home,5,Right,23,8,125.0,32,286.0,65,26.0,5.0,232,60,3173,851,2609,669
+Whit Merrifield,Rockies,Home,6,Right,35,8,136.0,25,301.0,58,68.0,14.0,232,60,3173,851,2609,669
+Jarred Kelenic,Rockies,Home,7,Left,9,3,203.0,47,417.0,90,nan,nan,232,60,2142,536,2609,669
+Orlando Arcia,Rockies,Home,8,Right,34,5,237.0,43,504.0,104,64.0,10.0,232,60,3173,851,2609,669
+Gio Urshela,Rockies,Home,9,Right,15,6,190.0,43,365.0,87,46.0,13.0,232,60,3173,851,2609,669
+Masyn Winn,Brewers,Away,1,Right,50,12,269.0,67,539.0,140,75.0,21.0,299,56,2858,618,2465,524
+Alec Burleson,Brewers,Away,2,Left,48,9,251.0,58,503.0,131,71.0,15.0,299,56,2225,487,2465,524
+Nolan Arenado,Brewers,Away,3,Right,120,27,292.0,64,547.0,135,67.0,15.0,299,56,2858,618,2465,524
+Brendan Donovan,Brewers,Away,4,Left,62,7,293.0,70,562.0,137,67.0,15.0,299,56,2225,487,2465,524
+Paul Goldschmidt,Brewers,Away,5,Right,125,27,303.0,73,565.0,129,58.0,21.0,299,56,2858,618,2465,524
+Lars Nootbaar,Brewers,Away,6,Left,73,17,171.0,40,327.0,71,66.0,17.0,299,56,2225,487,2465,524
+Jordan Walker,Brewers,Away,7,Right,26,5,63.0,14,98.0,16,21.0,6.0,299,56,2858,618,2465,524
+Ivan Herrera,Brewers,Away,8,Right,12,3,110.0,32,212.0,54,26.0,6.0,299,56,2858,618,2465,524
+Michael Siani,Brewers,Away,9,Left,21,7,138.0,31,256.0,61,nan,nan,299,56,2225,487,2465,524
+Brice Turang,Cardinals,Home,1,Left,63,12,251.0,46,526.0,122,63.0,12.0,262,54,2275,538,2556,587
+Jackson Chourio,Cardinals,Home,2,Right,38,10,235.0,53,475.0,123,72.0,20.0,262,54,2821,636,2556,587
+William Contreras,Cardinals,Home,3,Right,86,25,281.0,69,600.0,148,82.0,14.0,262,54,2821,636,2556,587
+Jake Bauers,Cardinals,Home,4,Left,34,9,159.0,26,298.0,51,33.0,3.0,262,54,2275,538,2556,587
+Willy Adames,Cardinals,Home,5,Right,118,25,278.0,64,597.0,135,77.0,16.0,262,54,2821,636,2556,587
+Garrett Mitchell,Cardinals,Home,6,Left,23,5,67.0,14,158.0,36,43.0,11.0,262,54,2275,538,2556,587
+Rhys Hoskins,Cardinals,Home,7,Right,146,25,200.0,37,442.0,82,65.0,6.0,262,54,2821,636,2556,587
+Sal Frelick,Cardinals,Home,8,Left,50,11,218.0,55,456.0,110,45.0,14.0,262,54,2275,538,2556,587
+Joey Ortiz,Cardinals,Home,9,Right,33,8,195.0,42,421.0,88,57.0,9.0,262,54,2821,636,2556,587
+Steven Kwan,Royals,Away,1,Left,109,26,256.0,67,498.0,133,80.0,9.0,246,64,2293,549,2667,625
+Andres Gimenez,Royals,Away,2,Left,98,25,292.0,69,537.0,125,66.0,12.0,246,64,2293,549,2667,625
+Jose Ramirez,Royals,Away,3,Both,133,36,302.0,69,583.0,146,72.0,14.0,246,64,5093,1157,2667,625
+Josh Naylor,Royals,Away,4,Left,97,24,274.0,56,544.0,119,70.0,14.0,246,64,2293,549,2667,625
+Jhonkensy Noel,Royals,Away,5,Right,23,4,71.0,15,152.0,35,55.0,13.0,246,64,2800,608,2667,625
+Kyle Manzardo,Royals,Away,6,Left,13,4,60.0,13,97.0,22,12.0,5.0,246,64,2293,549,2667,625
+Lane Thomas,Royals,Away,7,Right,35,8,210.0,47,438.0,93,43.0,11.0,246,64,2800,608,2667,625
+Bo Naylor,Royals,Away,8,Left,42,12,182.0,37,327.0,63,36.0,9.0,246,64,2293,549,2667,625
+Brayan Rocchio,Royals,Away,9,Both,20,5,195.0,36,375.0,70,45.0,10.0,246,64,5093,1157,2667,625
+Tommy Pham,Guardians,Home,1,Right,44,10,203.0,48,386.0,89,nan,nan,214,40,2762,603,2508,521
+Bobby Witt Jr,Guardians,Home,2,Right,81,18,303.0,107,610.0,189,72.0,16.0,214,40,2762,603,2508,521
+Michael Massey,Guardians,Home,3,Left,42,5,155.0,42,277.0,68,44.0,8.0,214,40,2263,463,2508,521
+Salvador Perez,Guardians,Home,4,Right,126,33,283.0,68,557.0,139,65.0,13.0,214,40,2762,603,2508,521
+Paul DeJong,Guardians,Home,5,Right,65,10,214.0,48,445.0,96,47.0,7.0,214,40,2762,603,2508,521
+MJ Melendez,Guardians,Home,6,Left,63,10,194.0,41,397.0,78,54.0,12.0,214,40,2263,463,2508,521
+Freddy Fermin,Guardians,Home,7,Right,38,12,132.0,38,317.0,85,nan,nan,214,40,2762,603,2508,521
+Maikel Garcia,Guardians,Home,8,Right,59,10,291.0,64,559.0,124,54.0,11.0,214,40,2762,603,2508,521
+Kyle Isbel,Guardians,Home,9,Left,49,9,197.0,45,355.0,76,nan,nan,214,40,2263,463,2508,521
+Isiah Kiner-Falefa,Cubs,Away,1,Right,42,6,199.0,49,400.0,102,58.0,11.0,226,55,2983,649,2474,520
+Bryan Reynolds,Cubs,Away,2,Both,146,38,306.0,75,592.0,151,65.0,16.0,226,55,5086,1119,2474,520
+Nick Gonzales,Cubs,Away,3,Right,33,10,156.0,44,294.0,75,32.0,11.0,226,55,2983,649,2474,520
+Andrew McCutchen,Cubs,Away,4,Right,121,23,239.0,49,452.0,93,17.0,4.0,226,55,2983,649,2474,520
+Oneil Cruz,Cubs,Away,5,Left,50,12,255.0,54,512.0,127,63.0,19.0,226,55,2103,470,2474,520
+Connor Joe,Cubs,Away,6,Right,76,24,200.0,42,384.0,80,40.0,7.0,226,55,2983,649,2474,520
+Bryan De La Cruz,Cubs,Away,7,Right,42,11,260.0,55,553.0,124,43.0,9.0,226,55,2983,649,2474,520
+Jared Triolo,Cubs,Away,8,Right,40,11,199.0,41,363.0,66,55.0,10.0,226,55,2983,649,2474,520
+Henry Davis,Cubs,Away,9,Right,16,5,75.0,10,115.0,15,nan,nan,226,55,2983,649,2474,520
+Ian Happ,Pirates,Home,1,Both,101,25,255.0,59,557.0,118,71.0,20.0,228,58,5120,1176,2502,555
+Michael Busch,Pirates,Home,2,Left,40,2,216.0,45,487.0,107,61.0,9.0,228,58,2129,487,2502,555
+Seiya Suzuki,Pirates,Home,3,Right,76,21,215.0,44,490.0,120,77.0,20.0,228,58,2991,689,2502,555
+Cody Bellinger,Pirates,Home,4,Left,81,18,217.0,49,475.0,115,72.0,13.0,228,58,2129,487,2502,555
+Isaac Paredes,Pirates,Home,5,Right,43,4,279.0,48,555.0,108,67.0,10.0,228,58,2991,689,2502,555
+Nico Hoerner,Pirates,Home,6,Right,63,13,267.0,60,555.0,129,63.0,15.0,228,58,2991,689,2502,555
+Dansby Swanson,Pirates,Home,7,Right,65,19,234.0,51,496.0,106,66.0,15.0,228,58,2991,689,2502,555
+Pete Crow-Armstrong,Pirates,Home,8,Left,28,8,131.0,22,315.0,68,60.0,17.0,228,58,2129,487,2502,555
+Miguel Amaya,Pirates,Home,9,Right,26,6,146.0,29,301.0,66,39.0,15.0,228,58,2991,689,2502,555
+Gleyber Torres,Rangers,Away,1,Right,92,24,300.0,70,551.0,121,75.0,18.0,268,67,2930,640,2563,518
+Juan Soto,Rangers,Away,2,Left,84,13,324.0,74,616.0,146,70.0,12.0,268,67,2185,483,2563,518
+Aaron Judge,Rangers,Away,3,Right,84,21,318.0,84,611.0,159,72.0,14.0,268,67,2930,640,2563,518
+Austin Wells,Rangers,Away,4,Left,13,1,176.0,39,334.0,73,43.0,9.0,268,67,2185,483,2563,518
+Giancarlo Stanton,Rangers,Away,5,Right,99,27,190.0,39,386.0,86,53.0,11.0,268,67,2930,640,2563,518
+Jazz Chisholm Jr,Rangers,Away,6,Left,36,9,235.0,66,532.0,129,44.0,15.0,268,67,2185,483,2563,518
+Anthony Rizzo,Rangers,Away,7,Left,104,23,174.0,35,298.0,62,9.0,3.0,268,67,2185,483,2563,518
+Anthony Volpe,Rangers,Away,8,Right,35,4,317.0,75,605.0,144,58.0,17.0,268,67,2930,640,2563,518
+Alex Verdugo,Rangers,Away,9,Left,69,19,286.0,66,553.0,119,59.0,13.0,268,67,2185,483,2563,518
+Marcus Semien,Yankees,Home,1,Right,136,32,299.0,60,618.0,131,nan,nan,224,63,3147,704,2600,568
+Corey Seager,Yankees,Home,2,Left,81,27,253.0,60,531.0,132,49.0,15.0,224,63,2014,404,2600,568
+Josh Smith,Yankees,Home,3,Left,29,7,242.0,58,496.0,116,39.0,9.0,224,63,2014,404,2600,568
+Adolis Garcia,Yankees,Home,4,Right,62,15,262.0,48,545.0,111,nan,nan,224,63,3147,704,2600,568
+Nathaniel Lowe,Yankees,Home,5,Left,64,15,229.0,49,466.0,103,49.0,11.0,224,63,2014,404,2600,568
+Josh Jung,Yankees,Home,6,Right,39,13,82.0,22,138.0,37,47.0,14.0,224,63,3147,704,2600,568
+Wyatt Langford,Yankees,Home,7,Right,21,6,235.0,54,454.0,100,48.0,11.0,224,63,3147,704,2600,568
+Jonah Heim,Yankees,Home,8,Both,30,4,218.0,47,422.0,89,32.0,5.0,224,63,5161,1108,2600,568
+Leody Taveras,Yankees,Home,9,Both,40,8,220.0,47,455.0,96,39.0,7.0,224,63,5161,1108,2600,568
+Shohei Ohtani,Angels,Away,1,Left,28,10,318.0,80,618.0,158,63.0,17.0,223,41,2075,434,2689,592
+Mookie Betts,Angels,Away,2,Right,33,7,212.0,61,420.0,110,61.0,14.0,223,41,3016,669,2689,592
+Freddie Freeman,Angels,Away,3,Left,37,10,270.0,67,547.0,136,46.0,11.0,223,41,2075,434,2689,592
+Teoscar Hernandez,Angels,Away,4,Right,28,8,291.0,71,575.0,140,59.0,15.0,223,41,3016,669,2689,592
+Gavin Lux,Angels,Away,5,Left,12,2,217.0,53,420.0,97,43.0,8.0,223,41,2075,434,2689,592
+Will Smith,Angels,Away,6,Right,32,6,252.0,60,471.0,102,42.0,8.0,223,41,3016,669,2689,592
+Max Muncy,Angels,Away,7,Left,33,7,93.0,15,205.0,40,44.0,8.0,223,41,2075,434,2689,592
+Tommy Edman,Angels,Away,8,Both,30,7,20.0,6,54.0,14,52.0,13.0,223,41,5091,1103,2689,592
+Miguel Rojas,Angels,Away,9,Right,30,6,160.0,50,280.0,76,36.0,11.0,223,41,3016,669,2689,592
+Taylor Ward,Dodgers,Home,1,Right,20,5,290.0,58,549.0,119,53.0,15.0,262,63,2933,652,2519,553
+Zach Neto,Dodgers,Home,2,Right,11,3,246.0,61,510.0,117,54.0,8.0,262,63,2933,652,2519,553
+Nolan Schanuel,Dodgers,Home,3,Left,8,2,281.0,57,519.0,111,48.0,8.0,262,63,2142,438,2519,553
+Anthony Rendon,Dodgers,Home,4,Right,32,10,87.0,14,223.0,44,55.0,8.0,262,63,2933,652,2519,553
+Mickey Moniak,Dodgers,Home,5,Left,19,2,198.0,40,363.0,79,31.0,9.0,262,63,2142,438,2519,553
+Logan O'Hoppe,Dodgers,Home,6,Right,7,2,237.0,57,453.0,101,nan,nan,262,63,2933,652,2519,553
+Brandon Drury,Dodgers,Home,7,Right,35,7,133.0,18,291.0,42,35.0,5.0,262,63,2933,652,2519,553
+Jo Adell,Dodgers,Home,8,Right,14,2,216.0,39,438.0,83,52.0,11.0,262,63,2933,652,2519,553
+Niko Kavadas,Dodgers,Home,9,Left,4,0,14.0,0,41.0,3,nan,nan,262,63,2142,438,2519,553
+Parker Meadows,Padres,Away,1,Left,4,1,114.0,23,196.0,40,56.0,13.0,231,54,2293,498,2598,596
+Riley Greene,Padres,Away,2,Left,31,4,257.0,58,482.0,109,57.0,11.0,231,54,2293,498,2598,596
+Matt Vierling,Padres,Away,3,Right,31,6,232.0,57,480.0,117,52.0,14.0,231,54,2818,647,2598,596
+Kerry Carpenter,Padres,Away,4,Left,14,4,105.0,28,225.0,58,54.0,12.0,231,54,2293,498,2598,596
+Colt Keith,Padres,Away,5,Left,7,1,258.0,66,476.0,114,55.0,13.0,231,54,2293,498,2598,596
+Spencer Torkelson,Padres,Away,6,Right,35,6,152.0,31,292.0,59,57.0,15.0,231,54,2818,647,2598,596
+Jace Jung,Padres,Away,7,Left,4,0,33.0,6,59.0,10,nan,nan,231,54,2293,498,2598,596
+Trey Sweeney,Padres,Away,8,Left,3,1,19.0,5,43.0,8,35.0,7.0,231,54,2293,498,2598,596
+Dillon Dingler,Padres,Away,9,Right,0,0,35.0,6,60.0,8,nan,nan,231,54,2818,647,2598,596
+Fernando Tatis Jr,Tigers,Home,1,Right,11,0,174.0,36,348.0,86,nan,nan,206,40,2900,664,2449,539
+Luis Arraez,Tigers,Home,2,Left,45,9,291.0,71,580.0,171,60.0,20.0,206,40,2115,435,2449,539
+Jurickson Profar,Tigers,Home,3,Both,10,2,263.0,67,569.0,136,65.0,8.0,206,40,5015,1099,2449,539
+Manny Machado,Tigers,Home,4,Right,29,4,264.0,68,549.0,139,66.0,17.0,206,40,2900,664,2449,539
+Jake Cronenworth,Tigers,Home,5,Left,9,1,274.0,63,563.0,125,62.0,13.0,206,40,2115,435,2449,539
+Xander Bogaerts,Tigers,Home,6,Right,36,11,173.0,40,374.0,93,54.0,11.0,206,40,2900,664,2449,539
+Jackson Merrill,Tigers,Home,7,Left,3,2,242.0,56,506.0,140,59.0,16.0,206,40,2115,435,2449,539
+Kyle Higashioka,Tigers,Home,8,Right,18,3,105.0,24,216.0,47,27.0,7.0,206,40,2900,664,2449,539
+Mason McCoy,Tigers,Home,9,Right,3,2,19.0,7,41.0,10,46.0,10.0,206,40,2900,664,2449,539
+JP Crawford,Athletics,Away,1,Left,43,7,190.0,39,359.0,61,nan,nan,254,53,2053,453,2635,585
+Julio Rodriguez,Athletics,Away,2,Right,40,10,266.0,69,499.0,119,66.0,10.0,254,53,3041,700,2635,585
+Cal Raleigh,Athletics,Away,3,Both,24,6,266.0,53,520.0,95,57.0,9.0,254,53,5094,1153,2635,585
+Randy Arozarena,Athletics,Away,4,Right,41,7,286.0,50,550.0,101,56.0,11.0,254,53,3041,700,2635,585
+Jorge Polanco,Athletics,Away,5,Both,18,2,201.0,37,391.0,71,57.0,6.0,254,53,5094,1153,2635,585
+Justin Turner,Athletics,Away,6,Right,15,3,213.0,40,444.0,97,43.0,10.0,254,53,3041,700,2635,585
+Luis Urias,Athletics,Away,7,Right,7,1,50.0,9,94.0,12,nan,nan,254,53,3041,700,2635,585
+Mitch Garver,Athletics,Away,8,Right,20,3,220.0,34,389.0,54,nan,nan,254,53,3041,700,2635,585
+Victor Robles,Athletics,Away,9,Right,9,2,126.0,29,211.0,52,29.0,11.0,254,53,3041,700,2635,585
+Lawrence Butler,Mariners,Home,1,Left,27,8,186.0,42,360.0,88,62.0,22.0,196,35,2332,514,2450,541
+Brent Rooker,Mariners,Home,2,Right,61,12,247.0,62,508.0,133,70.0,18.0,196,35,2558,500,2450,541
+JJ Bleday,Mariners,Home,3,Left,46,10,280.0,58,549.0,121,57.0,13.0,196,35,2332,514,2450,541
+Shea Langeliers,Mariners,Home,4,Right,62,13,221.0,37,454.0,93,51.0,10.0,196,35,2558,500,2450,541
+Seth Brown,Mariners,Home,5,Left,88,12,163.0,37,329.0,73,57.0,15.0,196,35,2332,514,2450,541
+Zack Gelof,Mariners,Home,6,Right,33,8,222.0,37,450.0,84,53.0,11.0,196,35,2558,500,2450,541
+Tristan Gray,Mariners,Home,7,Left,6,0,5.0,0,14.0,0,nan,nan,196,35,2332,514,2450,541
+Max Schuemann,Mariners,Home,8,Right,23,2,191.0,37,387.0,77,47.0,7.0,196,35,2558,500,2450,541
+Jacob Wilson,Mariners,Home,9,Right,3,0,4.0,1,22.0,4,nan,nan,196,35,2558,500,2450,541
+Corbin Carroll,Giants,Away,1,Left,55,13,299.0,57,570.0,118,61.0,19.0,214,47,2067,464,2595,575
+Jake McCarthy,Giants,Away,2,Left,44,9,196.0,47,399.0,107,56.0,13.0,214,47,2067,464,2595,575
+Joc Pederson,Giants,Away,3,Left,21,3,207.0,46,387.0,90,45.0,6.0,214,47,2067,464,2595,575
+Christian Walker,Giants,Away,4,Right,100,25,240.0,57,460.0,103,nan,nan,214,47,3031,689,2595,575
+Pavin Smith,Giants,Away,5,Left,28,4,44.0,8,89.0,20,nan,nan,214,47,2067,464,2595,575
+Adrian Del Castillo,Giants,Away,6,Left,4,1,35.0,9,68.0,18,nan,nan,214,47,2067,464,2595,575
+Eugenio Suarez,Giants,Away,7,Right,38,7,282.0,55,535.0,116,58.0,15.0,214,47,3031,689,2595,575
+Luis Guillorme,Giants,Away,8,Left,17,2,74.0,13,166.0,32,37.0,5.0,214,47,2067,464,2595,575
+Geraldo Perdomo,Giants,Away,9,Both,47,9,125.0,33,286.0,73,58.0,13.0,214,47,5098,1153,2595,575
+Mike Yastrzemski,Diamondbacks,Home,1,Left,111,26,200.0,50,392.0,86,49.0,11.0,276,79,2194,517,2526,599
+Tyler Fitzgerald,Diamondbacks,Home,2,Right,8,1,129.0,36,263.0,71,54.0,10.0,276,79,3016,745,2526,599
+Heliot Ramos,Diamondbacks,Home,3,Right,12,5,222.0,60,421.0,107,50.0,11.0,276,79,3016,745,2526,599
+Michael Conforto,Diamondbacks,Home,4,Left,84,20,182.0,35,414.0,85,43.0,5.0,276,79,2194,517,2526,599
+Matt Chapman,Diamondbacks,Home,5,Right,77,19,286.0,65,577.0,126,50.0,11.0,276,79,3016,745,2526,599
+LaMonte Wade Jr,Diamondbacks,Home,6,Left,97,16,148.0,30,327.0,70,nan,nan,276,79,2194,517,2526,599
+Patrick Bailey,Diamondbacks,Home,7,Both,41,12,192.0,44,376.0,79,nan,nan,276,79,5210,1262,2526,599
+Marco Luciano,Diamondbacks,Home,8,Right,4,1,29.0,8,52.0,14,nan,nan,276,79,3016,745,2526,599
+Grant McCray,Diamondbacks,Home,9,Left,2,1,28.0,4,58.0,13,41.0,7.0,276,79,2194,517,2526,599

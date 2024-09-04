@@ -1,0 +1,253 @@
+Batter,Opposing Team,Batter Location,Batter Spot,Batting Orientation,T Pitching Outs,Batter H/PA,Team H/PA,Against H/PA,Batter Team Matchup H/PA
+Kyle Schwarber,Blue Jays,Away,1,Left,3.5,0.2,0.21,0.28,0.22
+Trea Turner,Blue Jays,Away,2,Right,3.5,0.24,0.22,0.27,0.24
+Bryce Harper,Blue Jays,Away,3,Left,3.5,0.25,0.21,0.31,0.24
+Nick Castellanos,Blue Jays,Away,4,Right,3.5,0.22,0.22,0.31,0.24
+Bryson Stott,Blue Jays,Away,5,Left,3.5,0.22,0.21,0.18,0.21
+JT Realmuto,Blue Jays,Away,6,Right,3.5,0.27,0.22,0.19,0.23
+Brandon Marsh,Blue Jays,Away,7,Left,3.5,0.2,0.21,0.21,0.21
+Austin Hays,Blue Jays,Away,8,Right,3.5,0.25,0.22,0.25,0.24
+Edmundo Sosa,Blue Jays,Away,9,Right,3.5,0.22,0.22,0.19,0.22
+George Springer,Phillies,Home,1,Right,2.83,0.19,0.24,0.32,0.23
+Daulton Varsho,Phillies,Home,2,Left,2.83,0.22,0.24,0.2,0.23
+Vladimir Guerrero Jr,Phillies,Home,3,Right,2.83,0.32,0.24,0.35,0.29
+Alejandro Kirk,Phillies,Home,4,Right,2.83,0.23,0.24,0.21,0.23
+Ernie Clement,Phillies,Home,5,Right,2.83,0.23,0.24,0.33,0.24
+Leo Jimenez,Phillies,Home,6,Right,2.83,0.21,0.24,0.5,0.23
+Davis Schneider,Phillies,Home,7,Right,2.83,0.18,0.24,0.25,0.21
+Luis De Los Santos,Phillies,Home,8,Right,2.83,0.47,0.24,0,0.35
+Brian Serven,Phillies,Home,9,Right,2.83,0.17,0.24,0.2,0.2
+Nicky Lopez,Orioles,Away,1,Left,3.17,0.24,0.22,0.3,0.24
+Luis Robert Jr,Orioles,Away,2,Right,3.17,0.2,0.23,0.22,0.22
+Andrew Benintendi,Orioles,Away,3,Left,3.17,0.18,0.22,0.19,0.2
+Andrew Vaughn,Orioles,Away,4,Right,3.17,0.19,0.23,0.25,0.22
+Gavin Sheets,Orioles,Away,5,Left,3.17,0.24,0.22,0.21,0.23
+Korey Lee,Orioles,Away,6,Right,3.17,0.21,0.23,0.25,0.22
+Dominic Fletcher,Orioles,Away,7,Left,3.17,0.18,0.22,0.0,0.2
+Lenyn Sosa,Orioles,Away,8,Right,3.17,0.24,0.23,0.31,0.24
+Jacob Amaya,Orioles,Away,9,Right,3.17,0.36,0.23,0.5,0.3
+Gunnar Henderson,White Sox,Home,1,Left,3.5,0.2,0.24,0.24,0.22
+Adley Rutschman,White Sox,Home,2,Both,3.5,0.22,0.24,0.25,0.23
+Ryan O'Hearn,White Sox,Home,3,Left,3.5,0.21,0.24,0.35,0.24
+Anthony Santander,White Sox,Home,4,Both,3.5,0.21,0.24,0.31,0.23
+Colton Cowser,White Sox,Home,5,Left,3.5,0.22,0.24,0.07,0.22
+Eloy Jimenez,White Sox,Home,6,Right,3.5,0.22,0.24,0.3,0.23
+Cedric Mullins,White Sox,Home,7,Left,3.5,0.21,0.24,0.25,0.23
+Jackson Holliday,White Sox,Home,8,Left,3.5,0.16,0.24,0.0,0.2
+Emmanuel Rivera,White Sox,Home,9,Right,3.5,0.18,0.24,0.12,0.21
+Jose Altuve,Reds,Away,1,Right,nan,0.24,0.24,0.19,0.23
+Yordan Alvarez,Reds,Away,2,Left,nan,0.29,0.24,0.25,0.27
+Alex Bregman,Reds,Away,3,Right,nan,0.25,0.24,0.28,0.25
+Yainer Diaz,Reds,Away,4,Right,nan,0.28,0.24,0.43,0.26
+Jon Singleton,Reds,Away,5,Left,nan,0.17,0.24,0.0,0.2
+Jeremy Pena,Reds,Away,6,Right,nan,0.22,0.24,0.17,0.23
+Ben Gamel,Reds,Away,7,Left,nan,0.26,0.24,0.09,0.24
+Mauricio Dubon,Reds,Away,8,Right,nan,0.27,0.24,0.14,0.25
+Jason Heyward,Reds,Away,9,Left,nan,0.23,0.24,0.14,0.22
+Jonathan India,Astros,Home,1,Right,3.17,0.23,0.19,0.18,0.21
+Elly De La Cruz,Astros,Home,2,Both,3.17,0.23,0.19,0.2,0.21
+Tyler Stephenson,Astros,Home,3,Right,3.17,0.26,0.19,0.17,0.22
+TJ Friedl,Astros,Home,4,Left,3.17,0.16,0.2,0.23,0.18
+Spencer Steer,Astros,Home,5,Right,3.17,0.19,0.19,0.19,0.19
+Ty France,Astros,Home,6,Right,3.17,0.22,0.19,0.27,0.23
+Jake Fraley,Astros,Home,7,Left,3.17,0.21,0.2,0.27,0.21
+Santiago Espinal,Astros,Home,8,Right,3.17,0.29,0.19,0.15,0.23
+Amed Rosario,Astros,Home,9,Right,3.17,0.25,0.19,0.2,0.22
+Dylan Crews,Marlins,Away,1,Right,3.83,0.21,0.23,0.2,0.22
+Jose Tena,Marlins,Away,2,Left,3.83,0.26,0.23,0.0,0.24
+Andres Chaparro,Marlins,Away,3,Right,3.83,0.23,0.23,0.2,0.23
+James Wood,Marlins,Away,4,Left,3.83,0.22,0.23,0.17,0.23
+Luis Garcia Jr,Marlins,Away,5,Left,3.83,0.24,0.23,0.2,0.23
+Joey Gallo,Marlins,Away,6,Left,3.83,0.14,0.23,0.08,0.18
+CJ Abrams,Marlins,Away,7,Left,3.83,0.2,0.23,0.11,0.21
+Keibert Ruiz,Marlins,Away,8,Both,3.83,0.19,0.23,0.25,0.22
+Jacob Young,Marlins,Away,9,Right,3.83,0.28,0.23,0.62,0.27
+Xavier Edwards,Nationals,Home,1,Both,3.17,0.28,0.25,0.0,0.25
+Connor Norby,Nationals,Home,2,Right,3.17,0.27,0.25,0.5,0.26
+Jake Burger,Nationals,Home,3,Right,3.17,0.21,0.25,0.28,0.23
+Jonah Bride,Nationals,Home,4,Right,3.17,0.22,0.25,0.14,0.23
+Otto Lopez,Nationals,Home,5,Right,3.17,0.23,0.25,0.23,0.24
+Cristian Pache,Nationals,Home,6,Right,3.17,0.19,0.25,0.23,0.22
+David Hensley,Nationals,Home,7,Right,3.17,0.27,0.25,0.0,0.26
+Kyle Stowers,Nationals,Home,8,Left,3.17,0.22,0.25,0.0,0.23
+Nick Fortes,Nationals,Home,9,Right,3.17,0.2,0.25,0.19,0.22
+Jarren Duran,Mets,Away,1,Left,3.5,0.28,0.2,0.33,0.25
+Wilyer Abreu,Mets,Away,2,Left,3.5,0.23,0.2,0.25,0.22
+Tyler O'Neill,Mets,Away,3,Right,3.5,0.2,0.2,0.35,0.21
+Rafael Devers,Mets,Away,4,Left,3.5,0.24,0.2,0.19,0.21
+Triston Casas,Mets,Away,5,Left,3.5,0.2,0.2,0.23,0.2
+Masataka Yoshida,Mets,Away,6,Left,3.5,0.24,0.2,0.21,0.22
+Connor Wong,Mets,Away,7,Right,3.5,0.26,0.2,0.14,0.23
+Enmanuel Valdez,Mets,Away,8,Left,3.5,0.17,0.2,0.0,0.18
+Ceddanne Rafaela,Mets,Away,9,Right,3.5,0.25,0.2,0.22,0.22
+Francisco Lindor,Red Sox,Home,1,Both,3.17,0.27,0.21,0.32,0.25
+Brandon Nimmo,Red Sox,Home,2,Left,3.17,0.19,0.21,0.11,0.19
+Mark Vientos,Red Sox,Home,3,Right,3.17,0.26,0.21,0.27,0.24
+Pete Alonso,Red Sox,Home,4,Right,3.17,0.21,0.21,0.23,0.21
+Jesse Winker,Red Sox,Home,5,Left,3.17,0.26,0.21,0.08,0.21
+Starling Marte,Red Sox,Home,6,Right,3.17,0.24,0.21,0.3,0.24
+Jose Iglesias,Red Sox,Home,7,Right,3.17,0.26,0.21,0.16,0.23
+Jeff McNeil,Red Sox,Home,8,Left,3.17,0.2,0.21,0.31,0.22
+Francisco Alvarez,Red Sox,Home,9,Right,3.17,0.2,0.21,0.08,0.2
+Charlie Blackmon,Braves,Away,1,Left,3.17,0.18,0.21,0.22,0.2
+Ezequiel Tovar,Braves,Away,2,Right,3.17,0.24,0.21,0.19,0.22
+Ryan McMahon,Braves,Away,3,Left,3.17,0.22,0.21,0.17,0.21
+Brenton Doyle,Braves,Away,4,Right,3.17,0.23,0.21,0.21,0.22
+Brendan Rodgers,Braves,Away,5,Right,3.17,0.25,0.21,0.38,0.25
+Michael Toglia,Braves,Away,6,Both,3.17,0.17,0.21,0.21,0.19
+Nolan Jones,Braves,Away,7,Left,3.17,0.2,0.21,0.08,0.2
+Jordan Beck,Braves,Away,8,Right,3.17,0.16,0.21,0.0,0.18
+Drew Romo,Braves,Away,9,Both,3.17,0.18,0.21,0.0,0.19
+Michael Harris II,Rockies,Home,1,Left,nan,0.24,0.25,0.37,0.26
+Jorge Soler,Rockies,Home,2,Right,nan,0.2,0.26,0.34,0.25
+Marcell Ozuna,Rockies,Home,3,Right,nan,0.25,0.26,0.24,0.26
+Matt Olson,Rockies,Home,4,Left,nan,0.22,0.25,0.18,0.23
+Travis d'Arnaud,Rockies,Home,5,Right,nan,0.22,0.26,0.35,0.25
+Whit Merrifield,Rockies,Home,6,Right,nan,0.19,0.26,0.23,0.23
+Jarred Kelenic,Rockies,Home,7,Left,nan,0.23,0.25,0.33,0.24
+Orlando Arcia,Rockies,Home,8,Right,nan,0.18,0.26,0.15,0.21
+Gio Urshela,Rockies,Home,9,Right,nan,0.25,0.26,0.4,0.26
+Masyn Winn,Brewers,Away,1,Right,3.17,0.26,0.2,0.24,0.23
+Alec Burleson,Brewers,Away,2,Left,3.17,0.23,0.2,0.19,0.21
+Nolan Arenado,Brewers,Away,3,Right,3.17,0.23,0.2,0.23,0.22
+Brendan Donovan,Brewers,Away,4,Left,3.17,0.23,0.2,0.11,0.2
+Paul Goldschmidt,Brewers,Away,5,Right,3.17,0.29,0.2,0.22,0.24
+Lars Nootbaar,Brewers,Away,6,Left,3.17,0.24,0.2,0.23,0.22
+Jordan Walker,Brewers,Away,7,Right,3.17,0.24,0.2,0.19,0.22
+Ivan Herrera,Brewers,Away,8,Right,3.17,0.26,0.2,0.25,0.23
+Michael Siani,Brewers,Away,9,Left,3.17,0.23,0.2,0.33,0.23
+Brice Turang,Cardinals,Home,1,Left,3.17,0.2,0.22,0.19,0.21
+Jackson Chourio,Cardinals,Home,2,Right,3.17,0.25,0.22,0.26,0.24
+William Contreras,Cardinals,Home,3,Right,3.17,0.22,0.22,0.29,0.23
+Jake Bauers,Cardinals,Home,4,Left,3.17,0.14,0.22,0.26,0.19
+Willy Adames,Cardinals,Home,5,Right,3.17,0.22,0.22,0.21,0.22
+Garrett Mitchell,Cardinals,Home,6,Left,3.17,0.23,0.22,0.22,0.23
+Rhys Hoskins,Cardinals,Home,7,Right,3.17,0.15,0.22,0.17,0.18
+Sal Frelick,Cardinals,Home,8,Left,3.17,0.27,0.22,0.22,0.24
+Joey Ortiz,Cardinals,Home,9,Right,3.17,0.19,0.22,0.24,0.21
+Steven Kwan,Royals,Away,1,Left,2.83,0.2,0.25,0.24,0.23
+Andres Gimenez,Royals,Away,2,Left,2.83,0.21,0.25,0.26,0.24
+Jose Ramirez,Royals,Away,3,Both,2.83,0.22,0.24,0.27,0.24
+Josh Naylor,Royals,Away,4,Left,2.83,0.21,0.25,0.25,0.23
+Jhonkensy Noel,Royals,Away,5,Right,2.83,0.23,0.24,0.17,0.23
+Kyle Manzardo,Royals,Away,6,Left,2.83,0.3,0.25,0.31,0.27
+Lane Thomas,Royals,Away,7,Right,2.83,0.23,0.24,0.23,0.24
+Bo Naylor,Royals,Away,8,Left,2.83,0.22,0.25,0.29,0.24
+Brayan Rocchio,Royals,Away,9,Both,2.83,0.2,0.24,0.25,0.22
+Tommy Pham,Guardians,Home,1,Right,3.17,0.23,0.2,0.23,0.22
+Bobby Witt Jr,Guardians,Home,2,Right,3.17,0.29,0.2,0.22,0.24
+Michael Massey,Guardians,Home,3,Left,3.17,0.23,0.2,0.12,0.2
+Salvador Perez,Guardians,Home,4,Right,3.17,0.23,0.2,0.26,0.23
+Paul DeJong,Guardians,Home,5,Right,3.17,0.19,0.2,0.15,0.19
+MJ Melendez,Guardians,Home,6,Left,3.17,0.21,0.2,0.16,0.2
+Freddy Fermin,Guardians,Home,7,Right,3.17,0.28,0.2,0.32,0.25
+Maikel Garcia,Guardians,Home,8,Right,3.17,0.21,0.2,0.17,0.2
+Kyle Isbel,Guardians,Home,9,Left,3.17,0.22,0.2,0.18,0.21
+Isiah Kiner-Falefa,Cubs,Away,1,Right,3.17,0.23,0.23,0.14,0.22
+Bryan Reynolds,Cubs,Away,2,Both,3.17,0.25,0.23,0.26,0.25
+Nick Gonzales,Cubs,Away,3,Right,3.17,0.3,0.23,0.3,0.27
+Andrew McCutchen,Cubs,Away,4,Right,3.17,0.22,0.23,0.19,0.21
+Oneil Cruz,Cubs,Away,5,Left,3.17,0.25,0.23,0.24,0.24
+Connor Joe,Cubs,Away,6,Right,3.17,0.2,0.23,0.32,0.23
+Bryan De La Cruz,Cubs,Away,7,Right,3.17,0.21,0.23,0.26,0.23
+Jared Triolo,Cubs,Away,8,Right,3.17,0.19,0.23,0.28,0.22
+Henry Davis,Cubs,Away,9,Right,3.17,0.13,0.23,0.31,0.19
+Ian Happ,Pirates,Home,1,Both,nan,0.25,0.24,0.25,0.24
+Michael Busch,Pirates,Home,2,Left,nan,0.19,0.24,0.05,0.19
+Seiya Suzuki,Pirates,Home,3,Right,nan,0.23,0.24,0.28,0.24
+Cody Bellinger,Pirates,Home,4,Left,nan,0.21,0.24,0.22,0.22
+Isaac Paredes,Pirates,Home,5,Right,nan,0.17,0.24,0.09,0.19
+Nico Hoerner,Pirates,Home,6,Right,nan,0.23,0.24,0.21,0.23
+Dansby Swanson,Pirates,Home,7,Right,nan,0.22,0.24,0.29,0.24
+Pete Crow-Armstrong,Pirates,Home,8,Left,nan,0.22,0.24,0.29,0.24
+Miguel Amaya,Pirates,Home,9,Right,nan,0.28,0.24,0.23,0.26
+Gleyber Torres,Rangers,Away,1,Right,3.17,0.23,0.23,0.26,0.24
+Juan Soto,Rangers,Away,2,Left,3.17,0.21,0.23,0.15,0.2
+Aaron Judge,Rangers,Away,3,Right,3.17,0.24,0.23,0.25,0.24
+Austin Wells,Rangers,Away,4,Left,3.17,0.22,0.23,0.08,0.22
+Giancarlo Stanton,Rangers,Away,5,Right,3.17,0.21,0.23,0.27,0.23
+Jazz Chisholm Jr,Rangers,Away,6,Left,3.17,0.3,0.23,0.25,0.26
+Anthony Rizzo,Rangers,Away,7,Left,3.17,0.26,0.23,0.22,0.24
+Anthony Volpe,Rangers,Away,8,Right,3.17,0.26,0.23,0.11,0.23
+Alex Verdugo,Rangers,Away,9,Left,3.17,0.22,0.23,0.28,0.24
+Marcus Semien,Yankees,Home,1,Right,3.17,0.21,0.25,0.24,0.23
+Corey Seager,Yankees,Home,2,Left,3.17,0.27,0.24,0.33,0.27
+Josh Smith,Yankees,Home,3,Left,3.17,0.23,0.24,0.24,0.24
+Adolis Garcia,Yankees,Home,4,Right,3.17,0.19,0.25,0.24,0.22
+Nathaniel Lowe,Yankees,Home,5,Left,3.17,0.22,0.24,0.23,0.23
+Josh Jung,Yankees,Home,6,Right,3.17,0.28,0.25,0.33,0.27
+Wyatt Langford,Yankees,Home,7,Right,3.17,0.23,0.25,0.29,0.24
+Jonah Heim,Yankees,Home,8,Both,3.17,0.19,0.24,0.13,0.21
+Leody Taveras,Yankees,Home,9,Both,3.17,0.2,0.24,0.2,0.22
+Shohei Ohtani,Angels,Away,1,Left,3.83,0.26,0.2,0.36,0.24
+Mookie Betts,Angels,Away,2,Right,3.83,0.26,0.21,0.21,0.23
+Freddie Freeman,Angels,Away,3,Left,3.83,0.24,0.2,0.27,0.23
+Teoscar Hernandez,Angels,Away,4,Right,3.83,0.25,0.21,0.29,0.23
+Gavin Lux,Angels,Away,5,Left,3.83,0.22,0.2,0.17,0.21
+Will Smith,Angels,Away,6,Right,3.83,0.21,0.21,0.19,0.21
+Max Muncy,Angels,Away,7,Left,3.83,0.18,0.2,0.21,0.19
+Tommy Edman,Angels,Away,8,Both,3.83,0.27,0.2,0.23,0.24
+Miguel Rojas,Angels,Away,9,Right,3.83,0.3,0.21,0.2,0.25
+Taylor Ward,Dodgers,Home,1,Right,3.83,0.24,0.23,0.25,0.23
+Zach Neto,Dodgers,Home,2,Right,3.83,0.2,0.23,0.27,0.22
+Nolan Schanuel,Dodgers,Home,3,Left,3.83,0.19,0.22,0.25,0.21
+Anthony Rendon,Dodgers,Home,4,Right,3.83,0.16,0.23,0.31,0.21
+Mickey Moniak,Dodgers,Home,5,Left,3.83,0.24,0.22,0.11,0.22
+Logan O'Hoppe,Dodgers,Home,6,Right,3.83,0.23,0.23,0.29,0.23
+Brandon Drury,Dodgers,Home,7,Right,3.83,0.14,0.23,0.2,0.19
+Jo Adell,Dodgers,Home,8,Right,3.83,0.19,0.23,0.14,0.21
+Niko Kavadas,Dodgers,Home,9,Left,3.83,0.03,0.22,0.0,0.12
+Parker Meadows,Padres,Away,1,Left,nan,0.21,0.23,0.25,0.22
+Riley Greene,Padres,Away,2,Left,nan,0.21,0.23,0.13,0.21
+Matt Vierling,Padres,Away,3,Right,nan,0.25,0.23,0.19,0.24
+Kerry Carpenter,Padres,Away,4,Left,nan,0.25,0.23,0.29,0.24
+Colt Keith,Padres,Away,5,Left,nan,0.24,0.23,0.14,0.23
+Spencer Torkelson,Padres,Away,6,Right,nan,0.23,0.23,0.17,0.22
+Jace Jung,Padres,Away,7,Left,nan,0.18,0.23,0.0,0.2
+Trey Sweeney,Padres,Away,8,Left,nan,0.22,0.23,0.33,0.23
+Dillon Dingler,Padres,Away,9,Right,nan,0.16,0.23,0,0.19
+Fernando Tatis Jr,Tigers,Home,1,Right,nan,0.22,0.21,0.0,0.21
+Luis Arraez,Tigers,Home,2,Left,nan,0.29,0.2,0.2,0.24
+Jurickson Profar,Tigers,Home,3,Both,nan,0.2,0.21,0.2,0.2
+Manny Machado,Tigers,Home,4,Right,nan,0.26,0.21,0.14,0.23
+Jake Cronenworth,Tigers,Home,5,Left,nan,0.22,0.2,0.11,0.21
+Xander Bogaerts,Tigers,Home,6,Right,nan,0.22,0.21,0.31,0.23
+Jackson Merrill,Tigers,Home,7,Left,nan,0.26,0.2,0.67,0.23
+Kyle Higashioka,Tigers,Home,8,Right,nan,0.24,0.21,0.17,0.22
+Mason McCoy,Tigers,Home,9,Right,nan,0.28,0.21,0.67,0.25
+JP Crawford,Athletics,Away,1,Left,3.17,0.19,0.22,0.16,0.2
+Julio Rodriguez,Athletics,Away,2,Right,3.17,0.21,0.22,0.25,0.22
+Cal Raleigh,Athletics,Away,3,Both,3.17,0.18,0.22,0.25,0.2
+Randy Arozarena,Athletics,Away,4,Right,3.17,0.19,0.22,0.17,0.2
+Jorge Polanco,Athletics,Away,5,Both,3.17,0.15,0.22,0.11,0.18
+Justin Turner,Athletics,Away,6,Right,3.17,0.21,0.22,0.2,0.22
+Luis Urias,Athletics,Away,7,Right,3.17,0.16,0.22,0.14,0.19
+Mitch Garver,Athletics,Away,8,Right,3.17,0.15,0.22,0.15,0.18
+Victor Robles,Athletics,Away,9,Right,3.17,0.29,0.22,0.22,0.26
+Lawrence Butler,Mariners,Home,1,Left,3.17,0.28,0.2,0.3,0.25
+Brent Rooker,Mariners,Home,2,Right,3.17,0.26,0.19,0.2,0.22
+JJ Bleday,Mariners,Home,3,Left,3.17,0.22,0.2,0.22,0.21
+Shea Langeliers,Mariners,Home,4,Right,3.17,0.19,0.19,0.21,0.19
+Seth Brown,Mariners,Home,5,Left,3.17,0.24,0.2,0.14,0.2
+Zack Gelof,Mariners,Home,6,Right,3.17,0.19,0.19,0.24,0.2
+Tristan Gray,Mariners,Home,7,Left,3.17,0.0,0.2,0.0,0.1
+Max Schuemann,Mariners,Home,8,Right,3.17,0.18,0.19,0.09,0.18
+Jacob Wilson,Mariners,Home,9,Right,3.17,0.22,0.19,0.0,0.21
+Corbin Carroll,Giants,Away,1,Left,nan,0.24,0.22,0.24,0.23
+Jake McCarthy,Giants,Away,2,Left,nan,0.24,0.22,0.2,0.23
+Joc Pederson,Giants,Away,3,Left,nan,0.19,0.22,0.14,0.2
+Christian Walker,Giants,Away,4,Right,nan,0.23,0.22,0.25,0.23
+Pavin Smith,Giants,Away,5,Left,nan,0.2,0.22,0.14,0.2
+Adrian Del Castillo,Giants,Away,6,Left,nan,0.26,0.22,0.25,0.24
+Eugenio Suarez,Giants,Away,7,Right,nan,0.22,0.22,0.18,0.22
+Luis Guillorme,Giants,Away,8,Left,nan,0.16,0.22,0.12,0.19
+Geraldo Perdomo,Giants,Away,9,Both,nan,0.25,0.22,0.19,0.23
+Mike Yastrzemski,Diamondbacks,Home,1,Left,3.17,0.23,0.26,0.23,0.24
+Tyler Fitzgerald,Diamondbacks,Home,2,Right,3.17,0.24,0.26,0.12,0.25
+Heliot Ramos,Diamondbacks,Home,3,Right,3.17,0.25,0.26,0.42,0.26
+Michael Conforto,Diamondbacks,Home,4,Left,3.17,0.16,0.26,0.24,0.22
+Matt Chapman,Diamondbacks,Home,5,Right,3.17,0.22,0.26,0.25,0.24
+LaMonte Wade Jr,Diamondbacks,Home,6,Left,3.17,0.21,0.26,0.16,0.21
+Patrick Bailey,Diamondbacks,Home,7,Both,3.17,0.22,0.26,0.29,0.25
+Marco Luciano,Diamondbacks,Home,8,Right,3.17,0.27,0.26,0.25,0.27
+Grant McCray,Diamondbacks,Home,9,Left,3.17,0.17,0.26,0.5,0.22
