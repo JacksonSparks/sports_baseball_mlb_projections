@@ -370,8 +370,8 @@ def main():
         current_date += timedelta(days=1)
 
     if all_game_data:
-        save_to_csv('fi_gamelog.csv', all_game_data)
-        print("Scraped data saved to fi_gamelog.csv")
+        save_to_csv('mlb_fi_gamelog.csv', all_game_data)
+        print("Scraped data saved to mlb_fi_gamelog.csv")
     else:
         print("No data to save.")
 
