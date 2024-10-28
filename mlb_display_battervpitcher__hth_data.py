@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 def read_data():
     # Read the CSV file into a pandas DataFrame
-    data = pd.read_csv('batter_h_matchups_update.csv')
+    data = pd.read_csv('mlb_battervpitcher_hth_data_update.csv')
     return data
 
 def calculate_avg_color(value, min_val=0, max_val=0.5):
@@ -74,7 +74,7 @@ def display_data():
     table_data = [item for sublist in grouped_data for item in sublist]
 
     # Render HTML template with data
-    return render_template('display_battervpitcher_data.html', table_data=table_data, calculate_avg_color=calculate_avg_color)
+    return render_template('mlb_display_battervpitcher_data.html', table_data=table_data, calculate_avg_color=calculate_avg_color)
 
 if __name__ == '__main__':
     app.run(debug=True)
