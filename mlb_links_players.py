@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import csv
 import pandas as pd
 
-# Read the links_rosters.csv file
-roster_data = pd.read_csv('links_rosters.csv')
+# Read the mlb_links_teams.csv file
+roster_data = pd.read_csv('mlb_links_teams.csv')
 
 # User-Agent header to avoid getting blocked
 headers = {
@@ -116,8 +116,8 @@ def save_to_csv(filename, data):
 
 def main():
     # Save data to CSV and Excel files
-    save_to_csv('links_players.csv', data)
-    print("Data written to links_players.csv")
+    save_to_csv('mlb_links_players.csv', data)
+    print("Data written to mlb_links_players.csv")
 
 if __name__ == '__main__':
     main()
