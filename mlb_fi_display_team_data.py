@@ -70,7 +70,7 @@ def calculate_intra_total_color(value, min_val=-25, max_val=25):
 
 @app.route('/')
 def display_data():
-    team_data_df = pd.read_csv('fi_team_data.csv')
+    team_data_df = pd.read_csv('mlb_fi_team_data.csv')
     team_min_max = {col: calculate_min_max(team_data_df, col) for col in team_data_df.columns if col not in ['Name']}
 
     updated_data = []
@@ -261,7 +261,7 @@ def display_data():
             'YRSFI Streak': yrsfi_streak
         })
 
-    return render_template('fi_display_teams_data.html', updated_data=updated_data)
+    return render_template('mlb_fi_display_teams_data.html', updated_data=updated_data)
 
 if __name__ == '__main__':
     app.run(debug=True)
