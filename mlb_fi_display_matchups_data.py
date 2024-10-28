@@ -137,9 +137,9 @@ def calculate_streak_color(value):
 @app.route('/')
 def display_data():
     # Load data from the existing CSV files
-    matchups_df = pd.read_csv('matchups_data.csv')
-    team_data_df = pd.read_csv('fi_team_data.csv')
-    pitcher_data_df = pd.read_csv('fi_pitcher_data.csv')
+    matchups_df = pd.read_csv('mlb_pitcher_matchups.csv')
+    team_data_df = pd.read_csv('mlb_fi_team_data.csv')
+    pitcher_data_df = pd.read_csv('mlb_fi_pitcher_data.csv')
 
     # Calculate min and max values for relevant columns
     team_min_max = {
@@ -171,7 +171,7 @@ def display_data():
     # Prepare a list to store the updated rows
     updated_data = []
 
-    # Iterate over the rows in matchups_data.csv
+    # Iterate over the rows in mlb_pitcher_matchups.csv
     for _, row in matchups_df.iterrows():
         away_team = row['Away Team']
         home_team = row['Home Team']
@@ -619,7 +619,7 @@ def display_data():
     # Get the current date
     current_date = datetime.date.today().strftime("%B %d, %Y")
 
-    return render_template('fi_display_matchups_data.html', data=updated_data, date=current_date)
+    return render_template('mlb_fi_display_matchups_data.html', data=updated_data, date=current_date)
 
 if __name__ == '__main__':
     app.run(debug=True)
