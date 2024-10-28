@@ -283,9 +283,9 @@ def save_pitcher_counts_to_csv(filename, pitcher_counts):
             ])
 
 def main():
-    input_filename = 'fi_gamelog.csv'
-    team_output_filename = 'fi_team_data.csv'
-    pitcher_output_filename = 'fi_pitcher_data.csv'
+    input_filename = 'mlb_fi_gamelog.csv'
+    team_output_filename = 'mlb_fi_team_data.csv'
+    pitcher_output_filename = 'mlb_fi_pitcher_data.csv'
 
     team_counts, pitcher_counts = count_appearances(input_filename)
     save_team_counts_to_csv(team_output_filename, team_counts)
