@@ -103,12 +103,12 @@ def extract_pitcher_data(row, pitcher_min_max):
 
 @app.route('/')
 def display_data():
-    pitcher_data_df = pd.read_csv('fi_pitcher_data.csv')
+    pitcher_data_df = pd.read_csv('mlb_fi_pitcher_data.csv')
     pitcher_min_max = {col: calculate_min_max(pitcher_data_df, col) for col in pitcher_data_df.columns if col not in ['Name', 'Throw']}
 
     updated_data = [extract_pitcher_data(row, pitcher_min_max) for _, row in pitcher_data_df.iterrows()]
 
-    return render_template('fi_display_pitchers_data.html', updated_data=updated_data)
+    return render_template('mlb_fi_display_pitchers_data.html', updated_data=updated_data)
 
 if __name__ == '__main__':
     app.run(debug=True)
