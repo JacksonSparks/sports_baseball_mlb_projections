@@ -6,10 +6,10 @@ from bs4 import BeautifulSoup
 import random
 
 # Read the lineups_backup.csv file
-lineups_data = pd.read_csv('lineups.csv')
+lineups_data = pd.read_csv('mlb_lineups.csv')
 
-# Read the links_players.csv file
-player_links_data = pd.read_csv('links_players.csv')
+# Read the mlb_links_players.csv file
+player_links_data = pd.read_csv('mlb_links_players.csv')
 
 # Define Teams Id Numbers
 team_id_numbers = {
@@ -177,7 +177,7 @@ def main():
                     data_rows.append([full_name, away_pitcher_full_name, away_team_name, batter_location, batter_spot] + stats)
 
     # Writing collected data to a CSV file
-    with open('batter_h_matchups.csv', 'w', newline='', encoding='utf-8') as csvfile:
+    with open('mlb_battervpitcher_hth_data.csv', 'w', newline='', encoding='utf-8') as csvfile:
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(['Batter', 'Opposing Pitcher', 'Opposing Team', 'Batter Location', 'Batter Spot', 'AB', 'H', '2B', '3B', 'HR', 'RBI', 'BB', 'K', 'AVG', 'OBP', 'SLG', 'OPS'])
         csv_writer.writerows(data_rows)
