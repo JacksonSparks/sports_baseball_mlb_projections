@@ -81,8 +81,8 @@ def save_to_csv(filename, data):
 
 def main():
     # Save data to CSV and Excel files
-    save_to_csv('links_rosters.csv', data)
-    print("Data written to links_rosters.csv")
+    save_to_csv('mlb_links_teams.csv', data)
+    print("Data written to mlb_links_teams.csv")
 
 if __name__ == '__main__':
     main()
