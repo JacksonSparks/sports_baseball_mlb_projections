@@ -6,10 +6,10 @@ from bs4 import BeautifulSoup
 import random
 
 # Read the cold_hitters_data_update.csv file
-cold_hitters_data = pd.read_csv('batter_h_matchups_update.csv')
+cold_hitters_data = pd.read_csv('mlb_battervpitcher_hth_data_update.csv')
 
-# Read the links_players.csv file
-player_links_data = pd.read_csv('links_players.csv')
+# Read the mlb_links_players.csv file
+player_links_data = pd.read_csv('mlb_links_players.csv')
 
 # List of User-Agent strings
 user_agents = [
@@ -216,7 +216,7 @@ def main():
         ])
 
     # Writing collected data to a CSV file
-    with open('batter_pitcher_matchups_a.csv', 'w', newline='', encoding='utf-8') as csvfile:
+    with open('mlb_battervpitcher_hth_data_a.csv', 'w', newline='', encoding='utf-8') as csvfile:
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow([
             'Batter', 'Opposing Pitcher', 'Throw', 'Batter Location', 'Batter Spot',
