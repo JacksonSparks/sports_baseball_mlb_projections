@@ -6,13 +6,13 @@ from bs4 import BeautifulSoup
 import random
 
 # Read the lineups_backup.csv file
-lineups_data = pd.read_csv('lineups.csv')
+lineups_data = pd.read_csv('mlb_lineups.csv')
 
-# Read the links_players.csv file
-player_links_data = pd.read_csv('links_players.csv')
+# Read the mlb_links_players.csv file
+player_links_data = pd.read_csv('mlb_links_players.csv')
 
-# Read the fi_pitcher_data.csv file
-pitcher_data = pd.read_csv('fi_pitcher_data.csv')
+# Read the mlb_fi_pitcher_data.csv file
+pitcher_data = pd.read_csv('mlb_fi_pitcher_data.csv')
 
 # Define Teams Id Numbers
 team_id_numbers = {
@@ -135,8 +135,8 @@ def fetch_batter_vs_pitcher_table(url, opposing_pitcher_name):
         return []
 
 def main():
-    # Read the batter_h_matchups.csv file
-    data = pd.read_csv('batter_h_matchups.csv')
+    # Read the mlb_battervpitcher_hth_data.csv file
+    data = pd.read_csv('mlb_battervpitcher_hth_data.csv')
 
     # Add the 'Throw' column based on the 'Opposing Pitcher' column
     data['Throw'] = data['Opposing Pitcher'].apply(lambda x: pitcher_data[pitcher_data['Name'].apply(
@@ -153,7 +153,7 @@ def main():
     data = data[['Batter', 'Opposing Pitcher', 'Opposing Team', 'Throw', 'Batter Location', 'Batter Spot', 'AB', 'H', 'XBH', 'RBI', 'BB', 'K', 'AVG', 'OBP', 'SLG', 'OPS']]
 
     # Write the modified data to a new CSV file
-    data.to_csv('batter_h_matchups_update.csv', index=False)
+    data.to_csv('mlb_battervpitcher_hth_data_update.csv', index=False)
 
 if __name__ == '__main__':
     main()
