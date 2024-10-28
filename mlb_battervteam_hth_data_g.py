@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import random
 
 # Read the hitters_hot_update_first.csv file
-batter_team_matchups_data = pd.read_csv('batter_team_matchups_f.csv')
+batter_team_matchups_data = pd.read_csv('mlb_battervteam_hth_data_f.csv')
 
 
 def main():
@@ -95,7 +95,7 @@ def main():
         ])
 
     # Writing collected data to a CSV file
-    with open('batter_team_matchups_g.csv', 'w', newline='', encoding='utf-8') as csvfile:
+    with open('mlb_battervteam_hth_data_g.csv', 'w', newline='', encoding='utf-8') as csvfile:
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow([
             'Batter', 'Opposing Team', 'Batter Location', 'Batter Spot', 'Batting Orientation', 'T Pitching Outs',
