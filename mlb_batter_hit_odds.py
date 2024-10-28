@@ -98,8 +98,8 @@ def save_to_csv(filename, data):
 
 def main():
     # Save data to CSV
-    save_to_csv('batter_h_odds.csv', data)
-    print("Data written to batter_h_odds.csv")
+    save_to_csv('mlb_batter_hit_odds.csv', data)
+    print("Data written to mlb_batter_hit_odds.csv")
 
 if __name__ == '__main__':
     main()
