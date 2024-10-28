@@ -22,6 +22,9 @@ def replace_player_name(name):
     name = name.replace("Jazz Chisholm", "Jazz Chisholm Jr")
     name = name.replace("Yulieski Gurriel", "Yuli Gurriel")
     name = name.replace("Zachary DeLoach", "Zach DeLoach")
+    name = name.replace("Sam Aldegheri", "Samuel Aldegheri")
+    name = name.replace("DaShawn Keirsey", "DaShawn Keirsey Jr")
+    name = name.replace("Joseph Cantillo", "Joey Cantillo")
     return name
 
 
@@ -195,8 +198,8 @@ def save_backup_lineups():
     lineups_df = pd.DataFrame(backup_lineups)
 
     # Save the data to a CSV file
-    lineups_df.to_csv('lineups.csv', index=False)
-    print("Lineups saved to lineups.csv")
+    lineups_df.to_csv('mlb_lineups.csv', index=False)
+    print("Lineups saved to mlb_lineups.csv")
 
 if __name__ == "__main__":
     save_backup_lineups()
