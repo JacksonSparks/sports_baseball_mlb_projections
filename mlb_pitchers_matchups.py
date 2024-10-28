@@ -4,7 +4,7 @@ import csv
 import pandas as pd
 
 # URL of the website to scrape
-url = "https://www.mlb.com/probable-pitchers/2024-09-04"
+url = "https://www.mlb.com/probable-pitchers/2024-10-09"
 
 # Make a request to the website
 response = requests.get(url)
@@ -66,8 +66,8 @@ def save_to_csv(filename, data):
 
 def main():
     # Save data to CSV and Excel files
-    save_to_csv('matchups_data.csv', data)
-    print("Data written to matchups_data.csv")
+    save_to_csv('mlb_pitcher_matchups.csv', data)
+    print("Data written to mlb_pitcher_matchups.csv")
 
 if __name__ == '__main__':
     main()
