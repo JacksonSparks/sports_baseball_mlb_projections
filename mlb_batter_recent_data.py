@@ -1,28 +1,3 @@
-# import csv
-# from selenium import webdriver
-# from selenium.webdriver.chrome.service import Service
-# from webdriver_manager.chrome import ChromeDriverManager
-# from selenium.webdriver.common.by import By
-# from selenium.webdriver.support.ui import WebDriverWait
-# from selenium.webdriver.support import expected_conditions as EC
-#
-# # Prepare data for CSV
-# data = []
-# header = ['Player Name', 'Player AVG', 'Player AB']
-#
-# url = "https://www.fantasypros.com/mlb/stats/hitters.php?range=15"
-#
-# # Set up Selenium
-# options = webdriver.ChromeOptions()
-# options.add_argument('--headless')  # Run in headless mode
-# options.add_argument('--no-sandbox')
-# options.add_argument('--disable-dev-shm-usage')
-#
-# driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-#
-# # Open the URL
-# driver.get(url)
-
 import csv
 from selenium import webdriver
 import chromedriver_autoinstaller
@@ -120,8 +95,8 @@ def save_to_csv(filename, data):
 
 def main():
     # Save data to CSV
-    save_to_csv('batter_h_recent.csv', data)
-    print("Data written to batter_h_recent.csv")
+    save_to_csv('mlb_batter_recent_data.csv', data)
+    print("Data written to mlb_batter_recent_data.csv")
 
 if __name__ == '__main__':
     main()
