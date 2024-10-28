@@ -366,8 +366,8 @@ def update_csv_with_new_data(start_date, end_date, csv_filename):
             current_date += timedelta(days=1)
 
 if __name__ == "__main__":
-    start_date = "20240903"  # Example start date
-    end_date = "20240903"    # Example end date
-    csv_filename = "fi_gamelog.csv"  # The CSV file you want to update
+    start_date = "20241001"  # Example start date
+    end_date = "20241008"    # Example end date
+    csv_filename = "mlb_fi_gamelog.csv"  # The CSV file you want to update
 
     update_csv_with_new_data(start_date, end_date, csv_filename)
